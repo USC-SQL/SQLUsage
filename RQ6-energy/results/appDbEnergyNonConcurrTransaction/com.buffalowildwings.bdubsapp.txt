@@ -1,0 +1,67 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00133342445	1489614149575_266000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00174738945	1489614162932_759084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0039796587	1489614205059_1756250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0015452253999999996	1489614166896_1012459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0017442989000000001	1489614214517_1154000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0020948702999999996	1489614190911_1246917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.01598774785	1489614132487_1708042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	8.3626995E-4	1489614149573_270541	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0021069561	1489614149564_1345583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	9.912495E-4	1489614163201_659875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.5019430447999997	1489614131446_65534375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.004421953	1489614176177_1186292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0013897505	1489614163194_979625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00167837465	1489614216837_911708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0015464506	1489614163113_1028334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0026418245999999994	1489614149571_492167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.004566744250000001	1489614162926_1434792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00169255695	1489614193836_946458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.004278607750000001	1489614131516_364042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0027185775000000004	1489614234266_1758833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00457906255	1489614131514_388667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0041465853	1489614162852_922209	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00206124765	1489614149568_304416	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00109393535	1489614163198_664958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.004710052950000001	1489614139993_1629333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	9.312464E-4	1489614238069_1252417	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0284265379	1489614131633_2966917	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.032701702900000004	1489614131637_3479542	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.030291849350000007	1489614131629_3431125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007778506449999999	1489614131627_670000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004722968750000001	1489614131518_374584	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.032156388450000004	1489614131519_3964833	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012559524	1489614163203_989083	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016217931	1489614149576_311791	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010884061000000001	1489614163195_657083	false	select * from FandomCategory where ParentId=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018136708000000004	1489614190913_1068791	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00209941015	1489614162933_965333	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021432262000000003	1489614163115_1692959	false	select * from FandomCategory where CategoryId=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00100192775	1489614149574_424541	false	select * from FandomCategory where ParentId = -1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00110770335	1489614163199_760667	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033032851500000003	1489614139996_1111583	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00310387545	1489614234268_2180916	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.8790665E-4	1489614238071_910583	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	7.067131000000001E-4	1489614149566_358208	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0069405388500000005	1489614176180_1636167	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0064266589500000006	1489614131515_435084	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020686134500000003	1489614193838_1007417	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00298605125	1489614205066_1207042	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020268063500000007	1489614216839_1131417	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038677899	1489614162929_1205500	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017876877999999999	1489614214519_1044917	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020191685	1489614149572_347000	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0072504324	1489614132490_609542	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035994781499999995	1489614162853_875584	false	select * from FandomCategory where ParentId=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0077820781	1489614131512_606083	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0047145766	1489614131517_399625	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00206124765	1489614149568_359750	false	select * from Session
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010954486	1489614166898_761500	false	select * from Location order by DistanceRank ASC
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.013436209250000003	1489614131439_1275666	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00827935455	1489614131498_831916	false	create table UserCheckin (LocationId integer, RootCategory integer, UserSession integer,CoolDownUntil integer );
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00787572255	1489614131495_901542	false	create table LocationLeaderBoard (LeaderId integer, Rank integer, Name String, AbbrName String, Score integer, ParentId integer, LocationId integer, Zone3 String);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0093159074	1489614131489_896000	false	create table MenuCategories (CategoryId integer, LocationId integer, Name String, ImageURL String, Disclaimer String);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00849042835	1489614131493_912417	false	create table FandomCategory (CategoryId integer primary key, FullName String, Zone1 String, Zone2 String, Zone3 String, ParentId integer, FanItem integer );
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0076073578499999996	1489614131496_949958	false	create table LocationFeedPosts (LocationId integer, FirstName String, LastName String, FacebookId String, CategoryName String, Zone3 String, Timestamp integer, TopLevelId integer, Image BLOB );
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0117211565	1489614131488_1205500	false	create table Location (LocationId integer primary key, Latitude String, Longitude String, Name String, Address1 String, Address2 String, Hours String, Phone String,DistanceRank integer);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006726175050000001	1489614131491_760042	false	create table MenuItems (MenuId integer, LocationId integer, CategoryId integer, Name String, Price String, MenuDescription String);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008597941650000001	1489614131492_826709	false	create table Session (FacebookId String, FacebookToken String, NextTurfClaim integer, FacebookTokenExpiresAt integer, BWWToken String, BWWTokenExpiresAt integer, WingFavorite integer, BeerFavorite integer, SportFavorite integer, IsAtLocation integer );

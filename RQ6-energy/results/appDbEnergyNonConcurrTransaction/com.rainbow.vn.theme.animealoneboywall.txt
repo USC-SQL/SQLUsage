@@ -1,0 +1,12 @@
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.006415882100000001	1491114569849_896458	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0058016132500000005	1491114535465_744625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.25736120169999993	1491114535467_45780875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0449959192	1491114569850_8758208	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00664998615	1491114569860_837333	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0061394367	1491114535514_809417	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0236662168	1491114534506_5356833	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.014006937700000003	1491114568921_2459750	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010094866500000002	1491114535499_1411792	false	CREATE TABLE appthemes (_id INTEGER PRIMARY KEY,APP_NAME TEXT,PACKAGE_NAME TEXT,TEMP_PACKAGE_NAME TEXT,TYPE INTEGER,URL_BANNER TEXT);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0126398363	1491114535501_1819875	false	CREATE TABLE rbthemes (_id INTEGER PRIMARY KEY,PACKAGE_NAME TEXT,TEMP_PACKAGE_NAME TEXT,SIZE_WALLPAPER INTEGER,STATE_APPLY INTEGER,APP_NAME TEXT,RATE INTEGER,WALLAPER TEXT);
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0069457418	1491114535464_958250	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0067483983	1491114569847_871167	false	null

@@ -1,0 +1,48 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0035947915500000004	1489098323439_750083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.001838154283333334	1489098323692_474708	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.010995756750000005	1489098323686_10861708	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	7.34130766666667E-4	1489098323685_633500	true	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.002420941525	1489098323552_366541	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031306841	1489098323553_577666	false	PRAGMA encoding="UTF-8";
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010145036574999999	1489098323519_2734167	false	CREATE TABLE api_keys (_id INTEGER PRIMARY KEY AUTOINCREMENT, api_key TEXT UNIQUE NOT NULL, uuid TEXT UNIQUE NOT NULL, created_time INTEGER NOT NULL CHECK (created_time >= 0), opt_out INTEGER NOT NULL CHECK(opt_out IN (0, 1)));
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004830122650000001	1489098323532_1021708	false	CREATE TABLE attributes (_id INTEGER PRIMARY KEY AUTOINCREMENT, events_key_ref INTEGER REFERENCES events(_id) NOT NULL, attribute_key TEXT NOT NULL, attribute_value TEXT NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.020992956750000014	1489098323535_6591959	false	CREATE TABLE upload_blob_events (_id INTEGER PRIMARY KEY AUTOINCREMENT, upload_blobs_key_ref INTEGER REFERENCES upload_blobs(_id) NOT NULL, events_key_ref INTEGER REFERENCES events(_id) NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004323969625	1489098323542_837708	false	CREATE TABLE info (_id INTEGER PRIMARY KEY AUTOINCREMENT, fb_attribution TEXT, play_attribution TEXT, first_run INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005245578600000002	1489098323529_1375167	false	CREATE TABLE IF NOT EXISTS uploads_table( u_id INTEGER PRIMARY KEY AUTOINCREMENT, u_receipt_id INTEGER NOT NULL UNIQUE, u_response_status INTEGER NOT NULL, u_fail_count INTEGER NOT NULL DEFAULT 1, FOREIGN KEY(u_receipt_id) REFERENCES receipts_table(r_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004685150700000001	1489098323567_579084	false	PRAGMA foreign_keys = ON;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004725819475000001	1489098323546_1010500	false	CREATE TABLE identifiers (_id INTEGER PRIMARY KEY AUTOINCREMENT, key TEXT UNIQUE NOT NULL, value TEXT NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0049629792	1489098323527_1268500	false	CREATE TABLE events (_id INTEGER PRIMARY KEY AUTOINCREMENT, session_key_ref INTEGER REFERENCES sessions(_id) NOT NULL, uuid TEXT UNIQUE NOT NULL, event_name TEXT NOT NULL, real_time INTEGER NOT NULL CHECK (real_time >= 0), wall_time INTEGER NOT NULL CHECK (wall_time >= 0), clv_increase INTEGER NOT NULL DEFAULT 0);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002967292375	1489098323552_548458	false	PRAGMA foreign_keys = ON;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006330906850000002	1489098323529_1436209	false	CREATE TABLE IF NOT EXISTS uploads_table( u_id INTEGER PRIMARY KEY AUTOINCREMENT, u_receipt_id INTEGER NOT NULL UNIQUE, u_response_status INTEGER NOT NULL, u_fail_count INTEGER NOT NULL DEFAULT 1, FOREIGN KEY(u_receipt_id) REFERENCES receipts_table(r_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004299135249999999	1489098323533_856875	false	CREATE TABLE upload_blobs (_id INTEGER PRIMARY KEY AUTOINCREMENT, uuid TEXT UNIQUE NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008773258249999999	1489098323523_2202000	false	CREATE TABLE sessions (_id INTEGER PRIMARY KEY AUTOINCREMENT, api_key_ref INTEGER REFERENCES api_keys(_id) NOT NULL, uuid TEXT UNIQUE NOT NULL, session_start_wall_time INTEGER NOT NULL CHECK (session_start_wall_time >= 0), localytics_library_version TEXT NOT NULL, iu TEXT NOT NULL, app_version TEXT NOT NULL, android_version INTEGER NOT NULL, android_sdk TEXT NOT NULL, device_model TEXT NOT NULL, device_manufacturer TEXT NOT NULL, device_android_id_hash TEXT NOT NULL, device_telephony_id TEXT, device_telephony_id_hash TEXT, device_serial_number_hash TEXT, device_wifi_mac_hash TEXT, locale_language TEXT NOT NULL, locale_country TEXT NOT NULL, network_carrier TEXT, network_country TEXT, network_type TEXT, device_country TEXT, latitude TEXT, longitude TEXT);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006940048925000003	1489098323526_1609334	false	CREATE TABLE IF NOT EXISTS receipts_table( r_id INTEGER PRIMARY KEY AUTOINCREMENT, r_json BLOB NOT NULL, r_is_free INTEGER NOT NULL DEFAULT 1 )
+android.database.sqlite.SQLiteQueryBuilder: void appendWhere(java.lang.CharSequence)	5.551340499999999E-4	1489098323688_391000	true	null
+android.database.sqlite.SQLiteQueryBuilder: void appendWhere(java.lang.CharSequence)	0.002764754433333334	1489098323691_873667	true	null
+android.database.sqlite.SQLiteQueryBuilder: void appendWhere(java.lang.CharSequence)	5.794947666666666E-4	1489098323687_356667	true	null
+android.database.sqlite.SQLiteQueryBuilder: void appendWhere(java.lang.CharSequence)	0.005853495025000002	1489098323559_1268583	false	null
+android.database.sqlite.SQLiteQueryBuilder: void appendWhere(java.lang.CharSequence)	0.0021294756999999994	1489098323689_572083	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0037156130999999996	1489098323557_758333	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0010630858000000001	1489098323686_427500	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0010630858000000001	1489098323686_423750	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.002880279875	1489098323438_506792	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.00471681685	1489098323570_1144584	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0032642136	1489098323664_446458	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.00266944465	1489098323569_447750	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0015187185000000002	1489098323565_580334	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011050445	1489098323681_884875	true	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.004646629049999998	1489098323544_839167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.2944600203750006	1489098323484_69960750	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004158206975	1489098323441_858125	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0023691952166666665	1489098323693_883667	true	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0010028856000000002	1489098323665_534708	true	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.003434695950000001	1489098323566_750875	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0047946237	1489098323561_1150375	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.0027735299750000003	1489098323551_539792	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0031047393250000005	1489098323484_541708	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.004286752225000001	1489098323556_614250	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	4.8250456666666674E-4	1489098323685_481500	true	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.006757580375	1489098323435_1923458	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.00292052655	1489098323568_425958	false	PRAGMA foreign_keys = ON;
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	7.136068500000002E-4	1489098323663_393708	true	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.002801450350000001	1489098323564_498375	false	null

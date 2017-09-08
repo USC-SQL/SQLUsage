@@ -1,0 +1,10 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00807122425	1489022264578_681875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.011705729250000001	1489022264555_1065167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0071315675	1489022264603_654709	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.9118124124499996	1489022264482_117786584	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0093571439	1489022264600_855792	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0067457123	1489022264604_719583	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.02191617425	1489022264414_2718541	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.00774820895	1489022264549_621458	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.11224950265000003	1489022264583_15549667	false	CREATE TABLE IF NOT EXISTS properties ( app_uid INTEGER NOT NULL, cid TEXT NOT NULL, tid TEXT NOT NULL, params TEXT NOT NULL, adid INTEGER NOT NULL, hits_count INTEGER NOT NULL, PRIMARY KEY (app_uid, cid, tid)) ;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.14341732934999993	1489022264558_19366417	false	CREATE TABLE IF NOT EXISTS hits2 ( 'hit_id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, 'hit_time' INTEGER NOT NULL, 'hit_url' TEXT NOT NULL, 'hit_string' TEXT NOT NULL, 'hit_app_id' INTEGER);

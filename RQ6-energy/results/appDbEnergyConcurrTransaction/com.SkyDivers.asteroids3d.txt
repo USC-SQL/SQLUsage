@@ -1,0 +1,9 @@
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.053799893700000004	1491120780894_16184041	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.010637810874999992	1491120806654_5725416	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020242444500000005	1491120806657_593250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0016451751250000004	1491120806655_554792	true	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.008181294875	1491120806663_3289875	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0021493866	1491120806656_559000	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023421070749999997	1491120806661_788292	true	SELECT  * FROM installedItem
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0028167026000000006	1491120806653_1222583	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.002931241399999999	1491120806653_787917	true	null

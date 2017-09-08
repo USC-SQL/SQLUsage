@@ -1,0 +1,9 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00203478675	1489615218811_1043083	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0023962155999999995	1489615218837_735708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.13348568824999998	1489615218764_73076958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0011769324500000003	1489615218839_385959	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.0016772765	1489615218840_710583	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0019317490999999998	1489615218842_857833	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0062349695499999995	1489615218756_3655792	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.00164683735	1489615218807_759458	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03930603764999999	1489615218814_21523083	false	CREATE TABLE IF NOT EXISTS datalayer ( 'ID' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, 'key' STRING NOT NULL, 'value' BLOB NOT NULL, 'expires' INTEGER NOT NULL);

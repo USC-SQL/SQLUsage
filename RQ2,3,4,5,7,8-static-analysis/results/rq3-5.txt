@@ -1,0 +1,49 @@
+--------------RQ 3---------------
+Percentage of queries that can be parsed:27418/29715=92.0%
+Number of different types of queries:
+API rawQuery:{drop=1, select=14559, vacuum=0, replace=0, commit=0, create=0, insert=3, update=13, end=0, delete=9, pragma=71, alter=0}
+SELECT query percentage:99%
+
+API execSQL:{drop=2034, select=5, vacuum=21, replace=7, commit=0, create=3901, insert=3813, update=617, end=0, delete=406, pragma=117, alter=1319}
+Query percentage (Fig. 1):DROP:17.0% SELECT:0.0% VACUUM:0.0% REPLACE:0.0% COMMIT:0.0% CREATE:32.0% INSERT:31.0% UPDATE:5.0% END:0.0% DELETE:3.0% PRAGMA:1.0% ALTER:11.0% 
+
+API compileStatement:{drop=2, select=136, vacuum=1, replace=1, commit=0, create=4, insert=221, update=74, end=0, delete=78, pragma=0, alter=5}
+Major query percentage:INSERT:42.0% SELECT:26.0% DELETE:15.0% UPDATE:14.0% 
+
+String values represent multiple queries appear in 44 apps and 141 instances
+Percentage of instances whose semantics could be safely discarded:73%
+New rank in decending order: SELECT, INSERT, getWritableDatabase, endTransaction, CREATE, close, DELETE, UPDATE, getReadableDatabase, DROP
+
+Violation of the first best practice (INSERT, UPDATE, DELTE query percentage in total):39%
+
+Violation of the second best practice (Number of instances and percentage): 5 instances 0.018236195200233424%
+
+Violation of the third best practice: 44 apps and 141 instances
+
+Percentage of instances whose semantics could be safely discarded:73%
+
+--------------RQ 4---------------
+Fig. 2
+API rawQuery: Parameterized:9% Hard Coded:6% Parameterizable:2% Others:81%
+API execSQL_UnPara: Parameterized:0% Hard Coded:53% Parameterizable:3% Others:42%
+API execSQL_Para: Parameterized:82% Hard Coded:0% Parameterizable:0% Others:17%
+API compileStatament: Parameterized:48% Hard Coded:25% Parameterizable:1% Others:24%
+
+Num of parameterizable apps:96 Percentage over apps that use SQLite:16%
+Num of parameterizable statement instances:905
+Percentage of parameterizable statements by types:
+Select:3.0%
+Insert:7.0%
+Update:33.0%
+Delete:1.0%
+Replace:0.0%
+
+--------------RQ 5---------------
+Concat tainted in 50 apps (9.0%) and 491 instances
+Percentage of tainted queries executed by API rawQuery:57.0% execSQL_UnPara:41.0% execSQL_Para:2.0% compileStatement:0.0%
+Fig. 3
+Number of tainted queries executed by API
+rawQuery:213 Fixable percentage:16.0%
+execSQL_UnPara:151 Fixable percentage:58.0%
+execSQL_Para:7 Fixable percentage:29.0%
+compile:0 Fixable percentage:NA

@@ -1,0 +1,70 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.019866152025	1491000923423_5599959	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0262905774	1491000923554_5408458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.017418928500000014	1491000930032_9637208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.016088703525000005	1491000956442_5495125	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00420188345	1491000930335_583792	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.008722149550000002	1491000923432_2452333	false	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=4
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.005121024875	1491000930042_1323209	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.0030170732749999997	1491000930034_1384583	false	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=6
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.013436348474999988	1491000930042_7932500	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.008777966725	1491000923425_2151791	false	select * from challengeSports where challengeIdFk=4
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.005107560400000001	1491000930037_1416584	false	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=6 order by rank
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.007942342275000003	1491000923560_1441250	false	select * from uncreatedChallenges ORDER BY idPk DESC LIMIT 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.009981833800000001	1491000923431_2333792	false	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=4
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.004528419950000001	1491000956442_1114833	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQueryWithFactory(android.database.sqlite.SQLiteDatabase$CursorFactory,java.lang.String,java.lang.String[],java.lang.String)	0.004782257124999999	1491000923563_1390125	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0033799374999999997	1491000930350_515083	true	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0031089633999999994	1491000930328_1607750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.006530852949999999	1491000923438_1350125	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00365084355	1491000930333_783375	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005122520200000001	1491000802605_1046083	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004172391750000001	1491000787879_767667	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002934428075000001	1491000930337_434666	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0014961976999999997	1491000930342_361292	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.002826721375000001	1491000930339_784875	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012753634799999997	1491000930329_4150083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0022460772500000003	1491000930341_449834	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034346894000000005	1491000802604_756791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014333433000000002	1491000930328_405750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027116980000000002	1491000930334_401541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0017259623500000005	1491000930343_404541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0019888463749999996	1491000930338_500375	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004554323425	1491000930332_801625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.028816370075000007	1491000949889_3258166	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00279162125	1491000930336_402584	true	null
+android.database.sqlite.SQLiteCursor: void close()	0.003961383175000001	1491000923437_703542	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.003323645225	1491000923563_483875	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.0024698553749999993	1491000930040_611375	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.0019024070500000005	1491000930033_453667	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.00716846305	1491000923436_662708	false	null
+android.database.sqlite.SQLiteCursor: void close()	8.060863999999994E-4	1491000930045_1272583	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.004153516625000001	1491000956445_813500	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.002541122199999999	1491000930037_428125	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.009234148475000002	1491000923423_1325917	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.03951132119999998	1491000923556_6297458	false	null
+android.database.sqlite.SQLiteCursor: void close()	0.0027359920499999994	1491000930054_792667	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004248645474999999	1491000930343_2493667	true	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.00240341065	1491000930052_737500	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.0033332046499999998	1491000956444_519458	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.006999874674999999	1491000923555_1103417	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.007042921475000002	1491000923562_943208	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.0017787514	1491000930043_746708	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.006912933624999999	1491000923434_1230500	false	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=4
+android.database.sqlite.SQLiteCursor: int getCount()	0.002306397175	1491000930032_740125	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.0023347533250000006	1491000930036_637041	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.002531824475	1491000930039_630625	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.008436308575	1491000923421_1265917	false	null
+android.database.sqlite.SQLiteCursor: int getCount()	0.007154354150000001	1491000923565_1296958	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.0031389265749999992	1491000923561_358542	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.002828807000000001	1491000956442_336084	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.003731828475	1491000923432_656541	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.0042894673000000005	1491000923553_446875	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.0023800501	1491000930042_380042	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.0020073242	1491000930038_353584	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.0030914625	1491000923439_587917	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.003542796725000001	1491000923426_521042	false	null
+android.database.sqlite.SQLiteCursor: void <init>(android.database.sqlite.SQLiteDatabase,android.database.sqlite.SQLiteCursorDriver,java.lang.String,android.database.sqlite.SQLiteQuery)	0.0015022046999999998	1491000930035_376167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004205594400000001	1491000956441_319500	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.005346736125	1491000930029_1579584	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.006838131800000001	1491000923553_408042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.011138698950000003	1491000930346_3137125	true	null

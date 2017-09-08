@@ -1,0 +1,8 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.005141048150000001	1491079994981_790584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00609596075	1491079994866_684208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.19254132710000005	1491079994817_31955250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00867975845	1491079994871_1085666	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006957044100000001	1491079994867_994042	false	SELECT id FROM UpdateConf ORDER BY id DESC LIMIT 1;
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0066776590999999995	1491079994815_980125	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.08243878170000003	1491079994850_14756834	false	CREATE TABLE  IF NOT EXISTS UpdateConf (id INTEGER PRIMARY KEY AUTOINCREMENT, json TEXT NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.06367117970000001	1491079994873_10418166	false	INSERT INTO UpdateConf (id,json) VALUES (?,?);

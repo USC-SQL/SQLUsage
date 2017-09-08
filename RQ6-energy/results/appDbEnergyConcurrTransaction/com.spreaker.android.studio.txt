@@ -1,0 +1,2 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	6.759989E-4	1489185985567_673292	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002494121975000001	1489185849889_496042	true	SELECT * FROM queued_jobs WHERE queue_name = ? ORDER BY created_at ASC

@@ -1,0 +1,11 @@
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.020925815899999995	1489706228477_7113333	false	null
+android.database.sqlite.SQLiteStatement: void execute()	0.07890511110000001	1489706228148_20117708	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0044675456	1489706227910_841292	false	INSERT INTO HITS (URL, TIMESTAMP) VALUES (?, ?)
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.008960942050000002	1489706227924_2072292	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.008520640900000001	1489706228174_1486750	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.00514396605	1489706228485_1536875	false	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.0042439702499999996	1489706228146_773750	false	null
+android.database.sqlite.SQLiteProgram: void clearBindings()	0.0028101531500000004	1489706228168_483750	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.005135929900000001	1489706228144_802875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory)	0.16597221825000008	1489706227853_41334833	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.05328535685000001	1489706227895_13573250	false	CREATE TABLE IF NOT EXISTS HITS (ID INTEGER PRIMARY KEY AUTOINCREMENT, URL TEXT, TIMESTAMP INTEGER)

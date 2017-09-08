@@ -1,0 +1,18 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004187821899999999	1491113113058_823458	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00567883815	1491113112086_1057333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00435297255	1491113112093_603541	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0049271163	1491113112089_971250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.004266037150000001	1491113112097_648458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.22878960267499981	1491113112023_63346750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0034016898999999997	1491113112101_554292	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.004892689774999999	1491113113056_1094417	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004809907025000001	1491113112087_746291	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0049033220249999985	1491113112099_944625	false	SELECT (area) FROM areas;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005048675725	1491113112095_1000916	false	SELECT * FROM areas;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0061779591000000016	1491113112091_1367375	false	SELECT (distance) FROM distances;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0039444886499999995	1491113112102_648042	false	SELECT * FROM groups;
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0036455090249999994	1491113112082_620333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004112292550000001	1491113113060_862542	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005676801025	1491113112071_1190292	false	CREATE TABLE distances(id INTEGER PRIMARY KEY,name VARCHAR,group_id INTEGER,coordinates VARCHAR,distance REAL,unique_id VARCHAR)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0043139254500000005	1491113112073_723625	false	CREATE TABLE groups(id INTEGER PRIMARY KEY,name VARCHAR,color VARCHAR)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0073991227249999994	1491113112068_1741708	false	CREATE TABLE areas(id INTEGER PRIMARY KEY,name VARCHAR,group_id INTEGER,coordinates VARCHAR,perimeter REAL,area REAL,unique_id VARCHAR)

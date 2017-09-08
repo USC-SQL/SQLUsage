@@ -1,0 +1,9 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0014926256999999998	1491025340336_521916	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.6691415E-4	1491025340338_398292	false	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.002607471325	1491025340334_818750	false	null
+android.database.sqlite.SQLiteStatement: void execute()	0.0021743533	1491025334717_725708	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.004968252025	1491025324564_1018042	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.0019174410000000004	1491025334717_877250	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.006891004650000001	1491025340330_3484125	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.0013987388749999996	1491025340335_367750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014399430500000004	1491025340339_777750	false	null

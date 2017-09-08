@@ -1,0 +1,714 @@
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0027721245750000007	1489009680611_368500	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.008856554199999998	1489009680620_1893167	true	REPLACE INTO "weather_table" VALUES(101111001,'铜川',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.09305963373416681	1489009680181_32322333	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.005226652949999999	1489009679793_624417	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.006559765350000002	1489009680306_915125	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.011334328725000002	1489009680671_1918875	true	REPLACE INTO "weather_table" VALUES(101121601,'莱芜',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.03476458392500001	1489009683049_30156000	true	REPLACE INTO "weather_table" VALUES(101080510,'高力板',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.06704041237500005	1489009682665_32415458	true	REPLACE INTO "weather_table" VALUES(101060504,'辉南',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.09656647012500004	1489009682295_28810875	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.004879173966666666	1489009680052_727167	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.051983081975000026	1489009682459_14697792	true	REPLACE INTO "weather_table" VALUES(101050503,'安达',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.02318889804999999	1489009683309_17530833	true	REPLACE INTO "weather_table" VALUES(101080907,'苏右旗',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0037826216500000003	1489009680222_498375	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.013339015124999996	1489009680649_1903625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.004233623516666667	1489009680038_646375	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.07893911512499999	1489009683830_46002167	false	REPLACE INTO "weather_table" VALUES(101090911,'广宗',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.010509271908333341	1489009913147_16838375	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.011372404374999999	1489009684669_3294833	false	REPLACE INTO "weather_table" VALUES(101120106,'济阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.01661858567499999	1489009913219_12224833	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.011899937774999998	1489009913207_8532625	false	null
+android.database.sqlite.SQLiteDatabase: void setVersion(int)	0.012938416199999995	1489009679830_3513542	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.016844593283333344	1489009682275_6601917	true	REPLACE INTO "weather_table" VALUES(20069923,'Seoul',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0041252856	1489009680645_597209	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.004134688425	1489009680635_557875	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005531500150000002	1489009680655_755750	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005452984624999999	1489009679764_653834	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.003977469250000001	1489009680616_679750	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0030731763500000007	1489009682452_614958	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0011034319499999999	1489009683042_469375	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005603861275000001	1489009680626_645166	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0019411926499999998	1489009682865_464209	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005107355200000001	1489009680666_775208	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.003180361900000001	1489009680219_892750	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.028840962779166684	1489009679699_11263375	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0011102149499999997	1489009683301_565917	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.008708151500000002	1489009680297_1265375	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.002200569825	1489009682649_617292	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005024281225	1489009680608_844375	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.004909345083333334	1489009680039_848917	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0014665965749999998	1489009682662_311709	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.003954554	1489009680670_450375	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0029276092250000003	1489009680610_293375	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.016643692525000007	1489009679788_3356625	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0043806372	1489009680648_464625	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	8.964209499999999E-4	1489009683049_288000	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00288997235	1489009680620_344875	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00110460565	1489009682871_274292	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.003032222825	1489009680629_295792	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0034887867000000005	1489009682294_445167	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.004767309250000001	1489009680180_482042	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.014372247583333332	1489009680044_4366750	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00119702455	1489009680221_424541	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00487204335	1489009680638_323916	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.002212605225	1489009682459_282000	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.005288134575000002	1489009680304_742000	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	9.857199999999998E-4	1489009683308_340084	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00342993445	1489009680658_366375	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004173301166666666	1489009679837_723916	true	select id, value from runtime order by id
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0036860180249999996	1489009680624_470708	false	select * from mxquickdial where deleted=0 AND language = 'en'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005318649125000001	1489009682038_1118291	false	select * from mxquickdial where deleted=0 AND language = 'en'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006582922150000003	1489009679855_1044000	true	select id, value from config order by id
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0032112970750000007	1489009683876_538958	false	select id, value from config order by id
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004552317533333334	1489009679834_799833	true	select value from runtime where id=25
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005188254975000001	1489009679847_693417	true	select id,data,type,time from ral
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004979165400000001	1489009680643_657167	false	select * from mxquickdial where deleted=0 AND language = 'en'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0050848808749999995	1489009681447_645958	false	select * from mxquickdial where deleted=0 AND language = 'en'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005774875600000001	1489009681644_943125	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037588652500000004	1489009680634_554583	false	select * from mxquickdial where deleted=0 AND language = 'en'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007457016050000003	1489009679850_1153458	true	select * from ca order by pkgname
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004927963625	1489009681232_651292	false	REPLACE INTO "weather_table" VALUES(101220701,'宿州',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030945840500000003	1489009681860_636250	false	select * from mxquickdial where deleted=0 AND language = 'en'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003287581425	1489009682325_449750	false	select * from mxquickdial where deleted=0 AND language = 'en'
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.002899987075	1489009682866_1012000	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004222391175	1489009682335_708708	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006683472449999998	1489009681461_1052542	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0020730382	1489009682867_454500	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.034119304474999994	1489009919172_10481333	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00638412125	1489009681238_1158208	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00441937135	1489009682328_721792	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.002767301875	1489009682455_416500	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0024142881	1489009683043_1172458	true	REPLACE INTO "weather_table" VALUES(101080508,'奈曼',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.026536305525000012	1489009914314_16834500	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.005661519049999999	1489009681664_1360041	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.009158584499999994	1489009914755_6978791	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.009793108283333334	1489009913190_14094500	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.02003354310000001	1489009914193_11446583	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0042111744999999996	1489009681864_896542	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0015884812000000002	1489009682868_462334	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.010173803775000004	1489009914042_5029084	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0011145693	1489009682869_383000	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0010960232999999999	1489009683045_522917	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.003064889175000001	1489009682057_636083	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.013026521775000003	1489009681657_1766667	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004869986949999999	1489009682051_1182375	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0034304395750000003	1489009682059_711542	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.001996593625	1489009683301_1307167	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.009267738775	1489009681469_1219667	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0014969483000000002	1489009682870_425375	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0051962296750000005	1489009681241_642750	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.007195786250000002	1489009681888_2066250	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.005960967533333334	1489009913151_11255458	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0052530866	1489009682337_683000	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0011010506	1489009683046_463459	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006746154075000002	1489009914722_5878542	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.005200242250000001	1489009681467_682834	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.001105230325	1489009683048_561750	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0064965050499999994	1489009681242_700334	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.03990617272500001	1489009682022_12012709	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.029476341524999998	1489009914732_20095000	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0019458225750000001	1489009682660_558917	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0022669321999999998	1489009683303_706667	true	REPLACE INTO "weather_table" VALUES(101080904,'阿巴嘎',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0010811046500000003	1489009683305_434042	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006918323525000001	1489009914062_3792208	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.009210432025000003	1489009914188_6039708	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004899303874999999	1489009682047_1063167	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.02862740305000001	1489009914334_11181250	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0043041856	1489009681650_1269250	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004916223925000001	1489009682284_907083	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.005561905150000003	1489009682293_1002500	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.007766197000000001	1489009681893_1760125	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0018309422000000002	1489009682659_525750	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.08286242452499994	1489009681210_18055292	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0014969483000000002	1489009682870_433333	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.008262425900000009	1489009914301_4836000	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.009078824575000002	1489009682287_1869709	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0050662533250000015	1489009682333_826167	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.11662515647500006	1489009681612_23167417	false	REPLACE INTO "weather_table" VALUES(101280101,'广州',0,1,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004859081200000002	1489009682055_1117917	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.009927590191666676	1489009913199_15091000	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006287149674999999	1489009681874_1835875	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004768146575000002	1489009682286_734958	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.007652992758333338	1489009913123_10810291	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.011148287724999997	1489009681880_2242875	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00911188285	1489009682290_2054458	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.025793813541666672	1489009914169_16781416	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.06864864326666659	1489009682258_22956250	false	REPLACE INTO "weather_table" VALUES(12597155,'Paris',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0011556461750000001	1489009683307_514334	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004484701375	1489009682330_619500	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004833694699999998	1489009682044_1274458	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	8.651460000000002E-4	1489009683304_384333	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.005749823525000002	1489009681661_1184833	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0028699269999999995	1489009682456_497125	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.001863559725	1489009682661_526292	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.004363128	1489009681869_1027375	false	REPLACE INTO "weather_table" VALUES(101310216,'陵水',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00640880965	1489009681236_980709	false	REPLACE INTO "weather_table" VALUES(101220701,'宿州',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006260148325000003	1489009681450_907208	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0054017981500000005	1489009681653_1493334	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0015851410750000005	1489009682653_387584	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.008262810875000002	1489009681465_803000	false	REPLACE INTO "weather_table" VALUES(101260101,'贵阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0026283754500000004	1489009682457_582709	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0026802294249999993	1489009682454_508583	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00497885725	1489009681668_1396375	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0010941342	1489009683044_477958	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.01851990185000001	1489009920509_10722209	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.003518143075	1489009682650_1272917	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0084495733	1489009914160_5307750	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.008121591966666668	1489009913130_12042875	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.005549051399999999	1489009681247_682042	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.009547060250000003	1489009681456_1631416	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.16653119869999994	1489009681400_34934750	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.007461983649999998	1489009682282_1538833	true	REPLACE INTO "weather_table" VALUES(20070568,'Taipei',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0043419099	1489009916598_3776916	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006053048400000001	1489009681244_902416	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00109280525	1489009683047_548958	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016531447900000003	1489009684866_3704583	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006195347774999999	1489009688326_2563792	false	REPLACE INTO "weather_table" VALUES(101240202,'瑞昌',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007335036025000001	1489009680096_1138792	true	CREATE TABLE IF NOT EXISTS history (_id INTEGER PRIMARY KEY,title TEXT,url TEXT,visits INTEGER,last_visit LONG,status INTEGER DEFAULT 0, favicon BLOB DEFAULT NULL, add_to_qa INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012575637250000011	1489009682454_4295750	true	REPLACE INTO "weather_table" VALUES(101050502,'肇东',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014568638275000002	1489009680656_2404333	true	REPLACE INTO "weather_table" VALUES(101121201,'东营',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03772737804999998	1489009680367_5827125	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00415527425	1489009683832_2432834	false	REPLACE INTO "weather_table" VALUES(101090912,'平乡',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0060531599000000005	1489009688338_2980584	false	REPLACE INTO "weather_table" VALUES(101240203,'庐山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006164933924999999	1489009683051_5128875	true	REPLACE INTO "weather_table" VALUES(101080511,'巴雅尔吐胡硕',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013394369949999999	1489009684871_3835250	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0035440954499999996	1489009683041_2533208	false	REPLACE INTO "weather_table" VALUES(101080508,'奈曼',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010448917625	1489009683316_7486000	true	REPLACE INTO "weather_table" VALUES(101080909,'东乌旗',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0037462596250000015	1489009682867_2083084	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002619090525	1489009683861_1086917	false	create table if not exists config (id integer primary key,name text,value text)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012563313349999999	1489009684750_2984709	false	REPLACE INTO "weather_table" VALUES(101120405,'齐河',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016311376500000002	1489009681450_2767709	false	REPLACE INTO "weather_table" VALUES(101251201,'怀化',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010704609825000003	1489009680629_2458208	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011968312675000002	1489009680669_2425625	true	REPLACE INTO "weather_table" VALUES(101121601,'莱芜',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011545724375	1489009681812_2320292	false	REPLACE INTO "weather_table" VALUES(101310208,'琼中',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010767049375000004	1489009683859_4998334	false	REPLACE INTO "weather_table" VALUES(101091002,'峰峰',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013636668200000002	1489009688833_4071334	false	REPLACE INTO "weather_table" VALUES(101251404,'双牌',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.054168062700000005	1489009690346_27871417	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.05103364292500001	1489009680349_9297375	false	REPLACE INTO "weather_table" VALUES(101060701,'辽源',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013196371549999999	1489009679639_1295083	false	create table if not exists reader_item (_id INTEGER PRIMARY KEY,title TEXT,item_id INTEGER,from_uri TEXT,icon_url TEXT,icon_path TEXT,info LONGTEXT,brief TEXT,creator TEXT,item_updated LONG,section_id TEXT,has_read INTEGER DEFAULT 0,top_news INTEGER DEFAULT 0,old_section_id TEXT,info_type INTEGER DEFAULT 0);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.05186230942499999	1489009680139_10622250	true	CREATE TABLE IF NOT EXISTS mxquickdial_carousel (_id INTEGER PRIMARY KEY,qd_id TEXT DEFAULT -1,carouse_title TEXT,carouse_url TEXT,version INTEGER DEFAULT 0,carousel_pos INTEGER DEFAULT 0,carousel_screen TEXT,carousel_icon_url TEXT,carousel_icon BLOB DEFAULT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012028382400000003	1489009684379_2168334	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005018020450000001	1489009688329_2696125	false	REPLACE INTO "weather_table" VALUES(101240203,'庐山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.02737096810000001	1489009681459_6326625	false	REPLACE INTO "weather_table" VALUES(101260101,'贵阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014724484375000001	1489009682300_3992292	true	REPLACE INTO "weather_table" VALUES(12589778,'Philadelphia',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.06038353272500002	1489009684824_12762083	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004607978575000001	1489009680609_610875	true	UPDATE mxquickdial SET position=(position+ 6 ) WHERE position>=0 AND (parent_id IS NULL or parent_id = "-1" )
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009964462150000002	1489009682689_6091000	true	REPLACE INTO "weather_table" VALUES(101060602,'洮南',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0042884041000000005	1489009682686_2514792	true	REPLACE INTO "weather_table" VALUES(101060506,'通化县',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.02772583814999998	1489009690344_26261959	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013089369750000001	1489009681815_2191250	false	REPLACE INTO "weather_table" VALUES(101310208,'琼中',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0023471542249999997	1489009683863_801917	false	REPLACE INTO "weather_table" VALUES(101091002,'峰峰',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0037403782250000008	1489009683835_2279125	false	REPLACE INTO "weather_table" VALUES(101090913,'威县',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006593273325	1489009680095_992583	true	CREATE INDEX IF NOT EXISTS bmIdxUrl ON bookmark (url)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010290058350000002	1489009680060_1718041	true	CREATE INDEX  IF NOT EXISTS bmIdxPid ON bookmark(parent)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0068929887500000005	1489009682451_2176000	false	REPLACE INTO "weather_table" VALUES(101050407,'富锦',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009167183850000003	1489009684777_2954500	false	REPLACE INTO "weather_table" VALUES(101120410,'夏津',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.04084066032500001	1489009680290_5019291	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016264155175000003	1489009681405_3405208	false	REPLACE INTO "weather_table" VALUES(101250601,'常德',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008556198274999998	1489009682332_2148708	false	REPLACE INTO "weather_table" VALUES(20070162,'Vientiane',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012617734475000003	1489009684368_2533917	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013207632849999998	1489009684807_3548458	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.034458526700000006	1489009679769_6936917	true	create table if not exists message (id integer primary key autoincrement,messageid text,taskid text,appid text,info text,msgextra blob,key text,status integer,createtime integer)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010776733875	1489009681645_3644417	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005349836475	1489009679641_961667	false	CREATE INDEX IF NOT EXISTS index_item_id ON reader_item (item_id)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014538763974999999	1489009679778_2353125	true	create table if not exists ral (id integer primary key,data text,type integer,time integer)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007116054125	1489009688332_5294333	false	REPLACE INTO "weather_table" VALUES(101240203,'庐山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.020622043	1489009680352_3255792	false	REPLACE INTO "weather_table" VALUES(101060801,'松原',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03470193992499999	1489009682311_9802500	true	REPLACE INTO "weather_table" VALUES(56063387,'Phnom Penh',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004235632450000002	1489009683307_2841250	true	REPLACE INTO "weather_table" VALUES(101080907,'苏右旗',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010794186775	1489009681854_3081041	false	REPLACE INTO "weather_table" VALUES(101310214,'保亭',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004601587674999999	1489009683854_2250042	false	REPLACE INTO "weather_table" VALUES(101090917,'沙河',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016119770900000004	1489009681218_3298334	false	REPLACE INTO "weather_table" VALUES(101220501,'马鞍山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.024454382350000005	1489009688380_12404125	false	REPLACE INTO "weather_table" VALUES(101240306,'万年',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007224858100000003	1489009689107_2793208	false	REPLACE INTO "weather_table" VALUES(101260605,'思南',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.050451802525000006	1489009680315_6037875	false	REPLACE INTO "weather_table" VALUES(101060201,'吉林',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.022352273108333334	1489009682269_8583833	false	REPLACE INTO "weather_table" VALUES(20069923,'Seoul',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014960723550000004	1489009684803_3743459	false	REPLACE INTO "weather_table" VALUES(101120504,'蓬莱',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005760283574999999	1489009679767_743791	true	create table if not exists runtime (id integer primary key,value text)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011502498599999997	1489009680647_2267250	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007482614500000001	1489009679766_1071375	true	create table if not exists config (id integer primary key,value text)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.017750124675	1489009682461_4905166	true	REPLACE INTO "weather_table" VALUES(101050504,'海伦',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0064759573	1489009690672_3890166	false	REPLACE INTO "weather_table" VALUES(101300304,'鹿寨',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.05279129230000002	1489009684789_12897917	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00992843615	1489009684687_3352833	false	REPLACE INTO "weather_table" VALUES(101120205,'胶州',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006317635050000003	1489009682459_2199500	true	REPLACE INTO "weather_table" VALUES(101050503,'安达',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01446954955	1489009682676_9514459	true	REPLACE INTO "weather_table" VALUES(101060505,'集安',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01757896465000001	1489009681638_6448458	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009296597875000005	1489009682872_6140334	true	REPLACE INTO "weather_table" VALUES(101070706,'北镇',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0063660475749999995	1489009680135_894625	true	CREATE TABLE IF NOT EXISTS feedback (_id INTEGER PRIMARY KEY,msg_id TEXT,reply_Date TEXT,feedback_content TEXT,reply_content TEXT);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008654704225	1489009682304_2267791	true	REPLACE INTO "weather_table" VALUES(28362583,'Copenhagen',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.025948395474999993	1489009680255_5217458	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006581102224999997	1489009684667_3106750	false	REPLACE INTO "weather_table" VALUES(101120106,'济阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010562978974999996	1489009682296_2407042	true	REPLACE INTO "weather_table" VALUES(12587707,'San Francisco',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011731231575000002	1489009683837_8351250	false	REPLACE INTO "weather_table" VALUES(101090914,'清河',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009887864125000003	1489009683871_3157292	false	REPLACE INTO "weather_table" VALUES(101091005,'大名',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012957986299999998	1489009686005_2710000	false	REPLACE INTO "weather_table" VALUES(101140608,'巴青',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002810444074999999	1489009683304_2448750	true	REPLACE INTO "weather_table" VALUES(101080904,'阿巴嘎',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003371737625000001	1489009688395_2454416	false	REPLACE INTO "weather_table" VALUES(101240308,'上饶县',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004331065825	1489009690656_3215584	false	REPLACE INTO "weather_table" VALUES(101300206,'扶绥',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03149531905	1489009681412_6380500	false	REPLACE INTO "weather_table" VALUES(101250700,'益阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003816471075	1489009683411_2352042	false	REPLACE INTO "weather_table" VALUES(101081102,'阿尔山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004949118599999999	1489009683047_4270417	true	REPLACE INTO "weather_table" VALUES(101080510,'高力板',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.022950402150000004	1489009682467_6256500	true	REPLACE INTO "weather_table" VALUES(101050505,'明水',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.025780848849999996	1489009681229_3415667	false	REPLACE INTO "weather_table" VALUES(101220701,'宿州',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.029284382375000004	1489009680371_3785292	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009228718999999998	1489009680299_1300083	true	UPDATE history SET status=0 WHERE status=2
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016832941199999996	1489009680368_2515208	false	REPLACE INTO "weather_table" VALUES(101070301,'鞍山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.02105959322499999	1489009682046_7547208	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009766130700000002	1489009680624_2198917	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008555154099999997	1489009682341_2338250	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0117858592	1489009681867_2573208	false	REPLACE INTO "weather_table" VALUES(101310216,'陵水',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009766982425000001	1489009687455_2412709	false	REPLACE INTO "weather_table" VALUES(101200903,'秭归',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006901731025	1489009913964_3792292	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011017338100000001	1489009680618_2333250	true	REPLACE INTO "weather_table" VALUES(101111001,'铜川',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.030110046900000003	1489009680293_3763375	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008595901500000001	1489009680133_1354708	true	CREATE TABLE IF NOT EXISTS mxquickdial (_id INTEGER PRIMARY KEY,quickdial_id TEXT DEFAULT '-1',title TEXT,url TEXT,source INTEGER DEFAULT 1,position INTEGER,deletable INTEGER DEFAULT 1,deleted INTEGER DEFAULT 0,screen TEXT,language TEXT,flag INTEGER DEFAULT 0,user_modified INTEGER DEFAULT 0,is_folder INTEGER DEFAULT 0,parent_id TEXT,icon_url TEXT,icon BLOB DEFAULT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004943929675000002	1489009682983_2222417	false	REPLACE INTO "weather_table" VALUES(101080407,'凉城',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006405123549999999	1489009913986_3683625	false	UPDATE reader SET unread_count = unread_count + 7 WHERE section_id = 'default1'
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.02975309527500001	1489009680950_4415541	false	REPLACE INTO "weather_table" VALUES(101181201,'鹤壁',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011512394925000002	1489009682879_8431416	true	REPLACE INTO "weather_table" VALUES(101070802,'大石桥',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.02057249559999999	1489009684859_5737834	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012507283450000002	1489009684381_2289833	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012194454674999996	1489009688016_7086958	false	REPLACE INTO "weather_table" VALUES(101221703,'青阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0133385636	1489009680638_2627416	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004629300225	1489009683289_4328542	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010010380900000001	1489009687452_2138583	false	REPLACE INTO "weather_table" VALUES(101200902,'远安',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010828229975	1489009688842_3499333	false	REPLACE INTO "weather_table" VALUES(101251406,'宁远',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01024856415	1489009681850_3368958	false	REPLACE INTO "weather_table" VALUES(101310212,'文昌',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0064964247250000025	1489009679781_1056875	true	create table if not exists ca (pkgname text primary key,signature text,permissions text, accesstoken blob, expire integer)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01629710502500001	1489009681233_3887250	false	REPLACE INTO "weather_table" VALUES(101220701,'宿州',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013937994799999999	1489009681871_2271958	false	REPLACE INTO "weather_table" VALUES(101310216,'陵水',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006409165049999999	1489009683868_2717250	false	REPLACE INTO "weather_table" VALUES(101091004,'成安',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016189389325	1489009680666_2475333	false	REPLACE INTO "weather_table" VALUES(101121501,'日照',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.024284532250000004	1489009684374_4558375	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009882967475	1489009683297_6075250	false	REPLACE INTO "weather_table" VALUES(101080904,'阿巴嘎',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.017542544199999996	1489009684884_2986791	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0432814398	1489009682252_5801792	false	REPLACE INTO "weather_table" VALUES(12597155,'Paris',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016823264600000006	1489009679782_3555250	true	create table if not exists bi(id integer primary key autoincrement, start_service_count integer, login_count integer, loginerror_nonetwork_count integer, loginerror_timeout_count integer, loginerror_connecterror_count integer, loginerror_other_count integer, online_time long, network_time long, running_time long, create_time text, type integer)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.015611969475000001	1489009684371_2563542	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03680270924999998	1489009680271_8120042	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.022571685075000007	1489009680360_3545708	false	REPLACE INTO "weather_table" VALUES(101060701,'辽源',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010918378575	1489009682263_2429208	false	REPLACE INTO "weather_table" VALUES(2345496,'Berlin',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004249270500000001	1489009682986_2700750	false	REPLACE INTO "weather_table" VALUES(101080408,'察右前旗',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004404018900000001	1489009688013_2621250	false	REPLACE INTO "weather_table" VALUES(101221702,'东至',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.044839697575	1489009682022_13926542	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004404436774999999	1489009683857_2129459	false	REPLACE INTO "weather_table" VALUES(101090918,'任县',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.04122769552500001	1489009684389_10087208	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008145024150000001	1489009690681_3339833	false	REPLACE INTO "weather_table" VALUES(101300307,'融水',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.08769749920416656	1489009679675_34413208	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014782543700000005	1489009680613_2728541	false	REPLACE INTO "weather_table" VALUES(101110701,'安康',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013964703100000003	1489009684785_3539708	false	REPLACE INTO "weather_table" VALUES(101120502,'莱州',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007772083024999999	1489009684760_2543375	false	REPLACE INTO "weather_table" VALUES(101120408,'平原',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03328542417499998	1489009690309_29576916	false	REPLACE INTO "weather_table" VALUES(101290702,'澄江',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004192514	1489009680646_554583	true	UPDATE mxquickdial SET position=(position+1) WHERE position>=3 AND parent_id IS NULL
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.09624621985	1489009681605_29253292	false	REPLACE INTO "weather_table" VALUES(101280101,'广州',0,1,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010739691275000001	1489009681656_2314209	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007075787500000002	1489009913945_4000208	false	UPDATE reader SET unread_count = unread_count + 7 WHERE section_id = 'default3'
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011928021875000005	1489009680660_2313125	true	REPLACE INTO "weather_table" VALUES(101121301,'威海',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013963647799999996	1489009682449_2328291	false	REPLACE INTO "weather_table" VALUES(101050406,'同江',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.121068179475	1489009680068_25501167	true	CREATE INDEX  IF NOT EXISTS bmIdxGuid ON bookmark(guid)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013785511524999999	1489009684415_2578958	false	REPLACE INTO "weather_table" VALUES(101110302,'延川',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.07807371484999998	1489009680117_15969500	true	CREATE INDEX IF NOT EXISTS offmsgPath ON off_msg(server_path)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.036439770075	1489009680356_4576958	false	REPLACE INTO "weather_table" VALUES(101060701,'辽源',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.030063308100000005	1489009680344_3945125	false	delete from statisticsue
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.025260909950000007	1489009684854_4791875	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.015973207399999995	1489009684880_3300667	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006627160225000001	1489009683864_3218750	false	REPLACE INTO "weather_table" VALUES(101091002,'峰峰',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0068828703416666664	1489009680225_3098334	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008089134966666665	1489009682278_2728166	true	REPLACE INTO "weather_table" VALUES(2345871,'Kyoto',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.08946649097500002	1489009680151_18290917	true	CREATE TABLE IF NOT EXISTS mxautofill (host TEXT PRIMARY KEY,username TEXT,password TEXT);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004886353525000001	1489009683851_2403792	false	REPLACE INTO "weather_table" VALUES(101090916,'南宫',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0035554928750000003	1489009688392_2499084	false	REPLACE INTO "weather_table" VALUES(101240307,'德兴',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.04215150195000001	1489009680324_4082291	false	REPLACE INTO "weather_table" VALUES(101060201,'吉林',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0095925216	1489009682862_2488417	false	REPLACE INTO "weather_table" VALUES(101070604,'东港',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006795058900000001	1489009686608_2985583	false	REPLACE INTO "weather_table" VALUES(101180106,'新郑',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.050753799075	1489009684811_11487125	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013225645975	1489009680616_2224458	false	REPLACE INTO "weather_table" VALUES(101110901,'宝鸡',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.015699469550000004	1489009680650_2991333	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010400488750000004	1489009682266_2293750	false	REPLACE INTO "weather_table" VALUES(2345968,'Busan',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002816548325000001	1489009682870_1993292	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00940819165	1489009682307_2594125	true	REPLACE INTO "weather_table" VALUES(2346016,'Beirut',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007613929349999999	1489009689454_2648125	false	REPLACE INTO "weather_table" VALUES(101271607,'会东',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011443475299999995	1489009681659_2362375	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0164402337	1489009681215_3069875	false	REPLACE INTO "weather_table" VALUES(101220401,'淮南',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.018461512350000004	1489009680365_2656959	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.027954642024999997	1489009681398_6492542	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007348873749999998	1489009914029_3912833	false	UPDATE reader SET unread_count = unread_count + 7 WHERE section_id = 'default4'
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.05278996700000002	1489009680335_10176167	false	delete from statisticsue
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03819892000000001	1489009680336_7396500	false	REPLACE INTO "weather_table" VALUES(101060501,'通化',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.15183258313333334	1489009680011_47844000	true	CREATE TABLE IF NOT EXISTS bookmark (_id INTEGER PRIMARY KEY, parent INTEGER, guid VARCHAR[40], title TEXT, url TEXT, position INTEGER DEFAULT 0, level INTEGER DEFAULT 0, visits INTEGER DEFAULT 0, src INTEGER DEFAULT 0, type INTEGER DEFAulT 0, last_modify LONG, favicon BLOB DEFAULT NULL, most_favorite INTEGER DEFAULT 0, fast_group INTEGER DEFAULT 0);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003955715575000001	1489009680627_512541	true	UPDATE mxquickdial SET position=(position+1) WHERE position>=1 AND parent_id IS NULL
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.033242226200000016	1489009680604_7731375	false	REPLACE INTO "weather_table" VALUES(101110701,'安康',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010846462550000002	1489009684355_2433417	false	REPLACE INTO "weather_table" VALUES(101110107,'高陵',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012732417275	1489009681425_2679750	false	REPLACE INTO "weather_table" VALUES(101250901,'邵阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.025245656325	1489009684403_2804666	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.07501567237500002	1489009680279_12766709	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.028466537049999973	1489009682659_15412916	true	REPLACE INTO "weather_table" VALUES(101060504,'辉南',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004091129025000001	1489009682888_2210042	true	REPLACE INTO "weather_table" VALUES(101070803,'盖州',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.020510970750000003	1489009684400_2669208	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.045909093325000004	1489009680723_5373334	false	REPLACE INTO "weather_table" VALUES(101130701,'阿拉尔',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012653735375	1489009683825_5831500	false	REPLACE INTO "weather_table" VALUES(101090911,'广宗',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004655687575	1489009683003_3300917	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03336323992499997	1489009682286_9601208	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011864534150000002	1489009684876_3434792	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0020004647250000005	1489009683862_757250	false	create table if not exists appinfo(download_id integer primary key, name text, pkgName text,  versionCode integer, versionName text, logo text, fullSize long, diffSize long, url text, updateType text, diffChecksum text, fullChecksum text)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013031863175	1489009682259_3153416	false	REPLACE INTO "weather_table" VALUES(2122265,'Moscow',0,1,0,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.018659593175000006	1489009680349_2574042	false	REPLACE INTO "weather_table" VALUES(101060701,'辽源',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007352993975	1489009683846_4255667	false	REPLACE INTO "weather_table" VALUES(101090915,'临西',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013758609600000003	1489009680663_2536417	false	REPLACE INTO "weather_table" VALUES(101121401,'枣庄',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.08232514180000006	1489009681820_29207167	false	REPLACE INTO "weather_table" VALUES(101310211,'琼海',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007046848299999999	1489009681665_2357833	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.051152785825	1489009684763_13030792	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005227553425000001	1489009688024_2430750	false	REPLACE INTO "weather_table" VALUES(101221704,'九华山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.015532783875000001	1489009680375_2354333	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0450337061083333	1489009682321_10900250	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.019291338650000003	1489009680653_2568542	false	REPLACE INTO "weather_table" VALUES(101121101,'滨州',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005606658974999999	1489009690667_3982375	false	REPLACE INTO "weather_table" VALUES(101300304,'鹿寨',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01313894295	1489009681466_2730875	false	REPLACE INTO "weather_table" VALUES(101260101,'贵阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.08364982285000001	1489009680098_17180416	true	CREATE TABLE IF NOT EXISTS off_msg (_id INTEGER PRIMARY KEY,server_path TEXT,from_dev_id TEXT,status INTEGER DEFAULT 0);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.043334606825000004	1489009682634_18180958	false	REPLACE INTO "weather_table" VALUES(101060405,'伊通',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005540329574999999	1489009688849_2880125	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.018190974024999997	1489009681210_3164041	false	REPLACE INTO "weather_table" VALUES(101220301,'芜湖',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.06539191092499996	1489009684837_15636333	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003142999300000001	1489009683414_2364917	false	REPLACE INTO "weather_table" VALUES(101081103,'科右中旗',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016903637391666677	1489009680230_7585750	false	REPLACE INTO "weather_table" VALUES(101050501,'绥化',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01444383237500001	1489009690298_9296250	false	REPLACE INTO "weather_table" VALUES(101290608,'富宁',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0139850632	1489009682040_2421792	false	REPLACE INTO "weather_table" VALUES(101030600,'北辰',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.015378231124999999	1489009681419_3055250	false	REPLACE INTO "weather_table" VALUES(101250801,'娄底',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007545072875	1489009681817_2279750	false	REPLACE INTO "weather_table" VALUES(101310210,'屯昌',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006120218850000001	1489009683310_4642708	true	REPLACE INTO "weather_table" VALUES(101080908,'朱日和',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0041719719	1489009680636_557833	true	UPDATE mxquickdial SET position=(position+1) WHERE position>=2 AND parent_id IS NULL
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	9.295955000000001E-4	1489009689112_359208	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0014283062500000001	1489009689117_467958	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0023991325750000003	1489009917300_1918584	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0026495704999999997	1489009690684_1178958	false	REPLACE INTO "weather_table" VALUES(101300307,'融水',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00114834245	1489009915657_979875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.06868773737500004	1489009681429_8317583	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0016248837	1489009688332_897958	false	REPLACE INTO "weather_table" VALUES(101240203,'庐山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0010780532000000003	1489009915603_897500	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0016637705750000003	1489009688855_743000	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.049620117725000024	1489009680228_15727542	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0010888163	1489009683037_511833	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0017206892500000002	1489009689446_1084833	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00274563635	1489009690677_1242583	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.006343664500000004	1489009914191_4581250	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0016070419249999998	1489009689119_427958	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.003924094137500002	1489009680213_944334	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00536198495	1489009682231_611875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.003780870375000001	1489009914210_1905917	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.001424805025	1489009915668_1006875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004055531866666666	1489009913138_7297792	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00485683095	1489009915678_3249708	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.006295143333333333	1489009913125_9527791	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004195064300000001	1489009914037_1978416	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004597123125000001	1489009680957_657625	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.011550655154999968	1489009680212_8990875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0020475052999999995	1489009682639_420709	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0050803394500000005	1489009680601_769042	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.003405928325	1489009688337_1417000	false	REPLACE INTO "weather_table" VALUES(101240203,'庐山',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.009111833266666668	1489009914178_8167750	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0036697847499999998	1489009682375_651042	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.005685513475	1489009682362_1261750	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.002170153575	1489009689457_697333	false	REPLACE INTO "weather_table" VALUES(101271607,'会东',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0029928214500000005	1489009690690_1261083	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004678498783333332	1489009913196_8338458	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0017839837750000002	1489009913188_1817333	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.001709268575	1489009913676_1304958	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0018141450750000002	1489009688849_765209	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00437121705	1489009682383_832084	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0037379186999999996	1489009690670_1641250	false	REPLACE INTO "weather_table" VALUES(101300304,'鹿寨',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0037190672	1489009897730_827416	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.07479618735000002	1489009680273_10930875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.006653684625	1489009680248_1026250	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.002042504475	1489009688344_748542	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.001149587125	1489009689115_502875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0012405810000000001	1489009893631_713084	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0015099543250000002	1489009689469_608625	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0031331158250000007	1489009682392_627250	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00265245395	1489009682447_465250	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.012438649849999995	1489009914052_7393208	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0018817430500000004	1489009688846_750500	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0019724616	1489009915662_1806875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.011159332550000001	1489009682342_1704500	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	9.70758025E-4	1489009767647_625667	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0019552002499999997	1489009688859_835250	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.01695760683000001	1489009680211_9788875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0017277445	1489009688341_737750	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0012257621000000003	1489009915605_1309541	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0053184635916666695	1489009913153_10121625	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004251910775	1489009914157_2386625	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.003137263225	1489009914172_1964792	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.002078176975	1489009689461_884334	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	7.681154000000001E-4	1489009893626_716333	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.048733013250000026	1489009690314_24833792	false	REPLACE INTO "weather_table" VALUES(101290702,'澄江',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.010092361975000002	1489009680224_1632916	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0071294834500000015	1489009680574_825625	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.005649381299999997	1489009680209_1407083	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004758573674999999	1489009680729_660875	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00125347075	1489009915620_1107000	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.003945985933333335	1489009682327_1165792	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0012240853499999999	1489009689466_497083	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004519855849999999	1489009680041_968458	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.027537430150000004	1489009680259_4929083	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.005681469324999999	1489009681290_729583	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0019344858	1489009682861_436542	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.035500935770833346	1489009679696_13821625	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0036185888333333336	1489009680236_633917	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0040554582499999995	1489009680736_408458	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.009037798850000002	1489009913217_11440875	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.04158135092499998	1489009914286_14040458	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.022040466249999998	1489009914723_16006541	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.056160711125	1489009914317_24736042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0017165273000000001	1489009711683_985625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0012890464500000002	1489009689119_267958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0047975652749999995	1489009682257_630959	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00315965995	1489009680614_414750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00643650515	1489009919174_2251667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0072307410000000015	1489009680318_851333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0018496439499999999	1489009688849_398459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034612673000000006	1489009914301_1355250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.295955000000001E-4	1489009689112_388625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.9126825E-4	1489009893630_547333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.038800096175	1489009684678_8057584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023756081500000002	1489009690682_970000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	8.950200000000001E-4	1489009683300_392709	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004933061900000001	1489009681445_774625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020841183	1489009914343_1247041	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00137334635	1489009915629_1019750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008706553575000001	1489009681463_1431500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027987144500000007	1489009681859_596417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004457852725	1489009681244_417625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004406603900000002	1489009680228_1108125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036251983249999996	1489009680573_532459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023452522250000008	1489009914196_830250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006051488725000002	1489009680374_699125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0030119522500000003	1489009682375_448625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005937712550000001	1489009681208_969666	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004093569325000001	1489009686005_513083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00643653365	1489009681459_993916	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.626664500000001E-4	1489009915661_706750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00191202505	1489009897738_761625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003839225125000001	1489009681235_530042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036717718	1489009681877_924917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.204228000000002E-4	1489009689114_389584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0030199741500000006	1489009690675_1178041	false	REPLACE INTO "weather_table" VALUES(101300304,'鹿寨',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004187649200000001	1489009681611_916959	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0012869784999999996	1489009915647_1002584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0031970622	1489009914173_1862791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004778444300000001	1489009682360_973834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002383724866666666	1489009682327_336625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00107442215	1489009689116_420083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023094333	1489009914049_961208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023824454750000002	1489009688335_1417209	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035206726999999997	1489009680652_378209	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003294262125	1489009681663_653458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0029352783	1489009680225_563083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020165425750000004	1489009913964_689834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0026109173999999996	1489009914161_1243250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0033192893750000002	1489009682337_400042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004756228475000001	1489009680359_497125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0012563939750000002	1489009913676_667250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023385170999999996	1489009914314_1022958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006951353500000002	1489009681289_1328792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0063057691	1489009682046_672750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0016917176500000001	1489009688010_725334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005432949999999999	1489009680599_719250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0058048965	1489009682036_899084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.218802500000002E-4	1489009689468_381709	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002537544799999999	1489009914188_1078667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020468645750000005	1489009914208_846167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003440686483333334	1489009680226_649291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0021770293750000003	1489009914166_883542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012143471450000004	1489009682643_5686167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004202396525000001	1489009680664_441167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0018940538250000003	1489009914187_719959	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003975305625	1489009681891_854541	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014107247250000003	1489009913148_1449958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0010708769	1489009913217_858125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00152032975	1489009688327_405750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0015203755250000005	1489009689456_590291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.234530500000001E-4	1489009915605_706791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034359219	1489009681866_637167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0017363661500000003	1489009914756_975583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00338764975	1489009680642_306792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.238168999999998E-4	1489009913136_915167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.380009166666666E-4	1489009913196_1112500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0011984677999999996	1489009688330_626959	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	8.20441625E-4	1489009767369_510542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.02067404625000001	1489009680364_2469167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01681650677499999	1489009680952_3954291	false	REPLACE INTO "weather_table" VALUES(101181201,'鹤壁',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002409529349999999	1489009690688_1191334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0021738512250000005	1489009689460_804833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	8.9813505E-4	1489009683041_361458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0013872616750000002	1489009688858_519417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014422489000000004	1489009689109_408750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00288019875	1489009682326_367000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0012999919000000002	1489009915667_809834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00427439025	1489009680663_491750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0019352182750000005	1489009913986_699875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0194103841	1489009682996_7050125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.001825338	1489009914029_688666	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002971092725000001	1489009682329_342750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0033059082249999993	1489009680211_694792	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0012784902250000004	1489009913134_811958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004134568	1489009680623_443958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020774723500000007	1489009684668_650875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003554075175000001	1489009684369_442333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0041367786249999995	1489009682049_1047750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006154399700000002	1489009684363_1092542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	8.955299000000001E-4	1489009913205_737791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004877875	1489009681659_681333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014918429750000004	1489009916598_903583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0021572095250000007	1489009682447_324250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027566594799999992	1489009680212_466125	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003906650425	1489009680633_457333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005292452750000001	1489009684746_990917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004227997250000001	1489009680624_303708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027894918000000006	1489009686605_626958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007555104516666669	1489009679865_1882958	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002551366825	1489009682021_565875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035941187000000006	1489009681863_692375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00287706045	1489009682331_273167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	7.79921725E-4	1489009929196_926250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006069185675	1489009680255_633541	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00338764975	1489009680642_346208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002565545125	1489009689464_1622375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.010551879325000001	1489009680605_2035834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.6699761018875013	1489009679669_159786375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035717401250000007	1489009679696_705625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0016218733000000008	1489009690304_836459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0025301086499999997	1489009682382_296833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00455477395	1489009680651_410208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00535400105	1489009681655_651583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	1.2893091452749974	1489009679843_365630209	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0021653407	1489009914062_946875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0033811730499999993	1489009680209_666792	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011017300675	1489009680270_2065959	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.001159216775	1489009915679_791625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0024567719999999994	1489009914157_1184167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007554234025000002	1489009680333_1031000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027867782000000002	1489009682056_529167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0029023188166666675	1489009682273_593708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0019676646	1489009914042_667083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0012729448	1489009682984_523416	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.8107432141166673	1489009679576_119083750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0012095221	1489009913188_1038500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0016588193250000004	1489009913191_1722333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020361088000000003	1489009682391_389208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.001157018625	1489009913123_790875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0028090892	1489009680632_336708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002934822283333334	1489009913125_4085416	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0017709710500000003	1489009914176_1113084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0013492041499999997	1489009682860_311459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0011167756500000002	1489009915655_914083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002579985	1489009682325_367584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005478206975	1489009681427_847750	false	REPLACE INTO "weather_table" VALUES(101250901,'邵阳',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004882711649999999	1489009681246_464250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004339393200000001	1489009682230_484500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0017269444500000004	1489009690312_843583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.001614458875	1489009688343_516958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0019121948999999997	1489009688836_536958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0029817860500000004	1489009893622_2542708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0031705431	1489009914332_1024750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00467363085	1489009680732_618084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005096440424999999	1489009680223_940625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004193330700000001	1489009681240_439250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.001363231066666666	1489009913144_2375542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011239683374999997	1489009684352_2254791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0064997227	1489009681885_1512334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	7.710836666666666E-4	1489009913151_891208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0015984790499999999	1489009914740_1062667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014687040750000005	1489009690344_762792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0013403714999999999	1489009683036_357625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003059950675000001	1489009689443_1426334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00344501425	1489009681242_342917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008954816024999998	1489009684760_2778750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0016575687750000003	1489009920510_548291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0013102914250000001	1489009688852_505083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014021943500000006	1489009915618_1276041	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00276184625	1489009680612_377209	false	REPLACE INTO "weather_table" VALUES(101110701,'安康',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004167684099999999	1489009681813_1079916	false	REPLACE INTO "weather_table" VALUES(101310208,'琼中',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00105738045	1489009913167_964250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008181505000000002	1489009680216_3002000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006121154374999999	1489009680288_881875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0013898605750000002	1489009897729_402417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.02301141275	1489009680243_4743917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0019936118	1489009897734_707083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004439237975000001	1489009681466_422000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014006797750000003	1489009683289_993833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004262474333333334	1489009679891_809750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0010621384000000004	1489009914722_555125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0016061287750000004	1489009690668_1153375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002975035425	1489009681652_621417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0052975068	1489009682341_791208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0012573472249999998	1489009915673_871291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.03741564255000001	1489009681394_4500208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0028881905249999998	1489009682333_304583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007652822550000001	1489009681230_1125083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0033170750749999998	1489009681237_355458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0025106233499999995	1489009913945_839291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0017063544000000006	1489009914729_1099583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0018650071000000006	1489009682638_476375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0018171874499999998	1489009914191_1175750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.013869082175000004	1489009681637_4720833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0013506443500000001	1489009690657_878708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0013375364	1489009688386_555041	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004341343325000002	1489009680628_611750	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0044690550750000006	1489009680637_538333	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0048455124	1489009680619_681833	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004638965925	1489009680669_611459	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004295794399999999	1489009680657_538375	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.006879578224999998	1489009897738_3751500	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0053149197	1489009680647_591792	true	null
+android.database.sqlite.SQLiteQueryBuilder: void appendColumns(java.lang.StringBuilder,java.lang.String[])	0.004892156025	1489009680733_665208	false	null
+android.database.sqlite.SQLiteQueryBuilder: void appendColumns(java.lang.StringBuilder,java.lang.String[])	0.0056822661666666675	1489009680230_1730125	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.007395628299999999	1489009680738_1310167	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.009478142933333333	1489009680238_2087375	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.010362371049999998	1489009679893_3152708	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.017793059550000004	1489009684402_2591500	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.003843185124999999	1489009683415_3290167	false	REPLACE INTO "weather_table" VALUES(101081103,'科右中旗',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.023344880625000012	1489009684405_3912666	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.013216076600000005	1489009684365_2821250	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.024199776499999995	1489009684765_6548500	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.017509467475	1489009688389_11500791	false	REPLACE INTO "weather_table" VALUES(101240306,'万年',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.017546611074999996	1489009684877_3606291	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.008444466599999999	1489009687456_2883709	false	REPLACE INTO "weather_table" VALUES(101200903,'秭归',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.026464399275	1489009684774_6351292	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.018400768999999997	1489009684807_5379250	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.02354013237499999	1489009684867_3961666	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0108477908	1489009684383_2195000	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.022294056725000004	1489009684822_5650417	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.018822469500000008	1489009684872_3820375	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.015753500125000004	1489009679840_3036083	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007760890300000001	1489009683004_3105625	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005725427550000001	1489009683419_3460708	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.008844670799999996	1489009684386_2457542	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.010213169325	1489009684389_2472667	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0164450104	1489009684886_3501250	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.027642778425000004	1489009684862_4747666	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.027009420025	1489009684815_6408208	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.012747958824999999	1489009684396_2367667	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.01558624405	1489009684399_2330791	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.016791277075000006	1489009684852_3447042	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.017827067299999996	1489009684829_4567834	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.05431851156666672	1489009679870_18630000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006463165325000001	1489009683424_4916292	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.01599133975	1489009684373_2220708	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.031405136775	1489009684375_4345375	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.022760211699999998	1489009684784_4873500	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.02931056335	1489009684791_7953209	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.009752927100000003	1489009684370_2117041	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.018065246150000006	1489009686007_2818834	false	REPLACE INTO "weather_table" VALUES(101140608,'巴青',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0109266247	1489009684380_2106833	false	REPLACE INTO "weather_table" VALUES(101110202,'礼泉',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.03926913127500001	1489009684840_10981042	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.021254994575000005	1489009684882_3503542	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.021174533775	1489009684835_3830708	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006982038650000001	1489009682985_4905167	false	REPLACE INTO "weather_table" VALUES(101080407,'凉城',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.018043721125000006	1489009684857_3549666	false	REPLACE INTO "weather_table" VALUES(101120505,'龙口',0,0,1,NULL,NULL);
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.023300484775	1489009684355_5032958	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.013444244925000001	1489009679844_2518125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.013584558900000002	1489009684392_2929875	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.012524961900000003	1489009679640_2167541	false	create table if not exists reader_item (_id INTEGER PRIMARY KEY,title TEXT,item_id INTEGER,from_uri TEXT,icon_url TEXT,icon_path TEXT,info LONGTEXT,brief TEXT,creator TEXT,item_updated LONG,section_id TEXT,has_read INTEGER DEFAULT 0,top_news INTEGER DEFAULT 0,old_section_id TEXT,info_type INTEGER DEFAULT 0);
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0015747426000000003	1489009683829_616000	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.010819582166666666	1489009679825_2887458	true	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.005758607983333333	1489009680234_1464500	false	null

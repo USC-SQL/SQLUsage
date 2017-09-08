@@ -1,0 +1,5 @@
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00196076105	1491101018348_341583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.43355440515000016	1491100946959_92073625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012811913825000002	1491100947060_4285417	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.006937847700000001	1491101016020_1238334	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.006385870000000001	1491100947057_1769541	false	null

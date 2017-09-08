@@ -1,0 +1,12 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.007062484799999999	1489617619572_1066083	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0044049025	1489617622049_882667	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0041188729999999995	1489617619560_572167	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.2698772965	1489617619518_51405958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00451448855	1489617622046_927792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036716864000000005	1489617622048_706500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005007942350000001	1489617619571_641583	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005798449400000001	1489617619550_939917	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.004989739000000001	1489617619558_659833	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.008839176300000001	1489617619516_1677125	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010859171099999999	1489617619551_1801083	true	create table IF NOT EXISTS statistics_new(id text, funid numeric, data text, time text, opcode numeric,isold boolean, network numeric)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.02029886055	1489617619554_3413083	true	create table IF NOT EXISTS ctrl_info(funid numeric, startime long, duration long, intervaltime long, bn text, updatetime text, network numeric, priority numeric)

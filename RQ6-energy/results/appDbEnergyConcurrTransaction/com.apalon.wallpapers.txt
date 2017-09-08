@@ -1,0 +1,7 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0164594359	1491118451178_1526750	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.007777414399999999	1491118451174_1490416	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0070505295	1491118451186_1040958	false	SELECT * FROM messages LIMIT 0
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.28567365887500035	1491118451133_39725166	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.028337620425	1491118451178_4011375	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.012995288099999999	1491118451188_1661500	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.030577791399999995	1491118451183_3048250	false	SELECT * FROM messages LIMIT 0

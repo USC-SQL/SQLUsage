@@ -1,0 +1,38 @@
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.03717815985	1489701568180_14977458	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.04882336735000001	1489701547453_18265750	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.03692405529999999	1489701593826_14288584	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.07895205235000005	1489701526619_29068375	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.01268946955	1489701555708_5428833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0218189281	1489701554217_3508291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.015899007700000002	1489701555699_6952250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.018396864200000005	1489701547442_6784333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0166551389	1489701593816_5995834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.29028840124999966	1489701510345_58415083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.023797424199999993	1489701568166_9487458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01156986445	1489701574732_3565667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.029161968150000005	1489701526605_10051625	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.006255359050000001	1489701568205_2513583	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0063962451499999995	1489701547487_2304250	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0038162126	1489701593849_1359167	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00488872415	1489701526659_1422167	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0032508037000000007	1489701555721_920209	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022514163999999997	1489701574737_461458	false	SELECT * FROM favorite order BY rank
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034914656000000002	1489701554221_543667	false	SELECT * FROM favorite order BY rank
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0086696263	1489701510405_1361500	false	SELECT * FROM favorite order BY rank
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037459153	1489701568177_1290375	false	SELECT COUNT(stopId) FROM favorite
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00395860145	1489701526616_1139750	false	SELECT COUNT(stopId) FROM favorite
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00169729225	1489701555714_599500	false	select * FROM favorite order by rank
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028354354	1489701547450_991084	false	SELECT COUNT(stopId) FROM favorite
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003143432950000001	1489701593823_933708	false	SELECT COUNT(stopId) FROM favorite
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0038820855500000004	1489701555697_1427125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.012773240850000003	1489701526599_3997125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.008089143200000001	1489701547439_2944542	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0037441933500000006	1489701554216_593833	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0051435253	1489701568163_1419542	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00211404615	1489701574732_593541	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.017206707000000005	1489701510341_3085333	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00325962455	1489701593815_933959	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013620783799999998	1489701577805_4831166	false	update favorite set Rank=0 where rowid=3
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008536925400000001	1489701555715_3482083	false	update favorite set Rank=0 where rowid=2
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01034017135	1489701577812_3933375	false	update favorite set Rank=1 where rowid=2
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013525157300000002	1489701510389_2285334	false	create table favorite (_id integer primary key autoincrement, stopId text, stopName text, towards text, rank integer, routeName text, direction text, timing text);

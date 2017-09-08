@@ -1,0 +1,32 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0012256325166666669	1491001736338_724750	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.001473716458333333	1491001736338_1377083	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.024538240249999996	1491001525165_3796459	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.004772704533333333	1491001525215_829709	false	DELETE FROM `muted_notifications` WHERE `timestamp_gmt` <= 1490338800000
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.027533327850000008	1491001736319_15298084	false	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276936315
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.010479792558333331	1491001736336_4969083	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00817335785	1491001525216_907750	false	DELETE FROM `delayed_tasks`
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.010234468	1491001525159_2415125	false	SELECT * FROM `app_usage_report_v2` WHERE `end_time` IS NULL
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00406311945	1491001736329_5264667	false	DELETE FROM `app_usage_report_v2` WHERE `end_time` <= 1475276936325
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.02356013405	1491001525182_3783959	false	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276725176
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005005536299999999	1491001736340_4237083	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007171885675000001	1491001525168_1889792	false	SELECT CHANGES()
+android.database.sqlite.SQLiteClosable: void close()	0.0012723200583333342	1491001736347_1097125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0028068842750000006	1491001525195_442625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004424397350000001	1491001736353_1674542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0042928643	1491001525219_519917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004001143500000002	1491001736340_1799792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00143659955	1491001736342_1123208	false	null
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	0.0018962810250000002	1491001736311_1085792	false	null
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	0.0032706616250000016	1491001736342_3709042	false	SELECT CHANGES()
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	0.005490536425000001	1491001525218_935916	false	null
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	0.0012389723000000002	1491001736340_897625	false	null
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	0.002816169950000001	1491001736351_1234709	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0525024489583333	1491001525196_19618833	false	DELETE FROM `delayed_tasks`
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.04409388635833331	1491001525197_18797917	false	DELETE FROM `delayed_tasks`
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.050782621475000005	1491001525194_20232125	false	DELETE FROM `delayed_tasks`
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.003438712558333333	1491001736343_3916250	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.02922898765000001	1491001525177_4782666	false	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276725176
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0048601924	1491001736315_2751792	false	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276936315
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.02146750332500001	1491001736315_18079000	false	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276936315
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0036343333833333312	1491001736344_3840458	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009741719699999995	1491001736325_10797916	false	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276936315

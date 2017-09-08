@@ -1,0 +1,7 @@
+select	0.0012115194750000001	0.0036005730949999993	0.0037834275999999996	0.005727374475	481875	5	896750	1484166
+
+0.0012115194750000001	481875	2.5141778988326857	SELECT DISTINCT report_request_parameters FROM sessions WHERE id >= 0
+0.0033317800999999995	631542	5.275627115852943	select e.id as _id, e.title, r.stars, r.rating, r.routeType, t.*  from entityRoute r join entity e on e.id = r.id join personalTodo t on t.mpId = e.mpId where e.type = ? and t.synchronized = 0 order by t.id
+0.0037834275999999996	896750	4.219043880680234	select e.id as _id, e.title, r.stars, r.rating, r.routeType, t.*  from entityRoute r join entity e on e.id = r.id join personalTodo t on t.mpId = e.mpId where e.type = ? and t.synchronized = 0 order by t.id
+0.003948763825	1053291	3.748977087053815	select e.id as _id, e.title, r.stars, r.rating, r.routeType, t.*  from entityRoute r join entity e on e.id = r.id join personalStars t on t.mpId = e.mpId where e.type = ? and t.synchronized = 0 order by t.personalStars desc, t.altDescription asc
+0.005727374475	1484166	3.8589850966805597	select e.id as _id, e.title, r.stars, r.rating, r.routeType, t.*  from entityRoute r join entity e on e.id = r.id join personalTick t on t.mpId = e.mpId where e.type = ? and t.synchronized = 0 order by t.date desc

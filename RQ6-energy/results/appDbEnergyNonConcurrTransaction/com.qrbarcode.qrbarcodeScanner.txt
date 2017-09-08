@@ -1,0 +1,11 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.3513331786499996	1489192937179_62964916	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	9.135200000000001E-4	1489193014008_321042	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0036273466000000002	1489192937305_507792	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.05843218445	1489193013964_38815791	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018026803500000002	1489193014004_825709	false	select * from barcode_detail ORDER BY id DESC
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0017772519000000004	1489193013963_893625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.006737940450000001	1489192937169_932708	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.010540150600000003	1489192936901_1348708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00177563365	1489193014006_939833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0057756287	1489192937243_693750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00459736305	1489192937303_740209	false	null

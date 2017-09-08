@@ -1,0 +1,4 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	5.65957925E-4	1489106795337_631542	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	6.1942715E-4	1489106795336_637208	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	9.133063999999999E-4	1489106795333_1000708	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	6.289594250000002E-4	1489106795335_510667	true	null

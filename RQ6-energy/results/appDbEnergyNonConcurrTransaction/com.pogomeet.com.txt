@@ -1,0 +1,100 @@
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0036174126	1491121745694_505250	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.04489252969999999	1491121745772_13854166	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.035580583900000004	1491121745846_12488542	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0057105479000000015	1491121745698_811208	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0037640622	1491121745799_912208	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004143118950000001	1491121745768_1024083	true	SELECT MAX(sequence) FROM revs
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004744943600000001	1491121745788_1223250	false	SELECT revid, json FROM localdocs WHERE docid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023575577000000004	1491121745801_585458	true	SELECT doc_id FROM docs WHERE docid=?
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0027148104499999997	1491121745771_604333	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0029883215	1491121745845_444791	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.015820218250000004	1491121821592_5497333	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0190902846	1491121827805_7187292	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0182975176	1491121826880_7482417	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0026109224	1491121745844_632458	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.022656311849999996	1491121822732_7396667	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0037060917500000004	1491121745716_914500	true	CREATE INDEX maps_keys on maps(view_id, key COLLATE JSON)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00374500295	1491121745729_517833	true	PRAGMA user_version = 4
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0035390227500000006	1491121745737_845916	true	PRAGMA user_version = 9
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0045577883500000005	1491121745709_1125500	true	CREATE TABLE localdocs (         docid TEXT UNIQUE NOT NULL,         revid TEXT NOT NULL COLLATE REVID,         json BLOB)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0038280514500000002	1491121745759_1238750	true	DROP TABLE maps
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011683121650000003	1491121821444_3443458	false	create table awstransfer(_id integer primary key autoincrement, main_upload_id integer, type text not null, state text not null, bucket_name text not null, key text not null, version_id text, bytes_total bigint, bytes_current bigint, speed bigint, is_requester_pays integer, is_encrypted integer, file text not null, file_offset bigint, is_multipart int, part_num int not null, is_last_part integer, multipart_id text, etag text, range_start bigint, range_last bigint, header_content_type text, header_content_language text, header_content_disposition text, header_content_encoding text, header_cache_control text, header_expire text);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0035610449000000005	1491121745751_847458	true	DROP INDEX IF EXISTS revs_cur_deleted
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0021863986500000004	1491121745758_525625	true	PRAGMA user_version = 17
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00611681575	1491121745700_1374625	true	CREATE TABLE docs (         doc_id INTEGER PRIMARY KEY,         docid TEXT UNIQUE NOT NULL)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00302427755	1491121745708_773625	true	CREATE INDEX revs_parent ON revs(parent)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005903543	1491121821457_1873416	false	ALTER TABLE awstransfer ADD COLUMN sse_algorithm text;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0049193043500000005	1491121745695_660375	false	PRAGMA foreign_keys = ON
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024225163500000003	1491121745734_574209	true	PRAGMA user_version = 6
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0033399915	1491121745756_937625	true	CREATE INDEX maps_view_sequence ON maps(view_id, sequence)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025571893000000006	1491121745765_547041	true	PRAGMA user_version = 18
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00461972215	1491121745725_1061416	true	CREATE TABLE info ( key TEXT PRIMARY KEY, value TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030099893000000003	1491121745736_755833	true	PRAGMA user_version = 7
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00450298835	1491121745739_1088625	true	ALTER TABLE revs ADD COLUMN no_attachments BOOLEAN
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003971174700000001	1491121745763_780875	true	CREATE INDEX IF NOT EXISTS maps_sequence ON maps(sequence)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0049262523	1491121745713_752292	true	CREATE INDEX views_by_name ON views(name)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00250134895	1491121745764_561750	true	UPDATE views SET lastsequence=0
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00281442865	1491121745740_525208	true	PRAGMA user_version = 10
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007097249149999999	1491121821449_1925750	false	ALTER TABLE awstransfer ADD COLUMN user_metadata text;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007284302100000002	1491121745704_1713541	true	CREATE TABLE revs (         sequence INTEGER PRIMARY KEY AUTOINCREMENT,         doc_id INTEGER NOT NULL REFERENCES docs(doc_id) ON DELETE CASCADE,         revid TEXT NOT NULL COLLATE REVID,         parent INTEGER REFERENCES revs(sequence) ON DELETE SET NULL,         current BOOLEAN,         deleted BOOLEAN DEFAULT 0,         json BLOB,         UNIQUE (doc_id, revid))
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0062962026	1491121745730_1023750	true	ALTER TABLE attachments ADD COLUMN encoding INTEGER DEFAULT 0
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004274791000000001	1491121745718_1075542	true	CREATE TABLE attachments (         sequence INTEGER NOT NULL REFERENCES revs(sequence) ON DELETE CASCADE,         filename TEXT NOT NULL,         key BLOB NOT NULL,         type TEXT,         length INTEGER NOT NULL,         revpos INTEGER DEFAULT 0)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0041336005	1491121745741_1042708	true	ALTER TABLE views ADD COLUMN total_docs INTEGER DEFAULT -1
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0022756149500000006	1491121745743_516459	true	PRAGMA user_version = 13
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007951732500000003	1491121821451_2228875	false	ALTER TABLE awstransfer ADD COLUMN expiration_time_rule_id text;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0032928042	1491121745755_731125	true	PRAGMA user_version = 16
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002453408400000001	1491121745733_541750	true	PRAGMA user_version = 5
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00301102725	1491121745767_736958	true	PRAGMA user_version = 20
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005308874400000001	1491121745746_887291	true	CREATE INDEX maps_sequence ON maps(sequence)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00435131525	1491121745706_891625	true	CREATE INDEX revs_current ON revs(doc_id, current)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0051514212500000005	1491121745744_850584	true	CREATE INDEX IF NOT EXISTS revs_by_docid_revid ON revs(doc_id, revid desc, current, deleted)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005526133950000001	1491121745762_1000584	true	CREATE INDEX IF NOT EXISTS maps_keys on maps(view_id, key COLLATE JSON)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0058262939	1491121745702_1334750	true	CREATE INDEX docs_docid ON docs(docid)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0070444596	1491121745712_1029375	true	CREATE TABLE views (         view_id INTEGER PRIMARY KEY,         name TEXT UNIQUE NOT NULL,        version TEXT,         lastsequence INTEGER DEFAULT 0)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0036359620500000006	1491121745750_895584	true	DROP INDEX IF EXISTS revs_current
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0036139889999999997	1491121745728_552000	true	INSERT INTO INFO (key, value) VALUES ('publicUUID',  'd01ca96c-3e94-410b-9bc2-8840eb9c67c5')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0056217582	1491121821460_1888417	false	ALTER TABLE awstransfer ADD COLUMN content_md5 text;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005225321200000001	1491121745732_1140667	true	ALTER TABLE attachments ADD COLUMN encoded_length INTEGER
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0051688852	1491121745710_829125	true	CREATE INDEX localdocs_by_docid ON localdocs(docid)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0036320596500000004	1491121745745_524750	true	PRAGMA user_version = 14
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00259418395	1491121745749_574667	true	PRAGMA user_version = 15
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0044858942	1491121745748_797041	true	CREATE INDEX attachments_sequence ON attachments(sequence)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00392052	1491121745727_635334	true	INSERT INTO INFO (key, value) VALUES ('privateUUID', '0584d4f0-b99f-4078-ac59-1fe20f19b20c')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00555122875	1491121821463_1903625	false	ALTER TABLE awstransfer ADD COLUMN kms_key text;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0061156399999999994	1491121821455_1860875	false	ALTER TABLE awstransfer ADD COLUMN http_expires_date text;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0044155362	1491121745753_1347500	true	CREATE INDEX revs_current ON revs(doc_id, current desc, deleted, revid desc)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004884205700000001	1491121745721_1215625	true	CREATE TABLE replicators (         remote TEXT NOT NULL,         push BOOLEAN,         last_sequence TEXT,         UNIQUE (remote, push))
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025537028999999996	1491121745723_535917	true	PRAGMA user_version = 3
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00507096625	1491121745719_1320875	true	CREATE INDEX attachments_by_sequence on attachments(sequence, filename)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007734345449999999	1491121821466_2073083	false	ALTER TABLE awstransfer ADD COLUMN canned_acl text;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00493550645	1491121745715_968541	true	CREATE TABLE maps (         view_id INTEGER NOT NULL REFERENCES views(view_id) ON DELETE CASCADE,         sequence INTEGER NOT NULL REFERENCES revs(sequence) ON DELETE CASCADE,         key TEXT NOT NULL COLLATE JSON,         value TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0033877145	1491121745760_946875	true	CREATE TABLE IF NOT EXISTS maps (  view_id INTEGER NOT NULL REFERENCES views(view_id) ON DELETE CASCADE,  sequence INTEGER NOT NULL REFERENCES revs(sequence) ON DELETE CASCADE,  key TEXT NOT NULL COLLATE JSON,  value TEXT)
+android.database.sqlite.SQLiteQueryBuilder: void appendWhere(java.lang.CharSequence)	0.0030303532999999996	1491121826861_1198000	false	null
+android.database.sqlite.SQLiteQueryBuilder: void appendWhere(java.lang.CharSequence)	0.00370211815	1491121821564_1022083	false	null
+android.database.sqlite.SQLiteQueryBuilder: void appendWhere(java.lang.CharSequence)	0.00426047045	1491121821634_879375	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0051839556500000005	1491121821560_1729459	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.00569373385	1491121826858_2220750	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.004365506	1491121821632_1141625	false	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.0066590806499999995	1491121745697_1102667	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.007336540950000001	1491121745804_2018083	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.005017578750000001	1491121745841_1659417	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.023013133000000005	1491121821478_8274166	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.04745246324999999	1491121826788_19377666	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0031928218	1491121821566_894416	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00385394295	1491121822730_1108625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.19997935804999997	1491121821413_64788083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0042139668	1491121826787_891875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0031769412	1491121826863_1015208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0057733577499999985	1491121821587_1931750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0045011318499999994	1491121826878_1753958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0037888702500000005	1491121821636_609750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00825598155	1491121827787_3498959	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0062988733000000005	1491121821568_2107084	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.007465272	1491121821637_1778458	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.011644703800000001	1491121826865_4637125	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.15050658135	1491121745651_38913167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0040802892	1491121759303_643625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.02131782035	1491121745555_5906791	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.011589493250000003	1491121821627_3865084	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0030438735	1491121826855_1013583	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.00666371085	1491121821556_2359625	false	null

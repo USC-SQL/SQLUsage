@@ -1,0 +1,16 @@
+insert	0.003218696175	0.009454599655952382	0.004279372912499999	0.06090325055000001	365875	14	731479	7570583
+
+0.003218696175	365875	8.797256371711649	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)
+0.0034067485	517208	6.586805501848386	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)
+0.003550981275000001	464125	7.650915755453814	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)
+0.0037036094500000004	560375	6.609162525094804	INSERT INTO `persistent_context` (`key` ,`value` ) VALUES (?,?)
+0.0037160536750000003	546209	6.803354897118137	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)
+0.004193377883333334	538416	7.788360456103337	INSERT INTO `app_installation_event` (`plan_config_id` ,`app_version_id` ,`timestamp` ,`event_type` ) VALUES (?,?,?,?)
+0.004259703924999999	664250	6.412802295822353	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)
+0.004299041900000001	798709	5.382488365599987	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)
+0.004543452050000001	590709	7.6915233219741035	INSERT INTO `app_installation_event` (`plan_config_id` ,`app_version_id` ,`timestamp` ,`event_type` ) VALUES (?,?,?,?)
+0.004561190375000001	459292	9.930916225407806	INSERT INTO `app_installation_event` (`plan_config_id` ,`app_version_id` ,`timestamp` ,`event_type` ) VALUES (?,?,?,?)
+0.0053987162	439541	12.282622553982451	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)
+0.006202836675	767500	8.081871889250815	INSERT INTO `app_installation_event` (`plan_config_id` ,`app_version_id` ,`timestamp` ,`event_type` ) VALUES (?,?,?,?)
+0.020406736549999995	12240875	1.6670978626936386	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)
+0.06090325055000001	7570583	8.044723973041444	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)

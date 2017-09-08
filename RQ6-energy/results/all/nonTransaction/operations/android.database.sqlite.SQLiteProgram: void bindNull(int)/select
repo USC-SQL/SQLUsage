@@ -1,0 +1,10 @@
+select	0.0021034368000000005	0.003929429921875	0.0041061452	0.0059251988999999994	586125	8	371896	405584
+
+0.0021034368000000005	586125	3.5887170825335897	SELECT * FROM `user` WHERE `id` = 1
+0.00304404205	332458	9.156170253084602	SELECT * FROM `plan_config` WHERE `id` = ?
+0.0034078004000000005	578584	5.8898974046983685	SELECT `alert_rule`.* FROM `alert_rule` INNER JOIN `plan_config` ON `alert_rule`.`plan_config_id` = `plan_config`.`id` WHERE `plan_config`.`mobile_subscriber_id` IN (1 )
+0.00406191	344167	11.80214837564322	SELECT * FROM `persistent_context` WHERE `key` = 'notif_check_box_state'
+0.0041503804000000005	399625	10.385687582108227	SELECT `shared_plan_alert_rule`.* FROM `shared_plan_alert_rule` INNER JOIN `shared_plan_plan_config` ON `shared_plan_alert_rule`.`shared_plan_plan_config_id` = `shared_plan_plan_config`.`id` INNER JOIN `shared_plan_group` ON `shared_plan_plan_config`.`shared_plan_group_id` = `shared_plan_group`.`id` WHERE `shared_plan_alert_rule`.`shared_plan_plan_config_id` IN (`shared_plan_plan_config`.`id` ) AND (`shared_plan_plan_config`.`shared_plan_group_id` IN (`shared_plan_group`.`id` ) ) AND (`shared_plan_group`.`mobile_subscriber_id` = 1 )
+0.0043527152	395750	10.998648641819331	SELECT * FROM `mobile_subscriber` WHERE `id` = ?
+0.004389955625	598125	7.339528735632184	SELECT * FROM `plan_config` WHERE `id` = ?
+0.0059251988999999994	405584	14.609054844372558	SELECT * FROM `plan_config` WHERE `id` = ?

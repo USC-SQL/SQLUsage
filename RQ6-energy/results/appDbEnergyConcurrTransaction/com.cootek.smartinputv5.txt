@@ -1,0 +1,32 @@
+android.database.sqlite.SQLiteDatabase: long setMaximumSize(long)	0.013692256450000002	1491080020561_3617625	false	null
+android.database.sqlite.SQLiteDatabase: long setMaximumSize(long)	0.012303118924999999	1491080013751_2230917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00383079815	1491079995004_510750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.00242430375	1491079995124_576250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.005713472125	1491079995062_814875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0024197618000000006	1491079995127_415000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0026972887750000003	1491079995118_425084	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.005353217300000001	1491080013754_768584	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.006579668499999999	1491080020566_1403250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.004926878075	1491080014474_771583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0061170311500000005	1491080014470_918208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.004993258675	1491080014479_646000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0055634133250000006	1491080014472_604625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.004981850299999999	1491080014477_704292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007567355250000001	1491079994981_1291542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007812909524999998	1491079995009_1239916	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004062771099999999	1491079995066_513292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.07072289617500002	1491080020535_22877667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0033060887749999995	1491079995032_334584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.695102966024998	1491080013577_164040583	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005013674825000001	1491079995005_726583	false	SELECT id FROM PresentationConf ORDER BY id DESC LIMIT 1;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0083472836	1491079995063_1421750	false	SELECT id FROM Presentation ORDER BY id DESC LIMIT 1;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002422978675	1491079995125_573208	false	SELECT json FROM PresentationConf ORDER BY id DESC LIMIT 1;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002867692525	1491079995128_564125	false	SELECT json FROM PresentationConf ORDER BY id DESC LIMIT 1;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021865883249999997	1491079995119_460292	false	SELECT json FROM PresentationConf ORDER BY id DESC LIMIT 1;
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0039030423999999995	1491080019390_836125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0044588940000000014	1491080011790_934750	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.04222864425000001	1491080013662_9511208	false	CREATE TABLE catalystLocalStorage (key TEXT PRIMARY KEY, value TEXT NOT NULL)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.072584532625	1491079994984_19941583	false	CREATE TABLE  IF NOT EXISTS PresentationConf (id INTEGER PRIMARY KEY AUTOINCREMENT, json TEXT NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.12017955554999989	1491079995033_27514458	false	CREATE TABLE  IF NOT EXISTS Presentation (id INTEGER PRIMARY KEY AUTOINCREMENT, json TEXT NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.08204527860000001	1491079995011_20611709	false	INSERT INTO PresentationConf (id,json) VALUES (?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.07268496305000005	1491079995067_16257041	false	INSERT INTO Presentation (id,json) VALUES (?,?);

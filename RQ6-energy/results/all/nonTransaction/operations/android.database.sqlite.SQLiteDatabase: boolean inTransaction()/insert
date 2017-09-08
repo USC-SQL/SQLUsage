@@ -1,0 +1,4 @@
+insert	0.003094068	0.004072671050000001	0.004072671050000001	0.0050512741	265208	2	324645	384083
+
+0.003094068	265208	11.666571144158548	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)
+0.0050512741	384083	13.151516989817306	INSERT INTO `app_installation_event` (`plan_config_id` ,`app_version_id` ,`timestamp` ,`event_type` ) VALUES (?,?,?,?)

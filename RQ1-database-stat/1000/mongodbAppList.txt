@@ -1,0 +1,2 @@
+com.usbmis.troposphere.fpnb.apk
+com.alifesoftware.stocktrainer.apk

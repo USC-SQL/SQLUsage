@@ -1,0 +1,15 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0026537778500000005	1491025512451_624125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0014882224000000001	1491025512451_508666	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.404856000000002E-4	1491025512459_520750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.002077404033333333	1491025512454_964125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00676039085	1491025512386_693875	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.004924066350000001	1491025512325_646791	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.005176860125000001	1491025512328_668875	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00477005035	1491025512385_778167	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.011470766266666663	1491025512452_9413208	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.014348348600000001	1491025512387_3427125	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00884462125	1491025512452_6091625	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.04680447781666666	1491025512456_30736125	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.07465103227499997	1491025532822_11392792	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.0063397673	1491025519101_916333	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.006035713925000001	1491025512326_854834	false	null

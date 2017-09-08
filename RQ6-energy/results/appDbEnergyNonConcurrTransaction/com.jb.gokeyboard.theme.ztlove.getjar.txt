@@ -1,0 +1,12 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.011388145199999998	1489021653559_1091166	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.009358857699999999	1489021650503_1055125	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0056526106	1489021650486_467209	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.36001482710000005	1489021650447_53831333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0094623902	1489021653556_913125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0094728408	1489021653557_831583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005805116200000001	1489021650502_568708	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.006953656250000001	1489021650480_723458	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0054419415	1489021650485_486917	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0075309372000000015	1489021650446_827083	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00968467195	1489021650484_1001875	true	create table IF NOT EXISTS ctrl_info(funid numeric, startime long, duration long, intervaltime long, bn text, updatetime text, network numeric, priority numeric)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013528281549999997	1489021650481_1702958	true	create table IF NOT EXISTS statistics_new(id text, funid numeric, data text, time text, opcode numeric,isold boolean, network numeric)

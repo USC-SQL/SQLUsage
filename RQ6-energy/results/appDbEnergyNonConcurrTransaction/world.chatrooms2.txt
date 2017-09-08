@@ -1,0 +1,12 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.05207955000000001	1489107918860_9190458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.38415122965000037	1489107918766_70777125	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.008799236	1489107918870_1376541	false	SELECT _id FROM cats LIMIT 1
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0255398864	1489107917767_3381542	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0076711716	1489107918858_978750	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.008379153649999999	1489107918764_1471750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.01098490155	1489107918843_1559042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.009693738850000003	1489107918874_1301417	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.024838839900000007	1489107918838_3847916	false	DELETE FROM cats
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014678254800000004	1489107918818_2463167	false	CREATE TABLE cats(_id integer PRIMARY KEY,idcat integer,descr text NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.03582156345	1489107918808_6080500	false	CREATE TABLE productos (_id integer UNIQUE,orden integer PRIMARY KEY AUTOINCREMENT,ref text NOT NULL,titulo text NOT NULL,descr text NOT NULL,idcat integer NOT NULL,precio real,precio_descr text NOT NULL,anyo integer NOT NULL,mes integer NOT NULL,dia integer NOT NULL,url_detalle NOT NULL,url_compra NOT NULL,img1_p blob,img1 blob,img1_id integer NOT NULL,img1_url text NOT NULL,det_cargado integer NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013463149050000001	1489107918815_2367917	false	CREATE TABLE fotos(_id integer PRIMARY KEY,idprod integer NOT NULL,url text NOT NULL,img_p blob,img blob,orden integer NOT NULL);

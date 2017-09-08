@@ -1,0 +1,9 @@
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.033564033349999994	1489098919926_5966792	true	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.0032436426500000006	1489098919922_799875	false	null
+android.database.sqlite.SQLiteDatabase: void setVersion(int)	0.005405890450000001	1489098919925_742292	true	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.17356101075000013	1489098919883_38219333	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0034748464499999997	1489098919924_545500	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.003399131250000001	1489098919926_346417	true	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.00796840945	1489098919933_1496958	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005072550200000001	1489098919935_793584	false	SELECT * FROM u WHERE l=1 ORDER BY CAST(t AS UNSIGNED) DESC LIMIT 1
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.013569183900000002	1489098919872_2808042	false	null

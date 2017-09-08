@@ -1,0 +1,789 @@
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0016880671500000006	1489616968092_615750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.4014375E-4	1489616883578_467667	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00104700745	1489616969217_575584	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.790609000000001E-4	1489616882803_539000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.95827E-4	1489616882900_534167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.225411000000002E-4	1489616968700_371166	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.374838000000002E-4	1489616883848_423000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00108534545	1489616949101_591042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011481602000000001	1489616949680_510416	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013849292250000002	1489616967712_612792	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011411553750000003	1489616969038_491000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0014071618000000006	1489616967986_560584	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015398769000000002	1489616948707_616917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015716267000000003	1489616949147_617792	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.754978499999998E-4	1489616883078_884333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00106874325	1489616949395_575042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013521887999999997	1489616967645_655750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00118382195	1489616948642_521208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.280061E-4	1489616883469_431208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.810381E-4	1489616949697_531375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001038450475	1489616949194_431458	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001255537225	1489616949731_498416	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.805068000000001E-4	1489616968842_485625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015271799000000001	1489616948630_825917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012841272000000004	1489616949483_494667	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.030448499999999E-4	1489616968892_749208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00123641895	1489616949750_495334	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0017145622999999999	1489616968103_671917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010336694000000002	1489616969056_507542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0019546101000000003	1489616948878_1163125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.129167000000001E-4	1489616883427_480250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013376342500000004	1489616968232_733834	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0047101083	1489616883114_3772958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001130471725	1489616948766_533375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00197855345	1489616879695_473084	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012240185749999998	1489616949342_287209	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0026239761499999995	1489616879773_548500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.587795749999999E-4	1489616949353_282625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010582786	1489616968186_487042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011334115499999997	1489616968011_533041	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.836992999999999E-4	1489616968784_467709	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011916135	1489616949035_747125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010252201	1489616967942_539167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001365313325	1489616968383_648375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.200550999999998E-4	1489616948815_557500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011389290499999997	1489616950118_1023708	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011326573000000001	1489616949137_570709	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0019354247499999999	1489616948922_878958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001347237775	1489616969113_671000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.9330945E-4	1489616949266_386500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00153824	1489616967871_730959	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00102548405	1489616969196_493333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011903704999999998	1489616948455_613000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	5.9922035E-4	1489616883445_372458	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.351193500000001E-4	1489616883868_511916	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0014565017999999996	1489616950061_521417	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013362076499999999	1489616968077_900334	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011028601500000003	1489616948500_490292	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.882758499999998E-4	1489616883894_779917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010057820249999997	1489616948945_770625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012165872000000002	1489616950002_510625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013724724750000003	1489616949843_810250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00149747005	1489616949210_686625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013847498500000003	1489616950021_503125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0014297178250000004	1489616968194_537250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013085968999999999	1489616949568_760333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010946864000000002	1489616968175_630125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.098633499999999E-4	1489616882960_799125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010680810000000002	1489616967665_556709	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00102649765	1489616948606_426542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.552173500000003E-4	1489616968320_762292	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013576286499999996	1489616948617_623750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.744299E-4	1489616967967_558875	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001014600075	1489616967770_537541	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00119485815	1489616948720_685750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010523615999999997	1489616883145_610375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.438887750000001E-4	1489616967584_331500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.560530749999998E-4	1489616882822_542625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.98547425E-4	1489616949254_310792	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0023114321249999995	1489616949821_1119500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	5.525729E-4	1489616883483_317750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012780552	1489616948734_706125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.373257500000003E-4	1489616967493_313333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012031656000000002	1489616949771_496958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0029889287000000003	1489616883257_1602583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012135970000000003	1489616946323_879750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015198642250000005	1489616967884_616541	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0014668361250000004	1489616968126_671709	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010098006750000003	1489616950149_1005000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011579453	1489616967799_487750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.065674499999999E-4	1489616882733_647708	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001349200775	1489616967781_521583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0014101171250000004	1489616949506_662250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013092388499999998	1489616949610_654833	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011280601750000003	1489617019324_486375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013152209499999994	1489616949004_671917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011435082750000003	1489616883165_660333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011224090750000001	1489616949114_585833	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.235693E-4	1489616967546_382542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.726737999999998E-4	1489616949179_370917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013238075500000002	1489616949885_829625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.985691499999999E-4	1489616949279_360500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001024850475	1489616949202_488542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.646359000000001E-4	1489616883385_551209	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001005877675	1489616949320_324166	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001111021725	1489616968863_1115500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.904957E-4	1489616968803_440583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001319206175	1489616967621_797542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010643657999999997	1489616949447_517125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011528067500000002	1489616968340_611291	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010999889999999998	1489616883185_662333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011993743500000003	1489616967607_806041	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001475079575	1489616948746_602917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0016615382500000005	1489616883661_1128958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0039661348	1489616878961_502666	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.245048000000001E-4	1489616883765_904125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011030206499999997	1489616968166_567667	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	5.912455500000001E-4	1489616883497_271917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011747448500000002	1489616968253_681458	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011916776999999997	1489616967809_520125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.091283999999999E-4	1489616968750_372000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0021109954249999997	1489616968404_1249708	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010788562	1489616968717_410167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.201993500000001E-4	1489616949309_320584	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0016128276750000002	1489616949945_520542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015921576750000002	1489616948836_869958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011222592999999997	1489616968669_488291	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010473143	1489616948481_405916	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010196844	1489616948491_407708	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0019134944499999997	1489616968499_1027917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.46941825E-4	1489616969177_436000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.406742250000002E-4	1489616882862_619250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.683856499999999E-4	1489616883827_402458	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013171044500000003	1489616949126_652542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010457237500000002	1489616967555_348125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.605103750000002E-4	1489616968630_723875	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013068416499999996	1489616949465_602166	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015647290750000007	1489616968526_875583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.783423499999999E-4	1489616968822_483083	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.69078075E-4	1489616883559_525167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010459498000000003	1489616948661_567666	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.004522249999999E-4	1489616883023_621791	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001142223075	1489616949061_679417	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.705429250000002E-4	1489616946890_691375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001635637925	1489616881501_416917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012327858249999999	1489616883045_1243750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00101333555	1489616949412_479000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011869545000000002	1489616968610_758542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011287397999999995	1489616948545_400333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001055079875	1489616882982_643417	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001039082575	1489616948555_456042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.2989985E-4	1489616974005_458333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.745588250000001E-4	1489616883596_678291	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	5.575355E-4	1489616883527_313833	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013808425000000004	1489616949923_639083	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.002100000000001E-4	1489616974014_482833	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	5.52275025E-4	1489616883511_300375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012286965250000003	1489616967898_642125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.4342935E-4	1489616882881_556500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.007420000000001E-4	1489616883638_509625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011433555999999997	1489616969014_602625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010420355250000003	1489616882745_808542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013235002	1489616968049_636375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.867061500000001E-4	1489616967686_519625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	5.547637999999998E-4	1489616883541_332625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010664206749999997	1489616948975_651208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012545525500000001	1489616950041_509459	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010798166500000004	1489616968137_487667	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012556312000000004	1489616967724_634791	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001158583	1489616949023_585125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012500610000000002	1489616948990_840500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012345383000000004	1489616967955_675750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.606909E-4	1489616882780_518458	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001693242775	1489616968549_761459	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001046727075	1489616968996_638625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.0016875E-4	1489616948679_440500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012215480999999999	1489616950088_1164209	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.3036025E-4	1489616949364_249875	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010615043000000001	1489616969157_446292	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011962062749999998	1489616949170_437083	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0017668261750000002	1489616883206_637416	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00119339	1489616948565_483042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010043914	1489616948510_403584	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011746447	1489616968652_545666	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.307734E-4	1489616967513_305250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013800634999999997	1489616969075_481666	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010936947000000003	1489616949430_530667	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.94974075E-4	1489616948472_417125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012339701999999999	1489616949979_479791	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010507869250000002	1489616968280_702084	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011059175	1489616968023_598250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013229179500000006	1489616949526_488167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00231219055	1489616968437_1202958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.001036500000001E-4	1489616882940_702458	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012244018750000002	1489616968362_645833	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013411157	1489617019382_447500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00137818145	1489616968569_695917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001045427825	1489616968957_642459	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	6.648538E-4	1489616968766_387167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011932921750000005	1489616883717_885583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00196419655	1489616949792_1070250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010756513	1489616949653_478042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.208598500000002E-4	1489616883615_468166	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010564098500000002	1489616883689_937042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00120906695	1489616969093_481708	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.189132250000002E-4	1489616949296_354333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013944520500000005	1489616968146_671875	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011795786500000001	1489616948797_552208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.768348999999998E-4	1489616949241_250416	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013635151750000004	1489616967634_641083	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015667624000000003	1489616948864_620083	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.053105999999999E-4	1489616968937_724167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010671191	1489616968686_444125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013725850000000002	1489616883283_1196750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012280790000000004	1489616949865_656542	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00131347025	1489616949589_647792	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011321448249999998	1489616967749_520916	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015575391749999999	1489616949546_987375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0020443732500000002	1489617018695_323166	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.3840975E-4	1489616949079_557583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.683784999999999E-4	1489616969138_438458	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012179983500000004	1489616949186_494125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.761371499999998E-4	1489616883228_606333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013848221	1489616949155_408333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012369004749999998	1489616968590_685167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001101122775	1489616968301_662417	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.216136499999999E-4	1489616882756_653917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012683654000000002	1489616949962_477625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.543567500000002E-4	1489616967223_508959	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011947475999999997	1489616967999_557084	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.319009249999999E-4	1489616882841_698833	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	7.061742250000001E-4	1489616883408_574709	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.742404E-4	1489616967506_320834	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001184110875	1489616948778_553500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.064906500000003E-4	1489616967520_304958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011512223	1489616949050_754583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.504355500000001E-4	1489616949332_297042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015021719500000002	1489616949715_482042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00118956615	1489616967829_642375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001066226575	1489616883793_1054208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00131165765	1489616968214_530292	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.8582145E-4	1489616949227_503042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0015417185500000005	1489616967857_612375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0025761807749999995	1489616968466_1016917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012624158000000003	1489616967002_608292	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	5.6882255E-4	1489616967562_331958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.001346856675	1489616968915_813917	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0019479780999999998	1489616948903_1174875	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	9.15401225E-4	1489616883001_750583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012042571000000003	1489616948585_481791	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.004644416200000003	1489616883316_4689291	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.783120999999999E-4	1489616967500_311792	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010323493999999998	1489616968156_453916	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0017970570000000003	1489616883358_805125	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011603319500000002	1489616968115_579084	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.629549250000001E-4	1489616882921_545208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013505964499999999	1489616967737_660208	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0010715803499999998	1489616967920_520333	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0012756649999999998	1489616949905_632583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011099933	1489616968732_402625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0011467676000000001	1489616967482_436958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0013699951000000002	1489616949629_636500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00106789675	1489616968977_619708	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015554523500000003	1489616949208_839333	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0029103417000000006	1489616881498_1341667	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004240339525000001	1489616879770_964541	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019381921000000003	1489616946318_1682917	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014744474250000003	1489616967000_721958	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	9.193638500000003E-4	1489616882742_946541	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012593839	1489616946886_1121416	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	9.159041000000002E-4	1489616883875_871666	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001169008775	1489616968192_687625	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016424181749999996	1489617019379_693958	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020830757750000006	1489616879690_955833	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013799355249999997	1489616969203_764250	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00181357655	1489617019320_1209333	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012686774999999997	1489616967221_984083	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	8.634850250000003E-4	1489616974011_804417	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016283323750000001	1489616967474_888292	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015162230499999997	1489616950130_1709917	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001012987325	1489616948444_982834	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	7.431176500000001E-4	1489616974002_800667	false	SELECT * FROM inv
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	9.404158000000001E-4	1489616882753_930042	false	SELECT * FROM faqfields
+android.database.sqlite.SQLiteClosable: void close()	0.0031612952000000002	1489616968528_2259709	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001945665075	1489616967987_855750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016561581000000005	1489616948798_862416	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013573289750000003	1489616969158_724291	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001352040875	1489616967520_610000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.003648829925	1489616883080_5109542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018553028999999997	1489616968105_859042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012384194499999999	1489616969197_784292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00140921825	1489617019383_515542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016351188500000001	1489616969076_807166	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001129226575	1489616948492_655500	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.510506749999997E-4	1489616883560_896875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00132572975	1489616968979_930459	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.121979999999998E-4	1489616883542_529541	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014540155000000003	1489616968148_779750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010772351249999999	1489616949698_784709	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001652875	1489616949772_800833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001056612625	1489616967687_796083	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.213921000000001E-4	1489616968322_968875	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.510292000000003E-4	1489616883428_653958	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.21500575E-4	1489616883024_888625	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.992886249999999E-4	1489616883869_824208	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001084077775	1489616882883_842167	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013018312500000001	1489616948586_640625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001113740625	1489616949254_562917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010099317749999999	1489616882747_869125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015868809500000003	1489616949844_1194250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0021377741000000007	1489616950062_866167	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011400216499999995	1489616883767_1060708	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.8595415E-4	1489616882758_936667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012405774999999998	1489616968687_625708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014008170750000003	1489616883386_1014584	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.604213500000003E-4	1489616948456_598625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014410621500000002	1489616948566_643292	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.545066499999998E-4	1489616974005_681250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00190221675	1489616879696_566333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014032676000000001	1489616967501_600625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010897687	1489616949280_540750	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.081137250000002E-4	1489616883512_504541	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012046523000000004	1489616949228_776958	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.660012E-4	1489616882781_785916	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015372506750000003	1489616948618_871542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015835492000000004	1489616881502_530792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0024165561000000003	1489616968550_1167917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013983041999999996	1489616949297_696667	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.779482E-4	1489616882734_849917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013135316500000002	1489616949654_779250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017103546000000003	1489616948708_935542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016998016500000004	1489616949681_822667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013870208749999996	1489616967647_793375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001242973675	1489616883146_885500	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.6799685E-4	1489616883579_767875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012269171000000001	1489616967968_792417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00126847875	1489616883166_971500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012532253250000002	1489616968177_689958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013462344500000001	1489616969218_816083	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001513866225	1489616949171_612417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00108129155	1489616882901_859667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010353358500000001	1489616967547_539959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013662211499999998	1489616949413_773417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014443472249999997	1489616968342_969959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018646272000000003	1489616949148_884375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00211389985	1489616967858_950375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011117095249999999	1489616967507_431333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001379279725	1489616946324_1032292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015821523750000005	1489616949467_803959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015656794500000003	1489616948767_806333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00148173715	1489616968000_970666	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016184490999999997	1489616949906_946791	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001522996425	1489616883118_1345375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018715453000000002	1489616967830_1353750	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.642136999999999E-4	1489616883828_736084	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001399829125	1489616967771_832000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018581670250000003	1489616967872_941792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010062953499999998	1489616882942_868209	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0031166339250000004	1489616948905_2098250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016171830749999998	1489616949925_802709	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001851947175	1489616968571_1067708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011344103499999999	1489616883002_899667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0022890579499999994	1489616948924_1423791	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001715307125000001	1489616969094_809042	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.315692E-4	1489616883895_989958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001380371	1489616967899_966125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011462877	1489616949179_576125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013244018499999999	1489616948607_644458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011919703000000004	1489616949332_400875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016029623750000003	1489616949611_869667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013535349000000003	1489616949063_832375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004649136	1489616878961_650833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013855197500000005	1489616948721_952333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014113257500000006	1489616969039_813458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014317108000000002	1489616949431_778125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016644384250000001	1489616967738_885417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.002066341525	1489616968195_953875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012838167749999996	1489616968670_741000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010373724	1489616969139_720583	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001415802875	1489616883186_885875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016145617000000003	1489616968611_1050375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010012349500000003	1489616968751_522666	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.049045499999999E-4	1489616882823_828375	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.696024E-4	1489616883848_742291	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0022727690250000003	1489616949822_1085083	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00123079525	1489616968938_1034208	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012220520000000004	1489617019325_678334	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.360636500000001E-4	1489616883497_458542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001355912125	1489616948501_616291	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016948987	1489616949980_872750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011696614250000003	1489616949242_431625	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.5868665E-4	1489616948680_756917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012202078500000001	1489616950151_1135625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016237589249999999	1489616948779_804750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014249037000000002	1489616967556_617209	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0019779651750000005	1489616948865_1075416	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0025147867	1489616883663_1791000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016970402750000003	1489616967725_1067625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00122682455	1489616968138_780625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010804352	1489616949321_484750	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.432604749999998E-4	1489616883470_526917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0019901088500000005	1489616949716_777250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010718611000000002	1489616948473_658458	false	null
+android.database.sqlite.SQLiteClosable: void close()	6.745E-4	1489616883528_517375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010921706	1489616949354_417125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00336171905	1489616968468_1418291	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00286174545	1489617018695_620917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013905350499999998	1489616949037_893875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017418211499999998	1489616883051_2068042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018859817500000006	1489616883208_884125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011192180500000002	1489616949267_535750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016364971000000002	1489616948747_858417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012637369	1489616968302_904458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00142779315	1489616967943_822000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014349156500000006	1489616882962_906500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011890489500000004	1489616949310_488041	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0029526593000000004	1489616968439_1737708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016454581000000003	1489616949024_874084	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014708937000000003	1489616968282_1021917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.003300106225000001	1489616879774_749750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017247031000000006	1489616950023_793208	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017811786000000004	1489616968079_1363583	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001043430175	1489616882843_1173208	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.158579000000002E-4	1489616974014_602167	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.003628377125	1489616949590_2388084	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018564920500000002	1489616883359_1149667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012803871000000005	1489616969016_977583	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012226291499999999	1489616968187_727417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00100483445	1489616883616_816084	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014585222250000003	1489616948735_861833	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.146028000000003E-4	1489616883597_772167	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001252809375	1489616948556_619125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015250829500000002	1489616949887_982250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017532485000000002	1489616949547_1107458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016850877000000003	1489616949630_888125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015504169499999999	1489616948947_1108791	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013377374000000002	1489616883639_802958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015281535250000003	1489616948837_854917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014826616	1489616949569_949375	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.630196E-4	1489616882983_883292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017909197000000002	1489616969114_1138459	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0022474370750000003	1489616883259_1538333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001222878175	1489616967483_497750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00166578825	1489616967622_964458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015651308000000004	1489616967750_960459	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00133188545	1489616949203_670833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001065554375	1489616967514_476500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012396554750000002	1489616968958_932500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010471111	1489616968997_798500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012983601999999998	1489616949156_529750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013451743250000002	1489616968653_895167	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.0487915E-4	1489616883483_530208	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017872880500000006	1489616883691_1500541	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017848197500000005	1489616948816_878042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011388709500000003	1489616967494_504667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00167721325	1489616949006_978292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001431330575	1489616949396_772834	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015416281250000001	1489616948976_1023000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013767864250000005	1489616949081_905083	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011200956	1489616968701_566417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012944998750000004	1489616968167_682125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001113992275	1489616968823_814291	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001395766175	1489616967636_949292	false	null
+android.database.sqlite.SQLiteClosable: void close()	7.82610025E-4	1489616882804_748958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0035486852000000007	1489616968407_2224500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.002253315025000001	1489616949794_1442833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016971446000000002	1489616949484_788708	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.4037865E-4	1489616882863_909250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011840781750000003	1489616948511_645250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001308783975	1489616949507_780667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001463921475	1489616968591_950542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018577735999999998	1489616968215_803625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001467182	1489616950042_797750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010885236000000003	1489616968843_793417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015253511750000003	1489616949211_601292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013458213999999998	1489616949448_779250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017483042500000003	1489616967886_985542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015902139000000004	1489616968917_1025833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014085639500000002	1489616968050_957333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010811398000000003	1489616968718_559459	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013466748500000005	1489616968012_769666	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016397211499999999	1489616949866_1000625	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.275808999999998E-4	1489616968766_521208	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016560476500000001	1489616968234_1071417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014011596	1489616949343_417417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012516028500000002	1489616967609_934875	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.89614375E-4	1489616968893_999750	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.958301749999999E-4	1489616883445_714125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010533986	1489616968785_696875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011069077749999998	1489616946891_950958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0020875548500000002	1489616949946_866750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015416754500000003	1489616949138_811625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012262626250000004	1489616969057_786583	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011099933	1489616968732_585709	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018797549250000006	1489616950090_1958792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001058895625	1489616948482_558666	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012335929500000003	1489616968157_649458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015008484500000003	1489616883718_1491083	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.406694249999999E-4	1489616968804_717417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015605450000000004	1489616968384_983500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012692506	1489616968254_981417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017029785999999995	1489616967003_1033542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014030804750000004	1489616967810_729250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001247479875	1489616968127_716708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016511081500000001	1489616949116_953625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0011792782499999998	1489616882922_828666	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016672412500000002	1489616948992_1011875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014417209	1489616967921_803250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001690582625	1489616968865_1922584	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014666148750000004	1489616949195_809584	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014753264500000005	1489616967956_938333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012818795250000004	1489616883795_1580500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014039288	1489616948632_847084	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015694655	1489616968024_830042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.002890055	1489616883322_1473041	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015748466500000002	1489616968631_1077500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013065439250000003	1489616950119_1438000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0031148134250000006	1489616948880_2010625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013040756499999998	1489616967782_778792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0020239577500000003	1489616968093_841209	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.3036025E-4	1489616949364_369833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0017581958500000002	1489616968363_1020583	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013593132500000003	1489616948546_651375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016770624750000003	1489616949963_823084	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001587596525	1489616949527_808208	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012337512249999997	1489616949127_782959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.002148119125	1489616968501_1376583	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.1816215E-4	1489616883409_749541	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0012032437749999996	1489616948662_696750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015735462999999998	1489616949751_779584	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.179877E-4	1489616967224_573625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013983773499999996	1489616948644_822292	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.055787749999999E-4	1489616967584_523375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0010874741500000002	1489616883230_928083	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.083522000000001E-4	1489616967563_519708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013523846000000003	1489616949052_887750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0015745147500000004	1489616949103_854958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001021977875	1489616969177_723833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016771254749999999	1489616968116_874500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001446946225	1489616950003_793708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014296173750000007	1489616967666_822584	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0014718170499999996	1489616949732_783209	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013693616500000002	1489616967800_712459	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0019528390500000007	1489616883286_1681375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016629846750000003	1489616967713_960333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.001176759625	1489616949187_588916	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008697672775000002	1489616949557_9536625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007913010175000006	1489616882829_11071167	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.020467942899999998	1489616949661_17795125	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008698359150000003	1489616883834_12716708	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0065917151	1489616967628_5001000	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010225371825	1489616949831_9433667	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012230443950000003	1489616968538_9319458	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.015766868425000004	1489616950009_11518250	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013406281649999999	1489616968391_10818375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00999682375	1489616882929_10003125	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0027401122	1489616948478_2495167	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004546818499999999	1489616967744_3509792	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013847961649999995	1489616969183_11669708	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00400840625	1489616949175_2954500	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0072406355250000005	1489616883566_10386250	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009821469850000005	1489616883063_12830500	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.03194394565	1489616948515_29668167	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010588156650000001	1489616969045_9797125	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009233442675	1489616949245_7737792	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00402995575	1489616967510_3150166	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01631784442499999	1489616950029_11183334	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010799398500000001	1489616949722_8110000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.023941435674999997	1489616967523_21777667	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012858886625000001	1489616968348_12240083	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010699842275	1489616883702_13108542	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01264870305	1489616968220_9923625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0030969939250000003	1489616949183_2251667	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007719510474999999	1489616968967_8527791	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013158930275000003	1489616969164_11865458	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004750205075000002	1489616948496_4019667	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012110033925000005	1489616949159_10290583	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009917306449999998	1489616968580_8892625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0074872187	1489616882792_9458625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0124408575	1489616949419_9610458	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013763693075000003	1489616948753_11883292	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.003784387725	1489616968181_3962167	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014956719050000006	1489616967905_13633625	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004769488925	1489616948916_4211084	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.015694955599999998	1489616949087_13667791	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0128023189	1489616883623_14277166	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011144942300000004	1489616968676_9205542	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.016265523975	1489616967755_13820792	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008385023325000001	1489616969005_8380208	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007045042325000001	1489616882871_9568417	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0043966314999999995	1489616968171_3422125	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011674801399999999	1489616968771_11734208	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010857042424999998	1489616883395_12380792	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005926376950000002	1489616948741_4453291	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009196674475	1489616882969_11823917	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004676783675	1489616967804_3613167	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010977025500000001	1489616968829_10885458	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010582524175000002	1489616948804_10171708	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008364185525000003	1489616882889_10229208	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.017354550874999996	1489616883129_14353750	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011773885199999999	1489616883193_11872958	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010960108275000002	1489616968308_10900875	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013979257125	1489616967566_16422666	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0052538155999999996	1489616967732_4003666	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.020455536275000002	1489616968030_18500208	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012201680650000001	1489616949534_10371750	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00858683435	1489616883031_12132750	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008755142675000004	1489616949895_8461291	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007863431475	1489616968947_8611666	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007510499749999999	1489616883856_10895250	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009490844425	1489616968926_9348125	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004505043325	1489616967962_3753583	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005281266925000002	1489616948625_4278083	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005884284424999999	1489616948872_4524166	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0051728224500000005	1489616948550_4632584	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012709006874999998	1489616969145_11231667	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014113416725000003	1489616883450_18589000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01013184945	1489616882908_11782041	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010831207600000003	1489616968560_8370000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012984116199999998	1489616969100_10836125	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008169229050000002	1489616882810_11016625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0079841232	1489616883603_11034750	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012815362550000002	1489616949473_8821708	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.006946211550000001	1489616967993_5012125	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.016046776700000008	1489616949757_13171583	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.018637768300000006	1489616883237_17874583	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0116371981	1489616883270_9943959	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0051337915	1489616967892_4546834	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007029562124999998	1489616883780_10140250	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011260179224999998	1489616948649_10809833	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01671890747500001	1489616948955_18579417	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01196240235	1489616969082_9639209	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013905497099999995	1489616949739_10006667	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014466511800000002	1489616949932_11524833	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008216214675	1489616882948_10768625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00608535075	1489616948467_5069500	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.030638813950000003	1489616949367_26987708	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0038898904750000003	1489616968143_2959167	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007565033075	1489616883516_10135875	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00813546975	1489616948894_6624541	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005510963875	1489616967777_3780792	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005201370425000001	1489616968110_3853084	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005233903075000001	1489616967550_4131458	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009227967475000001	1489616968722_8610375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0102543005	1489616949437_8915083	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.015598383300000004	1489616967815_13154875	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00403356525	1489616968122_3181250	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01206458855	1489616948666_12504791	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.026700474024999997	1489616883334_22494167	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013618790950000003	1489616968370_11452625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0044191897	1489616948486_3957500	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013938479925	1489616968737_12423541	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014016658075000002	1489616882713_19220500	false	CREATE TABLE IF NOT EXISTS faqfields ( type TEXT,field_text TEXT,expandable_view TEXT,field_id INTEGER PRIMARY KEY AUTOINCREMENT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0059764706	1489616883488_7893041	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004330398600000001	1489616949031_3934625	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004012380625000001	1489616949132_3842917	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008257140999999997	1489616949301_6798833	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011363505349999999	1489616949454_10122208	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004213643500000001	1489616948505_3854000	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011401886375	1489616968267_11876875	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012420496050000002	1489616883370_13707917	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0034010360750000006	1489616949191_2702459	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004595719625	1489616967641_3566833	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01492240675	1489616949513_12521334	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011608148100000005	1489616949218_8315750	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005358572625000002	1489616968099_3723042	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01158491235	1489616968705_10663000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0032073732750000005	1489616949058_2951167	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008075142175000003	1489616968880_10745792	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013022746175000002	1489616967787_10927750	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012887191325000004	1489616968512_11997375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013265577200000002	1489616948784_11424250	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.002812523925	1489616949199_2498750	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014785549225000002	1489616949639_12496958	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0055226793750000015	1489616948772_4454917	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009951404599999996	1489616968755_9890167	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014853203899999999	1489616948570_14285000	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00512710505	1489616968087_3636041	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0027492280500000005	1489616967497_2161875	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01682782505	1489616883299_14730708	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.025247317675000002	1489616968452_12361042	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008949904074999999	1489616968849_12094458	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.018109583050000003	1489616948822_12908541	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008533916125	1489616949346_6318000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0084814547	1489616949313_6486666	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011785772925	1489616949495_9513917	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.006492454425000001	1489616967865_4783709	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007118504425000001	1489616883434_9453084	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009817112224999999	1489616949687_8590375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008938067750000004	1489616882766_12145625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004424878025000001	1489616967489_3590375	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014658527200000002	1489616968639_10976666	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009922556875000004	1489616883100_11834500	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005990835499999999	1489616949325_6485541	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.022730165825000006	1489616968479_18132167	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.050564954325	1489616878948_11770333	false	CREATE TABLE IF NOT EXISTS inv ( k INTEGER PRIMARY KEY,e TEXT,w TEXT,r TEXT,v TEXT,n TEXT,o TEXT,d TEXT,l TEXT,y TEXT,i INTEGER,p INTEGER,a INTEGER,s TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012474562125000001	1489616883809_17701083	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012156442475	1489616968328_10759083	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00595908065	1489616949108_5097583	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008158596750000002	1489616883546_11313375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.02028335305000001	1489616948590_14861250	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.006606542049999998	1489616882851_9197042	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.006486921525000001	1489616883532_8207083	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009416727075	1489616968600_8650875	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009122876475000001	1489616883009_12800250	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0038869258999999993	1489616948985_3991625	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.024152838100000008	1489616948685_20920875	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004498445975000002	1489616968162_3382791	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013454921150000004	1489616883675_12006375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009650937575000003	1489616968791_10969542	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013985659	1489616969024_13120542	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008873898449999997	1489616968620_8806000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012364134650000002	1489616949600_8908000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010863429624999995	1489616950104_11428542	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0027288442500000005	1489616967517_2175791	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014989396075	1489616967973_11587083	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005317758225	1489616967615_4741459	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012073024450000004	1489616949969_9365125	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0084453253	1489616968902_11093000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008563214275000005	1489616949259_6944917	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012955334124999997	1489616968202_10822959	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00533085325	1489616968007_3910375	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.006054006075	1489616883474_7615375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.003831883175	1489616949153_2305667	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0022286117249999994	1489616967559_2591750	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.015210515575000003	1489616949704_9980458	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007230473999999999	1489616882990_9560667	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010561989549999998	1489616948933_10555875	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009167901799999998	1489616949335_6253292	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009585390349999999	1489616949619_8763583	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014599045200000004	1489616883214_12983500	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00511803735	1489616948999_4120625	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010203454024999996	1489616949068_10393750	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010914770775	1489616949579_9038250	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.017289888374999993	1489616967693_17660250	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005154436675	1489616967719_4030375	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012880533399999998	1489616949285_10687625	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010230459049999996	1489616968288_11217916	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008324875650000002	1489616949271_7355167	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00548914935	1489616948612_4485417	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.017823747949999996	1489616950048_11557792	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009993418	1489616949402_8424375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00286061605	1489616967504_2009250	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007076229249999997	1489616883501_9688541	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.006045914899999999	1489616948714_4599375	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010136405874999997	1489616949854_9747792	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.015817665025000004	1489616969123_13461333	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.006684463199999998	1489617018692_2416458	false	CREATE TABLE IF NOT EXISTS inv ( k INTEGER PRIMARY KEY,e TEXT,w TEXT,r TEXT,v TEXT,n TEXT,o TEXT,d TEXT,l TEXT,y TEXT,i INTEGER,p INTEGER,a INTEGER,s TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.016752046825000002	1489616949808_11354125	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0048123516	1489616949143_3036541	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.011238268800000001	1489616883173_10740000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.016976351450000007	1489616949986_13777125	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009865703700000008	1489616949875_8643583	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007954212500000002	1489616883415_10421542	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010886189599999999	1489616968240_11124833	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007053295975000001	1489616967878_5143541	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005418706475000001	1489616949044_5156500	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004494003225	1489616949121_3602959	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0138562549	1489616969063_10290084	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005100630050000002	1489616948728_4717875	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.02201834329999999	1489616883731_30068333	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.015246907650000006	1489616967927_14311125	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.02247817844999999	1489616968057_19342333	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.008910747274999995	1489616968692_7834667	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009067680125	1489616949233_8028959	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.004656118900000001	1489616968132_3477583	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014878480374999996	1489616967588_17938667	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005139614850000002	1489616948637_4453667	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013028233250000005	1489616883153_10052708	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.005465663724999999	1489616948560_4476208	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.006509416775000001	1489616883585_9201958	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009588562600000006	1489616968809_11717541	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0038681972250000003	1489616968152_3338209	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0077371392499999995	1489616968986_8342958	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0056804207	1489616968017_4341459	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009999113399999997	1489616949914_8524375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012571503949999998	1489616967652_12171666	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.027020730850000004	1489616950069_17194208	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0050300798	1489616967949_4715792	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.012442229599999995	1489616949952_8930083	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.013332126000000001	1489616967672_13856125	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.010824992625000003	1489616949013_8466084	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.014434235700000004	1489616883646_13143875	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01353858302500001	1489616949779_10967000	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.007776989675000002	1489616949357_6359208	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.023608133025000005	1489616967837_18832083	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.02436536200000001	1489616948843_20175000	false	DELETE FROM faqfields WHERE field_id=?
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.009341870575	1489616968660_8192375	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.01693392104999999	1489616968423_11719250	false	REPLACE INTO faqfields (type,field_text,expandable_view,field_id) VALUES (?,?,?,?);

@@ -1,0 +1,3 @@
+android.database.sqlite.SQLiteQueryBuilder: void appendColumns(java.lang.StringBuilder,java.lang.String[])	0.0020959818	0.0020959818	0.0020959818	0.0020959818	785667	1	785667	785667
+
+0.0020959818	785667	2.6677737514748614	null

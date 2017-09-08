@@ -1,0 +1,569 @@
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0031656862000000005	1489105757973_556416	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004957646600000001	1489105757957_686959	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.00495428105	1489105757954_965875	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.12994075545000006	1489105758033_26117500	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004898389	1489105757961_639625	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.00447516225	1489105757956_738625	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.01456781035	1489105821708_11402833	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.012811487799999993	1489105873095_9128292	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.00322158385	1489105757974_569459	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0044963392	1489105757958_679291	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.00443421295	1489105757968_746708	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004089102850000001	1489105757969_796708	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.00454920685	1489105757965_793583	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0038613207000000004	1489105757978_597042	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.22058733679999992	1489105761876_28101750	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0045834967	1489105757960_795667	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004607489450000001	1489105757964_691167	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004968274650000001	1489105757962_678000	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0042969188000000005	1489105757975_697709	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0041716141	1489105757976_605958	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.014667664900000009	1489105821646_9845875	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0047432396	1489105757979_612708	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.00334490495	1489105757971_587917	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.004362805350000001	1489105757967_703416	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0032176755000000003	1489105757972_537292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0127389855	1489105932467_6004542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0189696703	1489105895673_2449000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007229195000000001	1489105925070_2872125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.020775933299999997	1489105895608_3077041	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0070066183000000015	1489105772980_2812250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0044977086	1489105895623_400542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0081845137	1489105773448_5634167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.023375278750000006	1489105758094_4466625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.04708936140000001	1489105772881_9347958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0044762317	1489105925543_3107834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0042689358	1489105799483_1161125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0032314798000000005	1489105758554_424459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009893643099999998	1489105922497_5072541	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0106987973	1489105821638_7486334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.013987147150000002	1489105933067_4523500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00601699	1489105788688_2843625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035690403500000002	1489105895664_249000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0072433948000000005	1489105873160_4920875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036680379500000004	1489105758579_446917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012758280500000005	1489105873084_8882667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00599638285	1489105840372_2950625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007302539900000003	1489105904250_2724750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007418468050000001	1489105821688_5583750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006835467450000002	1489105922535_3769417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.020881198250000003	1489105758062_4096708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008427280349999998	1489105873119_5845875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.019055720650000007	1489105904717_13403333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.021240308350000004	1489105758155_4053791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0056572951	1489105881364_2950250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.04802804005	1489105761603_8648500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01724980055	1489105895561_2993417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008103585149999998	1489105796722_6318042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014955848799999998	1489105895684_2746208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.02870748985	1489105881281_6799125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011756111600000002	1489105922613_6206333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0172551197	1489105788623_6179875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007013382450000001	1489105925063_2574291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0054594482000000005	1489105878306_3880834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01396974445	1489105834922_6589625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036145958000000002	1489105895663_254542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035801698	1489105758584_449125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004343987400000001	1489105758575_639792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01580338615	1489105877691_6873084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034602777500000004	1489105895653_374500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.018317222700000003	1489105758028_3694458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0148537884	1489105932537_4323291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.02899337604999999	1489105924992_8163916	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.015610020950000001	1489105761909_1532292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007310047449999999	1489105758484_1218125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0079099893	1489105847672_6711875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006764111799999999	1489105840845_4620709	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0165873339	1489105895594_2610416	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0200357018	1489105758537_4373791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006153087550000001	1489105821736_4662333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0050325818500000005	1489105873192_3216000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004202041499999999	1489105878296_2804084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007527957949999999	1489105873133_5441500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008369435049999999	1489105873145_6112208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0039818505	1489105758449_572500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004082807850000001	1489105880105_2995375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.04794487715	1489105761867_7226500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008964237699999999	1489105821674_5695375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035814511	1489105758569_440708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0016930191999999999	1489105926255_892625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008234190300000001	1489105938922_7006083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.28276239384999985	1489105757928_61162708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006524150250000002	1489105821749_4029459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035953858500000005	1489105758572_558916	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012183243400000002	1489105821659_8417875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01018698395	1489105877773_2796291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014159358300000001	1489105895631_2400833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00458994925	1489105895589_342542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006179815449999999	1489105847563_5214834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00601988295	1489105873182_3898667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009532511550000003	1489105932550_3991250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.019357107900000003	1489105758380_3810625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003086817100000001	1489105895587_397916	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034463248	1489105758557_480041	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007349790699999999	1489105821722_5750958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0082843213	1489105877764_2881417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034053619	1489105758560_531166	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0048352753	1489105881357_2474625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0040894411000000006	1489105758446_514875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.03957660645000001	1489105761921_4894792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014637892050000005	1489105830703_8082083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01195127785	1489105914134_7582917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00335662265	1489105758563_437959	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01734482605	1489105895647_2437500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036080333499999995	1489105895666_269291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034004219999999997	1489105758566_478875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00420075985	1489105881874_2835167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008257319800000001	1489105925056_2694667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00490400145	1489105935517_3370583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0064590859000000014	1489105938935_5619291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.027990128849999997	1489105761931_4100791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.016461206650000004	1489105926227_10582583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.010728062649999998	1489105762522_4454375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0167572848	1489105881853_11497583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036558202000000002	1489105758581_440542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004764757500000001	1489105821765_3265208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.015898879400000003	1489105904168_6739500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009921586300000002	1489105788679_3054709	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0084153288	1489105873107_5863708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00480103915	1489105895656_258375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00348212705	1489105895661_264500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.020615226849999998	1489105895678_2706000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01407699065	1489105895582_2615083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005290700650000001	1489105873199_3060334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0046006866999999995	1489105895625_408584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01150516545	1489105768018_8619541	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00830483205	1489105922527_4447875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011046042850000002	1489105799554_2724625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.018913715050000005	1489105895642_2395375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.023134801500000007	1489105758438_4582917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00322192055	1489105758552_464917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006311533349999999	1489105935509_4222041	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00978682895	1489105837034_6498833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036314862500000005	1489105895668_274375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008297901250000001	1489105833714_6341208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0101282382	1489105922508_5438084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009293043649999999	1489105800035_4634167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0236320428	1489105758472_5024959	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004609616650000001	1489105880097_3332709	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00971186925	1489105933052_2921083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0169836453	1489105758545_3737042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.026297922500000005	1489105895615_5471167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.14379618855000004	1489105757994_29991833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0063721874500000004	1489105873173_3899416	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034771596500000005	1489105895651_292333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.02173907865	1489105758463_4219500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005454111050000001	1489105847592_4567000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0068518562	1489105772968_2735042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0026456317	1489105895658_249458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0041614785	1489105758452_511208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007980879000000001	1489105932559_3529250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005703239150000002	1489105904240_2759584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01335921475	1489105895599_2570791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00506683485	1489105925555_3484792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009781210450000001	1489105926268_5807208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009811094749999999	1489105899669_7525042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008121163649999999	1489105821701_6352666	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0055733350000000004	1489105799546_2720458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0102306738	1489105778765_7109375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005168899700000001	1489105789183_3109542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002878348800000001	1489105895660_252875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.11051510164999997	1489105877781_42579042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004780852500000001	1489105821772_3277375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005515105249999999	1489105840381_2734000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.023469201700000008	1489105840309_7154167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003978665500000001	1489105758480_718833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006315231150000001	1489105895655_404333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009645910450000001	1489105800015_5342750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0098640363	1489105835785_7549250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0010404741000000003	1489105821757_561791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005887400199999999	1489105847573_4678125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004393115600000001	1489105847600_3752791	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00107360565	1489105880110_452125	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00253260875	1489105926264_1423167	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00727341175	1489105761943_811083	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0013014375000000003	1489105847571_909167	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.005312505750000001	1489105895598_879750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0015244478500000005	1489105821720_925417	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00106884175	1489105847599_774041	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.006934194049999999	1489105761928_680792	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0020064835	1489105821699_1204292	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0018397558000000005	1489105873143_1114542	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.004985417700000001	1489105758393_971709	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.008077576400000001	1489105758460_1202125	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0021704163499999996	1489105772985_738500	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0021894221000000004	1489105788685_681583	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.004931225350000001	1489105895677_451750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0020847799500000003	1489105925563_1340875	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0063323108	1489105895689_449250	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0016020865000000001	1489105821763_800083	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.005074723350000001	1489105895613_651916	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0031300493	1489105933075_840917	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00126082425	1489105821747_763583	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00542840435	1489105758470_847667	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0068517708	1489105895574_838792	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00126712605	1489105904245_548750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0015690588000000002	1489105768036_958750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0017329523000000002	1489105938933_1079125	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0020792383000000003	1489105922506_910125	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0021848873	1489105881369_400667	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.005562167450000001	1489105758060_921584	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0017207702500000002	1489105877777_504084	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00137295735	1489105773463_754000	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0014305833000000001	1489105821771_612833	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0019490411500000001	1489105926278_1133458	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.005052541100000001	1489105758544_803917	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0013721248500000002	1489105935516_782750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0012778542000000002	1489105881361_463583	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0015283059000000003	1489105873171_764584	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0018704202000000003	1489105938944_1226750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0019544013	1489105821657_1184541	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0033464726999999994	1489105840322_1301875	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0018537827	1489105873117_1140708	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0016215067000000002	1489105932556_511250	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0020012655	1489105821672_1162292	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.012181567	1489105799489_1552375	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0024488660500000003	1489105830723_1334000	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.005307202950000001	1489105757993_852542	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.005518369300000001	1489105895646_415333	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0014603108000000003	1489105821734_952458	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.006461642250000001	1489105932476_1044208	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0059329429999999996	1489105895607_590042	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00131442065	1489105821781_605833	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.008029377600000002	1489105895672_658417	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0019915607	1489105899690_1328541	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00138707715	1489105904254_591000	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0016334566	1489105778786_990917	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00207787145	1489105835805_1322958	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0026689204500000003	1489105925075_502333	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0092429907	1489105758105_1609375	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0022129026	1489105837052_1200833	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0018108462000000001	1489105873158_983375	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0010474867	1489105925552_513333	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0041954456	1489105772896_682250	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0019398587000000003	1489105840857_1015875	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0014169376	1489105873191_650542	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00178301525	1489105847683_1161000	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0020986618500000004	1489105788693_511958	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0029994732	1489105800043_907000	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0018908187500000003	1489105821686_1024042	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0020688450000000006	1489105873105_1166167	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0011152500000000001	1489105873208_593458	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0042563198	1489105933062_1000833	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0057731158	1489105761621_904667	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0026203739499999997	1489105932545_715500	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0013991464000000003	1489105877826_585000	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00208449715	1489105840378_557792	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0014612005000000001	1489105799551_512459	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.008606275200000001	1489105761918_632958	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00244906545	1489105833732_1270625	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0044126468	1489105895592_506791	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00253197545	1489105772973_493125	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0018360707999999998	1489105922541_763000	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0010981379	1489105847607_725166	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0020626044	1489105922516_754584	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0040292614	1489105895683_405500	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0011264314500000002	1489105881871_466791	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0014554977	1489105840386_506709	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0014415289	1489105873180_756208	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0010133466000000002	1489105878311_441334	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00392367295	1489105895635_477500	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00211867605	1489105800030_1038917	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0012923683000000002	1489105847581_922291	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0016946010500000002	1489105873131_992291	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0024122225000000005	1489105922623_1100250	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0013332865	1489105904748_662000	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0075200168	1489105761904_786500	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0049017325	1489105788633_1103292	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0024411279000000007	1489105926252_1167167	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00264888165	1489105932565_706417	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0033690443000000004	1489105877769_693709	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00285070905	1489105881292_1282166	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0013541514000000002	1489105935523_659125	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0013457938500000001	1489105821756_790541	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0010050173499999999	1489105880104_588167	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00432828095	1489105758073_784750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00422371785	1489105895629_508167	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0100713082	1489105877703_1284416	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0019048328000000002	1489105922534_718375	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.002578706	1489105925060_495750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00982787365	1489105904179_1440584	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00331141515	1489105799559_514625	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0018575937	1489105925067_459667	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0046524884999999995	1489105758027_716375	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00105657445	1489105878303_421041	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0035666307000000006	1489105834940_1225625	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00157943315	1489105789191_562875	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0052818084	1489105758161_745583	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0015195993	1489105873198_630917	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.005456938350000001	1489105925006_1494959	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00254391975	1489105762531_573417	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0010219213500000002	1489105881878_466458	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016180149999999998	1489105773455_881583	false	select sum(distance), startTime from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by date(startTime, 'unixepoch', 'localtime') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00425823905	1489105758561_682541	false	select * from Workoutitem where fitnessID=15 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00561446665	1489105758443_829459	false	select * from Workoutitem where fitnessID=8 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001939811	1489105904744_1151459	false	select meta, distance, startTime from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00571348905	1489105895628_600667	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010137601000000003	1489105878300_448708	false	select sum(distance), startTime from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by date(startTime, 'unixepoch', 'localtime') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014946189000000004	1489105821728_898792	false	select * from Workout where fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024232370500000006	1489105933055_422750	false	select distance, startTime from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026456317	1489105895658_363208	false	select * from Workoutitem where fitnessID=6 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004206075050000001	1489105933056_1158042	false	select sum(distance), startTime from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by date(startTime, 'unixepoch', 'localtime') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010601679000000002	1489105880102_519250	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007182194649999999	1489105895621_748333	false	select * from Workoutitem where fitnessID=9 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011345985	1489105873203_525459	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017967062	1489105925074_446625	false	SELECT lat,lng,_id FROM Location WHERE _id IN (?,?)order by _id DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00250500645	1489105835797_1684791	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(count) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID == 7 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00722566295	1489105799557_618333	false	select * from Workout where fitnessID=1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00393600735	1489105895597_438750	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005531690999999999	1489105895624_487458	false	select * from Workoutitem where fitnessID=10 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00179144045	1489105847679_1359375	false	SELECT Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00468430715	1489105895650_452041	false	select * from Workoutitem where fitnessID=19 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006003466450000001	1489105925001_1875709	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00246709635	1489105877776_504291	false	select * from Workout where fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024368743000000004	1489105772971_467667	false	select * from Workoutitem where fitnessID=10 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016079287999999998	1489105821759_808042	false	select * from Workoutitem where fitnessID=12 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00659194415	1489105761616_1261083	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(calorie), Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0029594182	1489105830716_1497417	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(calorie), Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013777892500000002	1489105873178_757958	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0075406136	1489105761941_919833	false	SELECT fitnessID, Sum(calorie) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035586789500000006	1489105800024_1446208	false	select sum(count), startTime from Workoutitem where fitnessID=1 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by date(startTime, 'unixepoch', 'localtime') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004187403750000001	1489105904176_1375417	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=10
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013290721000000004	1489105821780_689334	false	SELECT fitnessID, Sum(calorie) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016066826	1489105773460_959791	false	select meta, distance, startTime from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021926550999999996	1489105837048_1375042	false	SELECT fitnessID, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00414136975	1489105758555_628000	false	select * from Workoutitem where fitnessID=17 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00166000645	1489105773458_858542	false	select sum(distance), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023082123500000004	1489105835801_1442125	false	SELECT fitnessID, Sum(count) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID == 7 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004737193650000001	1489105895655_385166	false	select * from Workoutitem where fitnessID=16 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010599592	1489105881877_450417	false	select Sum(duration) from Workoutitem where fitnessID=2 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012840452500000002	1489105821778_678541	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(calorie), Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003347491350000001	1489105834937_1344667	false	SELECT fitnessID, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007801457550000001	1489105761926_711250	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0039149902	1489105881289_1201959	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030309729000000006	1489105840318_1156417	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=8
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00777607225	1489105895605_604584	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004616461750000001	1489105895591_479542	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004202559700000001	1489105895612_599542	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004655647999999999	1489105904732_3037583	false	select sum(distance), startTime from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by date(startTime, 'unixepoch', 'localtime') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00107813	1489105881869_576916	false	select sum(count), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=2 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00467935685	1489105758573_687708	false	select * from Workoutitem where fitnessID=4 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019690393	1489105821744_1225375	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035516293500000005	1489105788682_851458	false	select * from Workoutitem where fitnessID=7 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005679819950000001	1489105877699_1414750	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00107074095	1489105821776_530792	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025762767499999998	1489105933072_726083	false	select Sum(duration) from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005847129950000001	1489105758486_888583	false	select * from Workoutitem where fitnessID=11 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013343556000000002	1489105847578_911708	false	select * from Workoutitem where fitnessID=7 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00253895395	1489105873114_1441750	false	select * from Workout where fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0040273998	1489105758550_745917	false	select * from Workoutitem where fitnessID=19 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013296332	1489105788691_488833	false	select * from Workout where fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0036145958000000002	1489105895663_359959	false	select * from Workoutitem where fitnessID=3 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018642925000000004	1489105922532_709334	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034771596500000005	1489105895651_378958	false	select * from Workoutitem where fitnessID=18 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.010319804850000001	1489105761911_918959	false	select * from Workoutitem where fitnessID=11 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.010609825600000001	1489105772891_2053042	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=10
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00263167485	1489105840376_739708	false	select * from Workoutitem where fitnessID=8 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010938214	1489105873196_591542	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020199182000000004	1489105873140_1319875	false	SELECT Count(*), _id from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-09') AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0042055198999999995	1489105758558_720125	false	select * from Workoutitem where fitnessID=16 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0054762024	1489105895682_493416	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004435587300000001	1489105758585_676375	false	select * from Workoutitem where fitnessID=0 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00334852765	1489105834933_1392416	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034073742499999998	1489105800041_797792	false	select Sum(duration) from Workoutitem where fitnessID=1 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00443515515	1489105799549_605958	false	select * from Workoutitem where fitnessID=1 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038350163999999994	1489105904739_2576667	false	select sum(distance), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0060422184	1489105758450_867250	false	select * from Workoutitem where fitnessID=12 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020894092	1489105926275_1148125	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00254349225	1489105922620_1146208	false	SELECT Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030807599	1489105933059_659166	false	select sum(distance), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005889465350000001	1489105758447_835875	false	select * from Workoutitem where fitnessID=13 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014941731000000001	1489105768034_928209	false	SELECT fitnessID, Sum(calorie) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00438375795	1489105758066_769208	false	select * from Workout where fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021212583000000005	1489105837041_1004583	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0043201964	1489105895603_731750	false	select * from Workoutitem where fitnessID=7 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00492797475	1489105895670_532375	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012798811	1489105881360_521584	false	select * from Workoutitem where fitnessID=2 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005038806800000001	1489105895585_724459	false	select * from Workoutitem where fitnessID=8 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004660504550000001	1489105895653_546250	false	select * from Workoutitem where fitnessID=17 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006046396400000001	1489105757990_800708	false	select * from Workout where fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0082241731	1489105788630_1019250	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0048564882	1489105758478_867458	false	select * from Workoutitem where fitnessID=9 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00359361185	1489105895662_369584	false	select * from Workoutitem where fitnessID=4 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010924074499999998	1489105881868_566292	false	select sum(count), startTime from Workoutitem where fitnessID=2 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by date(startTime, 'unixepoch', 'localtime') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0046446783500000005	1489105895669_425500	false	select * from Workoutitem where fitnessID=14 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006676632350000002	1489105932474_888084	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010428229500000004	1489105925551_567750	false	select sum(distance), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021511542000000002	1489105926261_1382583	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014128381999999999	1489105873204_738666	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015830833	1489105881367_386875	false	select * from Workout where fitnessID=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0047413177	1489105895681_383416	false	select * from Workoutitem where fitnessID=2 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013967089999999999	1489105938930_1033792	false	select * from Location where  _id>-1 AND _id<-1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017259387000000002	1489105796729_1148583	false	select * from Workoutitem where fitnessID=8 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004211934200000001	1489105895626_521833	false	select * from Workoutitem where fitnessID=11 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018334632500000003	1489105925066_477916	false	select * from Workout where fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005627913200000001	1489105932542_1493875	false	select * from Workoutitem where fitnessID=14 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00369674145	1489105895676_376916	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034162892	1489105799485_1457833	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0041228411	1489105758567_698500	false	select * from Workoutitem where fitnessID=6 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0055544048	1489105758386_860625	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(calorie), Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013909839000000002	1489105935521_653917	false	select * from Workoutitem where  _id=5
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014857152500000002	1489105821741_919583	false	select * from Workoutitem where fitnessID=2 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007631749299999999	1489105761612_1264167	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020854138000000006	1489105800027_1188292	false	select sum(count), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=1 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00131232005	1489105789187_482208	false	select count, startTime from Workoutitem where fitnessID=7 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00210150415	1489105926257_1094666	false	select * from Workoutitem where fitnessID=11 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005037281600000001	1489105761619_917250	false	SELECT fitnessID, Sum(calorie) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003594807350000001	1489105895665_397375	false	select * from Workoutitem where fitnessID=1 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00514214305	1489105758160_611000	false	SELECT Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010402664500000001	1489105880109_438916	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.010736501550000001	1489105895572_1352417	false	SELECT fitnessID, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022500064	1489105840854_1290417	false	select CAST(meta AS real), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=8 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00554923625	1489105758482_874292	false	select * from Workoutitem where fitnessID=10 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002878348800000001	1489105895660_390625	false	select * from Workoutitem where fitnessID=5 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022317188500000002	1489105899678_1465625	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00546290155	1489105758468_907208	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023601411000000005	1489105877824_552958	false	SELECT lat,lng,_id FROM Location WHERE _id IN (?,?)order by _id DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004552587350000001	1489105758582_638083	false	select * from Workoutitem where fitnessID=1 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00583199495	1489105758390_1143916	false	SELECT fitnessID, Sum(calorie) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012796832000000003	1489105847605_879416	false	select * from Workoutitem where fitnessID=11 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010155603	1489105878301_431292	false	select sum(distance), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0120906094	1489105895565_2079500	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00436397825	1489105758576_728625	false	select * from Workoutitem where fitnessID=3 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00208484805	1489105877767_712791	false	select * from Workoutitem where fitnessID=14 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016179984000000002	1489105873189_777541	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.01012777225	1489105761916_809250	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017723665500000002	1489105789189_922000	false	select Sum(count), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=7 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00139194045	1489105904253_546708	false	select * from Workout where fitnessID=10
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010163209000000001	1489105878310_485500	false	select Sum(duration) from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011868969	1489105938941_915542	false	select * from Workoutitem where  _id=5
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00230127955	1489105899686_1470958	false	SELECT fitnessID, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00238750675	1489105821695_1412250	false	SELECT Count(*), _id from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-09') AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026175788000000005	1489105830720_1346583	false	SELECT fitnessID, Sum(calorie) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00181420055	1489105772983_479458	false	select * from Workout where fitnessID=10
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004717582800000001	1489105758384_724500	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005894648400000002	1489105895590_559083	false	select * from Workoutitem where fitnessID=12 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00269737445	1489105895633_375458	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0032735212500000005	1489105758564_594875	false	select * from Workoutitem where fitnessID=14 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024579384499999997	1489105914143_1333333	false	select * from Workoutitem where fitnessID=8 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0055635612500000015	1489105758100_957208	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004946086900000001	1489105758542_704166	false	select fitnessID from Workout order by lastTupleTime DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005392343550000001	1489105758570_846708	false	select * from Workoutitem where fitnessID=5 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020758958500000004	1489105833728_1395750	false	SELECT fitnessID, Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00459736895	1489105758579_708208	false	select * from Workoutitem where fitnessID=2 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030743909000000005	1489105834930_1166541	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0060277419	1489105895588_471541	false	select * from Workoutitem where fitnessID=13 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025771638500000004	1489105925059_448750	false	select * from Workoutitem where fitnessID=14 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018057882500000003	1489105925560_1137834	false	select Sum(duration) from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017607039000000005	1489105835793_1064917	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015637652500000002	1489105768031_919542	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(calorie), Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017662781500000003	1489105922514_787917	false	select * from Workoutitem where fitnessID=7 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015446581000000004	1489105873166_874834	false	select * from Workoutitem where fitnessID=14 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017418506499999999	1489105821761_807666	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010435484	1489105821769_565917	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=12
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017746536500000004	1489105768027_1039000	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014206642	1489105800021_681625	false	select count, startTime from Workoutitem where fitnessID=1 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016250953	1489105904243_782166	false	select * from Workoutitem where fitnessID=10 order by startTime DESC limit 15
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00747527345	1489105758457_1139875	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010196747000000002	1489105878299_404542	false	select distance, startTime from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011035174000000002	1489105847597_730792	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=11
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0055763353000000005	1489105895645_432125	false	select fitnessID from Workout order by lastTupleTime DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00105429405	1489105880101_445333	false	select * from Workoutitem where fitnessID=11 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037101417500000006	1489105895657_407500	false	select * from Workoutitem where fitnessID=15 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0036932370500000005	1489105895688_390208	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022779725000000002	1489105932554_747959	false	select * from Workout where fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00467861225	1489105758025_737625	false	select * from Workoutitem where fitnessID=7 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014926918000000003	1489105873186_770125	false	select * from Workoutitem where fitnessID=12 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017957814500000001	1489105840385_704250	false	select * from Workout where fitnessID=8
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00133646	1489105935514_782250	false	select * from Location where  _id>-1 AND _id<-1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022493246499999996	1489105840851_1272000	false	select meta, startTime from Workoutitem where fitnessID=8 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006755535399999999	1489105761936_653834	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017540854500000002	1489105873169_993833	false	SELECT Sum(calorie), Sum(duration), Sum(count), Sum(distance), Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = '2017-03-09' AND fitnessID=14
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00127624145	1489105925549_632500	false	select sum(distance), startTime from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') group by date(startTime, 'unixepoch', 'localtime') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030886442000000003	1489105932563_500791	false	SELECT lat,lng,_id FROM Location WHERE _id IN (?,?)order by _id DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022736443999999997	1489105821669_1249375	false	select * from Workout where fitnessID=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023709312000000002	1489105830712_1070458	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00219200245	1489105778773_1257167	false	select sum(distance), startTime from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-89 days') group by date(startTime, 'unixepoch', 'localtime') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013580973999999999	1489105873206_669458	false	SELECT fitnessID, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('2017-03-05', '4 days') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by fitnessID
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003555940250000001	1489105895667_378834	false	select * from Workoutitem where fitnessID=0 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012189447	1489105881866_552792	false	select count, startTime from Workoutitem where fitnessID=2 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00281643315	1489105778781_1636000	false	select meta, distance, startTime from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-89 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018004319000000004	1489105833722_1057500	false	SELECT DATE('now', 'localtime', '-6 days', 'weekday 0'), DATE('now', 'localtime', '0 days', 'weekday 6')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025383459000000008	1489105837044_1503458	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0070887245	1489105895568_1010250	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021825349999999998	1489105922503_948041	false	select * from Workout where fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014789310500000002	1489105821754_714125	false	SELECT Count(*) from Workoutitem where date(startTime, 'unixepoch', 'localtime') = DATE('now', 'localtime') AND fitnessID=2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00101932785	1489105925547_551208	false	select distance, startTime from Workoutitem where fitnessID=14 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-33 days') order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022254528500000002	1489105833724_1550416	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013146746	1489105847569_951666	false	select * from Workout where fitnessID=7
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00202419205	1489105922539_925792	false	select * from Workoutitem where fitnessID=11 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006523023050000001	1489105758454_878083	false	select * from Workoutitem where fitnessID=7 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006650329200000001	1489105761937_921333	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(calorie), Sum(duration) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 Group by weekday
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027747298500000006	1489105778777_1646000	false	select sum(distance), strftime('%W', datetime(startTime + 86400, 'unixepoch', 'localtime')) AS WeekNumber from Workoutitem where fitnessID=10 AND date(startTime, 'unixepoch', 'localtime') > DATE('now', 'localtime', '-89 days') group by WeekNumber order by startTime ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00413218145	1489105758553_610459	false	select * from Workoutitem where fitnessID=18 order by _id DESC limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026196128000000006	1489105899682_1540167	false	SELECT strftime('%w', datetime(startTime, 'unixepoch', 'localtime')) AS weekday, Sum(distance) from Workoutitem where date(startTime, 'unixepoch', 'localtime') >= DATE('now', 'localtime', '-6 days', 'weekday 0') AND date(startTime, 'unixepoch', 'localtime') <= DATE('now', 'localtime', '0 days', 'weekday 6') AND fitnessID >= 7 AND fitnessID <= 12 AND fitnessID != 9 Group by weekday
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.01778547885	1489105758069_3986584	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.007219499950000001	1489105762527_3244083	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.019295266550000006	1489105926239_11585250	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00422148065	1489105821731_3046791	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00604580675	1489105821681_4294875	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0059558117500000006	1489105873126_4192292	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004286086700000001	1489105895482_559375	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0010765384000000003	1489105881356_334041	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0013907859500000002	1489105877761_537708	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.012008023099999997	1489105756592_2365833	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0018537679500000004	1489105788677_328167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00189004805	1489105925055_518708	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.003743444200000001	1489105756595_490625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00107829625	1489105799546_334084	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	9.377476500000001E-4	1489105904239_338750	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00483163925	1489105895642_255458	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0016270374000000002	1489105840370_689417	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00429351225	1489105758435_621834	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.006896842100000001	1489105895479_922709	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00468712285	1489105758535_933583	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00132988805	1489105772967_314916	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004905983050000001	1489105895560_591292	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0070999606	1489105757920_835916	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.002638324350000001	1489105925052_706125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0010749677	1489105877762_328416	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00451308515	1489105895641_376167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0021669988	1489105922493_891334	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0017643778000000002	1489105922496_659250	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0010637952	1489105904747_422625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0023582286	1489105932535_704792	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0017512726	1489105847558_855084	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0016090337000000004	1489105778785_839375	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	9.769428E-4	1489105904238_361583	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0012839048499999998	1489105840372_356292	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.001399484	1489105904237_507625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00460487025	1489105758379_601542	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0020429726499999997	1489105881355_623458	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0012376046	1489105847560_689792	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0016735990000000002	1489105772966_433083	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0010970791500000002	1489105773462_500541	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0017828019	1489105788678_343208	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0018180006500000002	1489105772967_414250	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0011771383	1489105847561_627417	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0017872313	1489105932537_402125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.007648907750000001	1489105757918_923584	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0010765384000000003	1489105881356_311167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00181896975	1489105922494_691625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00241746645	1489105799545_591167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0037344426	1489105756598_438792	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00183352365	1489105925054_482375	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0034029053500000007	1489105758536_486417	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.006142227050000001	1489105757922_631958	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0026521295000000006	1489105895581_372416	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0030154590500000005	1489105788676_520625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	9.935373E-4	1489105840371_325375	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.003990346299999999	1489105799543_718250	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.007736734899999999	1489105895483_1062416	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.002136974	1489105877763_854875	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0021978531000000005	1489105932534_740917	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010419838399999999	1489105757951_2019166	false	create table if not exists Workout(_id integer primary key AUTOINCREMENT, fitnessID integer, lastHistTuple integer, uncheckCount integer, totalWorkout integer, totalTime integer, totalRep integer, totalDist real, maxRep integer, maxDist real, ssRep real, ssDist real, lastTupleTime datetime);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00926123455	1489105758011_1666250	false	create table if not exists Workoutitem(_id integer primary key AUTOINCREMENT, fitnessID integer, startTime datetime, duration integer, count integer, distance real, calorie real, meta string);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00269461335	1489105877813_1399833	false	create table if not exists Location(_id integer primary key AUTOINCREMENT, startTime datetime, lat real, lng real, alt real, acc real, step real);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006735125200000001	1489105758014_1026625	false	Create Index if not exists startTime_idx ON Workoutitem(startTime);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00576207325	1489105758013_867167	false	Create Index if not exists fitnessID_idx ON Workoutitem(fitnessID);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0068899082	1489105873152_4848292	false	update Workoutitem set count = count + 0, duration = duration + 7380, distance = distance + 6437.36, calorie = calorie + 520.64307 where _id=4

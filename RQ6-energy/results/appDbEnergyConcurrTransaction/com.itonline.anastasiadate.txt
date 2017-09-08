@@ -1,0 +1,1 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.037975540849999996	1491108529581_15133625	false	null

@@ -1,0 +1,37 @@
+select	0.00116556095	0.003879996886904762	0.0036578928500000003	0.0094112734	345291	35	517875	739750
+
+0.00116556095	345291	3.37559029919691	SELECT * FROM `widget_config`
+0.0014596338	256833	5.6832019249862755	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+0.002236322725000001	354459	6.309115370183861	SELECT * FROM `mobile_subscriber` WHERE `id` = ?
+0.0024545028166666674	319792	7.675310253748272	SELECT * FROM `alert_rule` WHERE (`plan_config_id` = 1 AND `name` = 'Mobile_automatic_rule_plan_threshold' )
+0.0024552648	356334	6.890346697199818	SELECT COUNT(*) FROM `persistent_context` WHERE `id` = ?
+0.0024789533	405459	6.113943210040967	SELECT * FROM `plan_config` WHERE `id` = ?
+0.00273154835	412416	6.623284135436065	SELECT * FROM `mobile_subscriber` WHERE `id` = ?
+0.002765533225	382500	7.230152222222222	SELECT * FROM `plan_config` WHERE `mobile_subscriber_id` = 1
+0.0027740072249999997	351083	7.901286091892799	SELECT COUNT(*) FROM `persistent_context` WHERE `id` = ?
+0.0028108911249999993	328250	8.563263137852246	SELECT * FROM `mobile_subscriber` WHERE `id` = ?
+0.002891086525	317083	9.117759466764221	SELECT * FROM `persistent_context` WHERE `key` = 'notif_check_box_state'
+0.002965789625	355625	8.339654481546573	SELECT * FROM `plan_config` WHERE `id` = ?
+0.0029706199500000004	695917	4.268641159793482	SELECT * FROM `mobile_subscriber` WHERE `id` = ?
+0.0031030375500000007	298500	10.395435678391962	SELECT * FROM `persistent_context` WHERE `key` = 'com.mobidia.android.mdm.client.common.activity.PlanActivity Usage Series Visible Roaming'
+0.0031409071500000003	584958	5.369457550798519	SELECT * FROM `persistent_context` WHERE `key` = 'wifi_alignment'
+0.0034651773	463875	7.470066936135813	SELECT `shared_plan_alert_rule`.* FROM `shared_plan_alert_rule` INNER JOIN `shared_plan_plan_config` ON `shared_plan_alert_rule`.`shared_plan_plan_config_id` = `shared_plan_plan_config`.`id` INNER JOIN `shared_plan_group` ON `shared_plan_plan_config`.`shared_plan_group_id` = `shared_plan_group`.`id` WHERE `shared_plan_alert_rule`.`shared_plan_plan_config_id` IN (`shared_plan_plan_config`.`id` ) AND (`shared_plan_plan_config`.`shared_plan_group_id` IN (`shared_plan_group`.`id` ) ) AND (`shared_plan_group`.`mobile_subscriber_id` = 1 )
+0.0036268945	506666	7.158353826781351	SELECT `shared_plan_alert_rule`.* FROM `shared_plan_alert_rule` INNER JOIN `shared_plan_plan_config` ON `shared_plan_alert_rule`.`shared_plan_plan_config_id` = `shared_plan_plan_config`.`id` INNER JOIN `shared_plan_group` ON `shared_plan_plan_config`.`shared_plan_group_id` = `shared_plan_group`.`id` WHERE `shared_plan_alert_rule`.`shared_plan_plan_config_id` IN (`shared_plan_plan_config`.`id` ) AND (`shared_plan_plan_config`.`shared_plan_group_id` IN (`shared_plan_group`.`id` ) ) AND (`shared_plan_group`.`mobile_subscriber_id` = 1 )
+0.0036578928500000003	517875	7.063273666425297	SELECT * FROM `app` WHERE `package_name` = 'com.android.packageinstaller'
+0.0036874104000000005	333792	11.047030486051195	SELECT CHANGES()
+0.0037258147000000003	318834	11.68575089231387	SELECT * FROM `persistent_context` WHERE `key` = 'rate_app_epoch_time'
+0.00420493975	244250	17.215720573183216	SELECT * FROM `persistent_context` WHERE `key` = 'are_google_services_suppressed'
+0.004213262400000001	393583	10.704889184746293	SELECT * FROM `plan_config` WHERE `mobile_subscriber_id` = 1
+0.0043314043	351292	12.329925816699497	SELECT COUNT(*) FROM `persistent_context` WHERE `id` = ?
+0.0043941944500000005	435250	10.095794256174612	SELECT * FROM `persistent_context` WHERE `key` = 'com.mobidia.android.mdm.client.common.activity.PlanActivity Usage Series Visible Mobile'
+0.0044693665	252750	17.682953511374876	SELECT * FROM `persistent_context` WHERE `key` = 'last_known_roaming_state'
+0.0047238902	402542	11.735148630453466	SELECT * FROM `persistent_context` WHERE `key` = 'automatic_alerts_enabled'
+0.004741550200000001	386375	12.271886638628278	SELECT * FROM `persistent_context` WHERE `key` = 'notifications_enabled'
+0.0051509264	390500	13.19059257362356	SELECT CHANGES()
+0.00518243415	327291	15.83433137483157	SELECT * FROM `persistent_context` WHERE `key` = 'GaMobilePlanState'
+0.005297502400000001	448875	11.801731885268728	SELECT SUM(u.ingress_usage) as ingress, SUM(u.egress_usage) as egress FROM usage as u WHERE u.usage_category = 0 AND (u.flags & 40 = 0 OR (u.flags & 8 <> 0 AND u.flags & 16 <> 0)) AND u.timestamp >= 1491030000000 AND u.timestamp < 1491030000000 AND u.plan_config_id IN (1)
+0.00543438575	630959	8.612898381669808	SELECT * FROM `persistent_context` WHERE `key` = 'last_usage_report_time'
+0.005734784750000001	704583	8.139260740040564	SELECT COUNT(*) FROM `persistent_context` WHERE `id` = ?
+0.0057978291000000005	567125	10.22319435750496	SELECT COUNT(*) FROM `persistent_context` WHERE `id` = ?
+0.006145298424999999	875208	7.021529082229595	SELECT * FROM `persistent_context` WHERE `key` = 'on_boarding_survey_presented'
+0.0094112734	739750	12.72223507941872	SELECT * FROM `plan_config` WHERE `mobile_subscriber_id` = 1

@@ -1,0 +1,51 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.15909061130000002	1491079759648_39993750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.057259776899999996	1491079841798_7853459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.012397618000000003	1491079759692_2815375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01138508215	1491079759698_3031458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.016736335050000006	1491079759736_2372583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01303393975	1491079759727_2293292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011376149700000003	1491079759743_2410750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0117072526	1491079759706_3008666	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0210163065	1491079759718_3853833	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0027502833	1491079759702_427708	false	delete from platform where name = ?
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0058690356	1491079759739_406375	false	delete from platform where name = ?
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00374907105	1491079759729_506167	false	insert into platform values (?,?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00220468595	1491079759746_373375	false	insert into platform values (?,?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00315850255	1491079759695_427333	false	select value from platform where name = ?
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0051331598	1491079759723_460917	false	delete from platform where name = ?
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.004316539900000001	1491079759710_604042	false	insert into platform values (?,?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00285767345	1491079759689_508458	false	select value from platform where name = ?
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0039008340000000006	1491079759703_546416	false	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0041595283	1491079759741_553709	false	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.01173752195	1491079759732_2180500	false	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.005322542800000001	1491079759724_658125	false	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.008426606400000003	1491079759748_1948708	false	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.015472385700000002	1491079759712_2709625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.009811413450000002	1491079841796_1040583	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.005924809299999999	1491079759646_1195375	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0022347370500000003	1491079759747_295459	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0037559587000000005	1491079759724_325875	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0038797003000000004	1491079759740_322625	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0039927965000000004	1491079759711_406542	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0027343179000000003	1491079759690_414209	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0031099013	1491079759711_384667	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.002077032	1491079759731_317083	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.002077032	1491079759731_311083	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.00249671675	1491079759696_327667	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0026887608000000004	1491079759703_320125	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0022347370500000003	1491079759747_305959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0031159415500000005	1491079759750_409834	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0032782943500000005	1491079759691_496709	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0034919986000000007	1491079759735_330959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00422316555	1491079759705_489209	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00425066815	1491079759736_457625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00437791965	1491079759715_528292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0036521113500000003	1491079759726_443000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0022117605	1491079759697_461458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0037828636000000007	1491079759704_326875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.006237592200000001	1491079759717_937458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00257929155	1491079759742_321708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0033752138500000002	1491079759742_419500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0025238317	1491079759725_300708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004288876999999999	1491079759751_628834	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0040950577500000005	1491079759678_997333	false	create table platform(name TEXT,value TEXT)

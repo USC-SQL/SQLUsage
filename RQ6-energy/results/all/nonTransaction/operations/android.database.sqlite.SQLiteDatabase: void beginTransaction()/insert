@@ -1,0 +1,3 @@
+insert	0.00622215175	0.00622215175	0.00622215175	0.00622215175	688083	1	688083	688083
+
+0.00622215175	688083	9.04273430676241	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)

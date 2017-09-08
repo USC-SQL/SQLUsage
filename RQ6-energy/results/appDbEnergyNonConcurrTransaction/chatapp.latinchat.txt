@@ -1,0 +1,16 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.025893598200000003	1489108155080_5313250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0055586392	1489108299467_4359375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.32199295665	1489108154975_60664000	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00607195105	1489108155086_833416	false	SELECT _id FROM cats LIMIT 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	9.296023E-4	1489108299472_465375	false	SELECT _id FROM cats LIMIT 1
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0165589766	1489108152809_2449250	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004719720250000001	1489108154974_891084	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	9.975704E-4	1489108299466_567750	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0033130642	1489108155078_765041	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.3121455E-4	1489108299473_530666	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0072140688	1489108155041_896459	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.005721385100000001	1489108155088_895042	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.019519055650000002	1489108155037_3206083	false	DELETE FROM cats
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0083544459	1489108155014_1121708	false	CREATE TABLE fotos(_id integer PRIMARY KEY,idprod integer NOT NULL,url text NOT NULL,img_p blob,img blob,orden integer NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014730256050000003	1489108155011_2264584	false	CREATE TABLE productos (_id integer UNIQUE,orden integer PRIMARY KEY AUTOINCREMENT,ref text NOT NULL,titulo text NOT NULL,descr text NOT NULL,idcat integer NOT NULL,precio real,precio_descr text NOT NULL,anyo integer NOT NULL,mes integer NOT NULL,dia integer NOT NULL,url_detalle NOT NULL,url_compra NOT NULL,img1_p blob,img1 blob,img1_id integer NOT NULL,img1_url text NOT NULL,det_cargado integer NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008884352	1489108155016_1037708	false	CREATE TABLE cats(_id integer PRIMARY KEY,idcat integer,descr text NOT NULL);

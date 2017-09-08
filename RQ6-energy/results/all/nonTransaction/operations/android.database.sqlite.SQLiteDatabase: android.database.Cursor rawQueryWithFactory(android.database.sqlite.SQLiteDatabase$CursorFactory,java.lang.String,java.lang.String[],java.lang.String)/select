@@ -1,0 +1,417 @@
+select	0.0041834805000000004	0.011208360638072295	0.0096611466	0.06480331740000002	931250	415	1920584	8038833
+
+0.0041834805000000004	931250	4.492328053691276	SELECT * FROM hrZones WHERE workoutId = '1545509632126873586'
+0.0042629703	1446125	2.9478574120494425	select * from challenges where isActiveChallenge = 1
+0.0043229173000000004	1465792	2.9492024107103876	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.00463752935	1210875	3.829899328997626	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=27 order by rank
+0.004736013650000001	1312208	3.609194312182215	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=30 order by rank
+0.004747595150000001	1659875	2.8602124557572113	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.004830249500000001	1584416	3.048599294629694	SELECT * FROM workout WHERE workoutId = '1545509632126873586'
+0.004855407350000001	1375084	3.530989634087809	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.0050555261500000006	1074041	4.707014117710591	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' AND tpId > '2'
+0.005150342299999999	1998542	2.5770498193182823	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.00518237415	1069667	4.844848116282918	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=28 order by rank
+0.0052338618000000005	951750	5.499198108747046	select * from challengeSports where challengeIdFk=18
+0.00526127095	1027417	5.120872002312596	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=28
+0.0054207312500000005	1135208	4.775099585274241	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=17 order by rank
+0.0054306711	1101542	4.9300626757763215	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=20 order by rank
+0.00545025215	1019000	5.348628213935231	select * from challengeSports where challengeIdFk=17
+0.0055356400000000005	1351458	4.096050339707191	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=29 order by rank
+0.0055992772	1178250	4.752197920645024	select * from challengeSports where challengeIdFk=9
+0.005603144500000001	1118333	5.010264831673572	select * from challengeSports where challengeIdFk=8
+0.0056957071	1185708	4.803633862637343	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=10
+0.0057990739	1281959	4.523603250962004	select * from challengeSports where challengeIdFk=29
+0.005854445700000001	1175416	4.980743583548294	select * from challengeSports where challengeIdFk=13
+0.005886004949999999	1173333	5.016482916614464	select * from challengeSports where challengeIdFk=7
+0.005956540100000001	1010459	5.8948854926325565	select * from challengeSports where challengeIdFk=19
+0.00596269505	1022250	5.83291274150159	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=22
+0.0059789877000000005	1106125	5.405345417561307	select * from challengeSports where challengeIdFk=1
+0.006004577850000001	952166	6.306230058624232	select * from challengeSports where challengeIdFk=19
+0.006095311850000001	1145750	5.319931791403012	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=17
+0.006180457050000001	1307541	4.7267787778738874	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=3
+0.0061838008	1287291	4.803731867930406	select * from challengeSports where challengeIdFk=3
+0.00619942625	1652250	3.7521115146013013	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=22
+0.00623247135	1358459	4.587898015324717	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=16 order by rank
+0.006241241400000001	1043917	5.978675890899373	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=29
+0.006254644649999999	1245000	5.023810963855421	select * from challengeSports where challengeIdFk=28
+0.006321734450000001	1088708	5.806639108006923	select * from challengeSports where challengeIdFk=27
+0.006322945900000001	1379583	4.583229787551746	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=8 order by rank
+0.0063543724	1254416	5.065602160686726	select * from challengeSports where challengeIdFk=5
+0.0063758806000000015	1330250	4.792994249201279	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=9 order by rank
+0.006436954850000001	1278208	5.035921266335371	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=10 order by rank
+0.006443455000000002	1209083	5.329208168504563	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=9
+0.00644756115	1259792	5.117956892883905	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=11 order by rank
+0.006475075749999999	1226416	5.279673251164367	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=8
+0.006509261599999999	1358083	4.792977748782659	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=3 order by rank
+0.0065219832	1116292	5.842542273885328	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=15 order by rank
+0.006545861050000001	1331500	4.916155501314308	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=16
+0.0065737582	1222375	5.37785720421311	select * from challengeSports where challengeIdFk=11
+0.0065955967	1216375	5.4223382591717195	select * from challengeSports where challengeIdFk=10
+0.00661282695	1166750	5.6677325476751665	select * from challengeSports where challengeIdFk=24
+0.006652653300000001	1165917	5.705940731630125	select * from challengeSports where challengeIdFk=16
+0.0066808686	1584125	4.217387264262606	select * from challengeSports where challengeIdFk=1
+0.00671062895	1240000	5.41179754032258	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=13 order by rank
+0.00671832285	1234292	5.443057923084651	select * from challengeSports where challengeIdFk=9
+0.00672945585	1552083	4.335757720431188	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.006729643550000001	1063542	6.327576673041592	select * from challengeSports where challengeIdFk=16
+0.00673531015	1228750	5.481432472024415	SELECT * FROM weather WHERE workoutId = '1545509632126873586'
+0.0067387984	1466625	4.594765805846757	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=4 order by rank
+0.006749471450000001	1705500	3.9574737320433893	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.006751758299999999	2117500	3.1885517355371897	select * from challenges where isActiveChallenge = 1
+0.006760329550000002	1531375	4.4145487225532625	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.006769692700000001	1077000	6.285694243268338	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=28 order by rank
+0.006796126300000001	1741041	3.9034843521778066	select * from challengeSports where challengeIdFk=22
+0.006799297849999999	1213917	5.60112252320381	select * from challengeSports where challengeIdFk=12
+0.00681522815	1327417	5.134202854114419	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=14
+0.006844439399999999	1223500	5.594147445852062	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=11
+0.006864535200000001	1078083	6.367353162975393	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=16 order by rank
+0.00689538525	955416	7.217154883317843	select * from challengeSports where challengeIdFk=20
+0.0069186625499999994	1136333	6.088587192310705	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=23
+0.006926158600000001	1403833	4.933748244983557	select * from challengeSports where challengeIdFk=2
+0.006942223949999999	1580625	4.392075255041518	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=2 order by rank
+0.0069476773999999995	999167	6.953469640210295	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=17
+0.006961328450000001	1770958	3.9308263945277084	select * from challenges where challengeId = 32340475
+0.00696714265	1079583	6.453549796541813	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=30
+0.0069883112	1169125	5.977385822730675	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=28 order by rank
+0.00701575065	1284167	5.463269691558809	select * from challengeSports where challengeIdFk=12
+0.00703224855	1037542	6.777796513297774	select * from challengeSports where challengeIdFk=18
+0.0070375619	1171666	6.006457386319992	select * from challengeSports where challengeIdFk=28
+0.007055659350000001	1471500	4.794875535168196	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=5
+0.0070678656000000015	1582333	4.4667371533046465	select * from challengeSports where challengeIdFk=29
+0.0071300632999999995	1150333	6.198260242903577	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=19 order by rank
+0.007132140899999999	1269083	5.619916821831196	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=14
+0.007138915199999999	1323750	5.39294821529745	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=13
+0.007189904	1211667	5.93389437857101	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=7
+0.00723199925	1320916	5.474988000750994	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=27 order by rank
+0.0072774655	1167459	6.233594070541235	select * from challengeSports where challengeIdFk=14
+0.007290918150000001	1273916	5.723233046762895	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=7
+0.007299136400000001	1414459	5.160373259316814	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=27
+0.007311161	1263459	5.786623072058531	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=9
+0.0073257544	1016458	7.207139301377922	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=21
+0.007354505700000001	1008250	7.294327498140343	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=25
+0.007376515250000001	971167	7.59551678547562	select * from challengeSports where challengeIdFk=30
+0.007404692500000001	1459250	5.074313859859517	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=7 order by rank
+0.00741234095	1290750	5.742661979469301	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=11 order by rank
+0.007419270950000002	1168209	6.350979105622368	select * from challengeSports where challengeIdFk=20
+0.0074214354	1384958	5.358599610962932	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=20
+0.007424912150000002	1331458	5.576527498426538	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=29
+0.007435802900000001	963084	7.720824870935454	select * from challengeSports where challengeIdFk=30
+0.007481760350000001	1276958	5.859049671171644	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=5 order by rank
+0.007485547899999999	1693375	4.42049038163431	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=4
+0.007496591250000001	1654333	4.531488672474043	select * from challengeSports where challengeIdFk=4
+0.0075415861500000006	1265708	5.958393365610394	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.00755437255	1135417	6.653390384325759	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=29 order by rank
+0.00757131575	1100584	6.879362002355113	select * from challengeSports where challengeIdFk=25
+0.00757621575	1570875	4.822927190260205	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=14 order by rank
+0.00758226505	1430750	5.299503791717631	select * from challengeSports where challengeIdFk=8
+0.007582277300000001	1513333	5.010316500069714	select * from challengeSports where challengeIdFk=15
+0.0076149924	1189125	6.403861999369284	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.007624814700000001	1191917	6.397102063314812	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=28
+0.007646651850000002	1346791	5.677682617421709	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=14
+0.0076562555000000004	1515750	5.051133432294244	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=15
+0.00765985315	1192000	6.426051300335571	select * from challengeSports where challengeIdFk=26
+0.007662026650000001	1263167	6.065727374131845	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=27 order by rank
+0.007670040050000001	1112208	6.896228088630904	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=19 order by rank
+0.007689144850000002	1310792	5.866029736220546	select * from challengeSports where challengeIdFk=23
+0.007702558100000002	1230083	6.261819812159018	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=16
+0.0077149226	1682542	4.585277871221046	select * from challenges where isExploreChallenge = 1 AND isActiveChallenge = 0
+0.00772418635	1253542	6.161888752032241	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=13 order by rank
+0.00772783125	1516125	5.097093742270591	select * from challengeSports where challengeIdFk=11
+0.007729491049999999	1318792	5.861038776395367	select * from challengeSports where challengeIdFk=6
+0.007734683799999999	986667	7.839203905674355	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=19
+0.007766076750000001	1140625	6.808615232876713	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=28
+0.00780968585	2216208	3.5238957038328533	select * from challenges where isActiveChallenge = 1
+0.0078598242	1380292	5.694319897528929	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=16 order by rank
+0.0079426701	1065333	7.455575017388929	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=19
+0.0079689296	1210500	6.58317191243288	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=17 order by rank
+0.0079818797	1190041	6.707230843307078	select * from challengeSports where challengeIdFk=17
+0.00798761595	1190042	6.712045415203833	select * from challengeSports where challengeIdFk=15
+0.00803795765	1472625	5.45825152363976	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=12
+0.00804777305	1480917	5.434317419544782	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=8 order by rank
+0.00805470925	1206541	6.675868660907503	select * from challengeSports where challengeIdFk=16
+0.008075312850000002	1335417	6.047034634125522	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=6 order by rank
+0.008137698550000001	1096667	7.420391559151503	select * from challengeSports where challengeIdFk=22
+0.00813991835	1233916	6.596817246879042	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=20
+0.0081669832	1086791	7.514768893007028	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=29 order by rank
+0.008184108800000003	1179500	6.938625519287836	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=19
+0.00819139615	1067542	7.673137122473871	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=30 order by rank
+0.00819853035	1431666	5.726566356957559	select * from challengeSports where challengeIdFk=13
+0.008220352250000002	1307625	6.286475289169296	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.0082578441	1207667	6.837848595680763	select * from challengeSports where challengeIdFk=14
+0.008262640600000001	1225000	6.745012734693878	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=18 order by rank
+0.00826966485	1820416	4.542733556505765	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=5 order by rank
+0.008294706450000001	1365125	6.076151597839027	select * from challengeSports where challengeIdFk=7
+0.00830489025	1916875	4.332515291816107	select * from challengeSports where challengeIdFk=1
+0.0083303049	1446916	5.7572830074448	SELECT * FROM poi WHERE trackId = '5791671789772491854'
+0.008331141500000002	1185875	7.025311689680616	select * from challengeSports where challengeIdFk=4
+0.0083405682	1425584	5.850632582857271	select * from challengeSports where challengeIdFk=15
+0.00839154665	1130666	7.4217732292294984	select * from challengeSports where challengeIdFk=19
+0.008411440300000001	976625	8.61276365032638	select * from challengeSports where challengeIdFk=28
+0.0084176599	1241791	6.778644635047283	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=15 order by rank
+0.008427107500000001	1064334	7.917728363464854	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=15
+0.00850296635	1215459	6.995683400262781	select * from challengeSports where challengeIdFk=21
+0.008532317099999999	1549625	5.506052819230457	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=6
+0.00855231465	1693833	5.049089638707004	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=10
+0.008555271150000002	1074209	7.9642519751742915	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=26 order by rank
+0.00857570425	1389958	6.169757827214923	select * from challengeSports where challengeIdFk=29
+0.008578119450000001	1659250	5.169877625433179	select * from challengeSports where challengeIdFk=14
+0.00858523545	1294625	6.631445746837887	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=6 order by rank
+0.00863356415	1603750	5.3833603429462205	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=8
+0.008645833950000001	1715292	5.040444396639172	select * from challengeSports where challengeIdFk=10
+0.00865432095	1394625	6.205482441516538	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.0086642023	3444000	2.5157381823461087	SELECT * FROM poi WHERE trackId = '5791671789772491854'
+0.00874833145	1542250	5.672447041659913	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=12
+0.0087833797	1275000	6.88892525490196	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=14 order by rank
+0.008793891249999998	1319542	6.664351153657859	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=30
+0.00883056595	1765708	5.001147386770633	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=13 order by rank
+0.0088512447	2288625	3.8674945436670494	SELECT * FROM workout WHERE trackType = '0' AND upLoadStatus <> '2' AND starttime <> 0
+0.008863196649999999	1139334	7.779278639977389	select * from challengeSports where challengeIdFk=20
+0.00887205365	1011792	8.76865368573778	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=30
+0.0088748435	1648667	5.3830418756486305	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=13
+0.008875415550000001	1407750	6.304681619605755	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=27 order by rank
+0.008898370300000001	1166333	7.629356538827248	select * from challengeSports where challengeIdFk=30
+0.008903375449999999	1329709	6.695732261720421	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=20 order by rank
+0.008904679249999999	1221916	7.287472502201461	select * from challengeSports where challengeIdFk=13
+0.00892755235	1311542	6.8069130458650955	select * from challengeSports where challengeIdFk=5
+0.008954622499999999	1469333	6.094345189279761	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=9
+0.008970316700000001	1278750	7.014910420332357	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=12 order by rank
+0.00901515	1329042	6.783194210566709	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=16
+0.009024766100000001	1315292	6.861416400312631	select * from challengeSports where challengeIdFk=8
+0.00902886025	1395875	6.468244112116056	select * from challengeSports where challengeIdFk=1
+0.0090597914	1055708	8.581720892519522	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=22 order by rank
+0.00909275725	1196958	7.5965549751954535	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=22 order by rank
+0.009119622150000001	1266792	7.198989376314345	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=15 order by rank
+0.0091233743	1327417	6.873028068798276	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=18 order by rank
+0.009151126400000001	1074416	8.517302795192924	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=18
+0.009153279350000001	1357166	6.744406616434542	select * from challengeSports where challengeIdFk=18
+0.009183913	1229167	7.471656007686506	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=12
+0.009205971500000002	1248333	7.374611982539917	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=15
+0.009218351849999999	1213416	7.597025134001859	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=13
+0.0092200983	1018542	9.052251453548308	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=29
+0.0092691282	1341875	6.907594373544481	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=17 order by rank
+0.00927794965	951250	9.753429329829173	select * from challengeSports where challengeIdFk=27
+0.009280323750000001	1491167	6.223530798361283	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=12 order by rank
+0.00928485685	1302625	7.127804893964112	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=3 order by rank
+0.009285818200000002	1244167	7.463482153119317	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.0092905578	1408500	6.59606517571885	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=23 order by rank
+0.009304767600000001	1247167	7.460723062749416	select * from challengeSports where challengeIdFk=6
+0.009328994100000002	1222125	7.633420558453515	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=19 order by rank
+0.0093808118	1204250	7.789754452979033	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=4
+0.00944392805	1223083	7.721412242668732	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=17
+0.009472834	1736833	5.454084532018909	SELECT * FROM workout WHERE workoutId = '1545509632126873586'
+0.009503197949999998	1353583	7.0207722393085605	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=5 order by rank
+0.009566862850000002	1401000	6.828595895788723	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=8 order by rank
+0.0095689677	1875791	5.101297372681711	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=7 order by rank
+0.00959811045	1040500	9.22451749159058	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=24
+0.0096375898	1095875	8.79442436409262	select * from challengeSports where challengeIdFk=17
+0.009646173950000001	1296542	7.439924005547064	select * from challengeSports where challengeIdFk=2
+0.009649642800000002	1805542	5.34445767531301	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.009657454150000001	1221750	7.90460744833231	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=21
+0.0096611466	1920584	5.030317132705469	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=11
+0.009663923650000001	1835583	5.264770729517543	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=27
+0.00970586005	1376125	7.053036642746844	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=27
+0.0097214967	2236750	4.346259841287582	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=2
+0.009733283300000001	1238167	7.861042411887897	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=18
+0.00976169695	1325666	7.363617193169321	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=5
+0.00981158325	1472708	6.66227334271288	select * from challenges where isExploreChallenge = 1 AND isActiveChallenge = 0
+0.009825016650000002	1394792	7.044072987226771	select * from challengeSports where challengeIdFk=1
+0.00988843535	1011208	9.778834176549235	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=23
+0.00996001185	1072583	9.286005698393506	select * from challengeSports where challengeIdFk=28
+0.009995379750000002	1794958	5.568586980865292	SELECT * FROM trackpoint WHERE workoutId = '5791671789772491854' ORDER BY timestamp
+0.0100144132	1656750	6.044613369548815	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=25 order by rank
+0.010069401450000001	1211875	8.308943950489944	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=23
+0.0100753018	1226125	8.217189764501988	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=2 order by rank
+0.010088401800000002	1557584	6.476955207552209	select * from challengeSports where challengeIdFk=24
+0.010102301900000003	1844542	5.476861952723224	select * from challengeSports where challengeIdFk=12
+0.01018991875	1444167	7.0559144129453175	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=18
+0.01022686825	1145958	8.924295872972657	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=29 order by rank
+0.010260070650000001	1021916	10.040033280621891	select * from challengeSports where challengeIdFk=23
+0.010269193450000002	1686708	6.088305415045165	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=25
+0.010304950750000002	1719625	5.992556952824018	select * from challengeSports where challengeIdFk=9
+0.010356732149999999	1837583	5.636062235011969	SELECT * FROM weather WHERE workoutId = '1545509632126873586'
+0.0104663141	1420084	7.370207748274045	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=20
+0.010503478149999999	1384834	7.584647798941966	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=5
+0.010545955450000002	1318125	8.000724855381698	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=23 order by rank
+0.010551619850000001	1582208	6.668920805608366	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=10
+0.01055187235	1439709	7.32917023509612	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=18 order by rank
+0.010573594	1596541	6.622813945899291	select * from challengeSports where challengeIdFk=5
+0.010573739100000002	1667000	6.342974865026996	SELECT * FROM workout WHERE trackType = '0' AND upLoadStatus <> '2' AND starttime <> 0
+0.01061468525	1426333	7.441940451493445	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=11 order by rank
+0.010648644250000002	1542791	6.902194950579827	select * from challenges where isActiveChallenge = 1
+0.0106769523	1720000	6.207530406976745	SELECT * FROM workout WHERE trackType = '0' AND status = '3' AND starttime > '1485935999998' AND starttime < '1491000885379' ORDER BY starttime
+0.0107290855	1701375	6.306126221438542	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=24 order by rank
+0.010764507400000001	1211708	8.883747074377656	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=21 order by rank
+0.010767708500000002	1690917	6.36796986487214	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=10 order by rank
+0.01085042035	1357541	7.992701767386768	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=30 order by rank
+0.010873014450000001	1047625	10.378727550411647	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=24 order by rank
+0.010882018050000001	1269833	8.56964502418822	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=26 order by rank
+0.0109115319	1644375	6.635671242873433	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=24
+0.010933379350000003	1037250	10.540736900457945	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=24 order by rank
+0.010939675050000002	1173375	9.323255608820713	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.01094124755	1210333	9.039865516349634	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=22
+0.010991777000000001	3126333	3.515868910957342	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.010998317499999999	1351500	8.137859785423602	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.011017498750000002	2077834	5.302396028749169	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=12 order by rank
+0.01103734505	1035917	10.654661570376776	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=24
+0.011051596800000002	1200000	9.209664000000002	select * from challengeSports where challengeIdFk=22
+0.01109986265	1453458	7.636865083132777	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=21
+0.011103749700000002	2068167	5.368884475963498	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=9 order by rank
+0.01117564975	1004375	11.126969259489732	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=23
+0.011202032899999999	1262541	8.872609206354486	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=2
+0.01120443055	1046458	10.707004533387865	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=27
+0.011206026400000001	1694125	6.6146396517376225	select * from challenges where challengeId = 32340475
+0.011240085550000002	1117209	10.060861978376472	select * from challengeSports where challengeIdFk=30
+0.0112797384	1103083	10.225647934017656	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=25 order by rank
+0.01132391725	1693375	6.687188159740164	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=3
+0.011327899850000002	1427166	7.937338648762654	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=28 order by rank
+0.011350014700000001	1063667	10.670646640348908	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=29
+0.011356572	1493750	7.6027260251046025	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=26 order by rank
+0.011391504700000001	1729792	6.585476577530709	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=24
+0.011413996350000002	1204084	9.479402059989171	select * from challengeSports where challengeIdFk=23
+0.011417771250000002	1158958	9.85175584447409	select * from challengeSports where challengeIdFk=22
+0.011439408100000001	1205083	9.492630881026454	select * from challengeSports where challengeIdFk=26
+0.01145335115	1120459	10.222017182244064	select * from challengeSports where challengeIdFk=25
+0.011493558550000003	1262041	9.107119776615818	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=22 order by rank
+0.01151099025	1117333	10.302201984547132	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=26
+0.01153919605	1996750	5.778988881933142	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=21 order by rank
+0.011573970000000001	1292250	8.956448055716775	select * from challengeSports where challengeIdFk=27
+0.011635226550000002	1663084	6.996174907581338	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=25 order by rank
+0.01169308955	2275208	5.13934969901653	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=14 order by rank
+0.011707692300000001	2078375	5.633099079809948	select * from challengeSports where challengeIdFk=21
+0.011716246250000001	1021917	11.46496853462659	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=26
+0.011755239850000002	1318291	8.91702958603222	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.011788257350000003	2170167	5.431958623460776	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=20 order by rank
+0.0118146792	1859042	6.355251360647044	select * from challengeSports where challengeIdFk=26
+0.011877320600000001	1838250	6.461210716714267	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=6
+0.011880677000000001	1372500	8.656230965391622	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=21 order by rank
+0.011936683500000001	1650000	7.234353636363636	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=4 order by rank
+0.011999865	1636333	7.333388130655557	select * from challengeSports where challengeIdFk=27
+0.012029777100000002	1019209	11.803052268965445	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=25
+0.012098306000000001	1020375	11.856725223569766	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=23 order by rank
+0.0122066236	1534209	7.956297740399124	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=2
+0.01221390395	1298334	9.407366632931126	select * from challengeSports where challengeIdFk=23
+0.0122189829	1529583	7.98844057498024	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=26 order by rank
+0.012227207249999998	1999042	6.116533444519925	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=9 order by rank
+0.01226799405	1223292	10.028671854307884	select * from challengeSports where challengeIdFk=21
+0.012290195350000001	1203709	10.210271211729747	select * from challengeSports where challengeIdFk=1
+0.012358222999999998	1568750	7.8777517131474095	select * from challengeSports where challengeIdFk=19
+0.01243440665	1652333	7.52536362222385	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=25
+0.012451449900000001	1423959	8.744247481844633	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=11
+0.012477185100000001	1752917	7.117955442271369	select * from challengeSports where challengeIdFk=11
+0.012698120750000002	2214250	5.734727673026985	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=2 order by rank
+0.012707498100000002	2201291	5.772747946545914	SELECT * FROM workout WHERE workoutId = '1545509632126873586'
+0.012786772400000002	1414750	9.038185121046123	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=21 order by rank
+0.01279919875	1338916	9.559373963713929	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=28
+0.0128193345	1623792	7.894690021874723	select * from challenges where isExploreChallenge = 1 AND isActiveChallenge = 0
+0.01282430205	1413750	9.071124350132626	select * from challengeSports where challengeIdFk=3
+0.012841221150000002	1518625	8.455820989381843	select * from challengeSports where challengeIdFk=29
+0.012881907250000001	1282625	10.043393236526656	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=30 order by rank
+0.012931672	1813208	7.131929706906212	select * from challengeSports where challengeIdFk=3
+0.012972693000000002	2151208	6.030422441716469	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=2 order by rank
+0.0129787792	1669792	7.772692167647228	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.012983526800000002	1025541	12.660173313402392	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=20
+0.0130089429	1221208	10.652520209497482	select * from challengeSports where challengeIdFk=26
+0.013012896000000001	1597167	8.147486142651333	select * from challengeSports where challengeIdFk=9
+0.013038984149999999	1636958	7.965374890498106	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=4 order by rank
+0.01319495715	1514083	8.714817582655641	select * from challengeSports where challengeIdFk=2
+0.013229303949999997	1876875	7.048580193140192	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=3
+0.0133123431	1515291	8.7853376678143	select * from challengeSports where challengeIdFk=20
+0.01333103975	1821542	7.3185464567932	select * from challengeSports where challengeIdFk=4
+0.013348309749999999	1701041	7.847141691470105	select * from challengeSports where challengeIdFk=24
+0.013398738800000002	1400584	9.566537101666164	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=11
+0.013428773599999999	2083083	6.446585949767724	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=23 order by rank
+0.013475282450000002	1828708	7.368744736721227	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=10 order by rank
+0.013544939300000003	1840791	7.358216820921007	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=19 order by rank
+0.0136411023	2608208	5.2300668888370865	select * from challengeSports where challengeIdFk=3
+0.013739562050000001	1573333	8.732774339570836	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=22
+0.0137796034	3952916	3.4859337764829808	SELECT * FROM workout WHERE trackType = '0' AND status = '3' AND starttime > '1485935999998' AND starttime < '1491000885379' ORDER BY starttime
+0.01380916975	1619542	8.526589461712014	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=10
+0.01381415515	1990208	6.941061009703509	SELECT * FROM workout WHERE workoutId = '1545509632126873586'
+0.014087970550000002	2022625	6.965191545639948	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=3 order by rank
+0.014172931600000003	1728125	8.20133474141049	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=19
+0.014177764450000001	2164833	6.549126168161702	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=4
+0.014179609799999998	3840250	3.6923663303170358	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.014214027800000001	1802542	7.885545967860944	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=22 order by rank
+0.01425711095	1908166	7.471630324615364	select * from challengeSports where challengeIdFk=14
+0.014303991349999998	3181667	4.495753751099659	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=8
+0.01432530525	1546333	9.264049367115621	select * from challengeSports where challengeIdFk=12
+0.01438912455	1521292	9.458489593056429	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=9 order by rank
+0.01444339135	2589042	5.578662435758091	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=21
+0.01445328615	1641709	8.8038051506083	SELECT * FROM workout WHERE status = '5' AND upLoadStatus = '2' AND starttime <> 0
+0.014517391250000001	2170875	6.6873455403927	SELECT * FROM interval_program  WHERE uploadStatus = '0' and flag = '0' AND uuid IN (SELECT uuid FROM workout WHERE status = 3)
+0.014547972250000004	2367208	6.145624824687989	select * from challengeSports where challengeIdFk=1
+0.014555064999999999	4085583	3.5625429712234453	select * from challengeSports where challengeIdFk=1
+0.014780650950000002	1893375	7.806510041592395	select * from challengeSports where challengeIdFk=10
+0.014822776200000002	2396750	6.184531636591218	SELECT * FROM zones WHERE sport = '18' AND goalType = '6'
+0.014850163950000002	1790750	8.292706380008378	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=24 order by rank
+0.014860922899999999	1764667	8.421375194300113	select * from challengeSports where challengeIdFk=11
+0.01496606435	2083750	7.182274433113377	select * from challengeSports where challengeIdFk=16
+0.0151878876	2015625	7.535076018604651	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=18
+0.015210324900000002	1555458	9.778679270028508	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=20 order by rank
+0.015279244999999999	1665417	9.174425984603255	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=11 order by rank
+0.0154194614	1764959	8.73644169637935	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=12
+0.0154378311	2234791	6.9079529584645725	SELECT * FROM hrZones WHERE workoutId = '1545509632126873586'
+0.015531884750000004	5516541	2.8155115225283387	SELECT * FROM workout WHERE workoutId = '1545509632126873586'
+0.015557762050000002	1575167	9.876896894107102	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=30
+0.015590404249999999	2166584	7.19584574149906	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=26
+0.015616528599999999	1686292	9.26086858029333	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=13 order by rank
+0.0156839148	2271292	6.905283336532688	SELECT * FROM interval_program  WHERE uploadStatus = '0' and flag = '0' AND uuid IN (SELECT uuid FROM workout WHERE status = 3)
+0.015717673900000003	1709583	9.19386417623479	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=12 order by rank
+0.0157562719	1589084	9.915317189022103	select * from challengeSports where challengeIdFk=24
+0.0158754937	1826625	8.691161951686853	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.01600006085	1876375	8.527112570781426	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=3 order by rank
+0.016299434400000003	1674417	9.734393762127358	SELECT * FROM workout WHERE workoutId = '1545509632126873586'
+0.01644167105	1656583	9.925051174616666	select * from challengeSports where challengeIdFk=21
+0.016523698450000002	1935250	8.538275907505492	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=18 order by rank
+0.016542282449999998	2007833	8.238873676246977	select * from challengeSports where challengeIdFk=17
+0.016678567850000003	2848375	5.855467714047484	SELECT * FROM zones WHERE sport = '0' AND goalType = '0'
+0.016822040100000005	1766542	9.52258146140879	select * from challengeSports where challengeIdFk=10
+0.0169747181	2034916	8.341729142628001	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=1 order by rank
+0.017078357750000002	1682250	10.152092584336456	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=26
+0.01716973715	2138500	8.028869371054476	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=2
+0.017195374600000004	1717792	10.010161067230495	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=17
+0.01742694	1859500	9.371841892981985	select * from challengeSports where challengeIdFk=1
+0.017464681750000002	2077125	8.40810338809653	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=25 order by rank
+0.01776520215	2231541	7.960957091982625	select * from challengeSports where challengeIdFk=25
+0.018344571400000002	1881334	9.750831803390573	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=5
+0.0185696122	2880792	6.446009361314527	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.018725850750000002	2424500	7.723592802639721	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=3
+0.018732689650000002	2144708	8.734377663532753	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=8 order by rank
+0.01875363595	2082625	9.004806890342715	select * from challengeSports where challengeIdFk=2
+0.01877705415	2041459	9.197860035396255	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.018807241799999996	1913250	9.829997020776165	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=15
+0.01888336305	1971042	9.580396079840003	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=8
+0.019245844	1977042	9.734666233696604	select * from challengeSports where challengeIdFk=15
+0.01927706975	2170792	8.880201212276441	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=14
+0.019293666349999995	2022125	9.54128273474686	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=10 order by rank
+0.0193317274	2124500	9.099424523417275	select * from challengeSports where challengeIdFk=18
+0.019823418300000003	2324500	8.528035405463543	select * from challenges where isExploreChallenge = 1 AND isActiveChallenge = 0
+0.01986513875	2266417	8.764997240137186	select * from challengeSports where challengeIdFk=6
+0.02000768885	2064791	9.689934162828102	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=13
+0.020011137050000002	3741208	5.348843755813631	select * from challengeSports where challengeIdFk=25
+0.020116066850000003	2352917	8.549416256502036	select * from challengeSports where challengeIdFk=8
+0.020182780400000003	2003334	10.074595848720184	SELECT * FROM workout WHERE workoutId = '1545509632126873586'
+0.02035194875	2559542	7.95140253607872	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.020396608100000005	2443667	8.34672158686106	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=1
+0.020405578399999996	2184709	9.340181415465398	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=17 order by rank
+0.0205542608	7235833	2.8406212249508798	select * from challenges where challengeId = 31805582
+0.02066160425	2230834	9.26182954446633	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=15 order by rank
+0.02115603035	2141209	9.880413518717697	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=16
+0.021359060099999997	2325875	9.183236459397	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=6 order by rank
+0.0213716028	2316875	9.224322762341517	select * from challengeSports where challengeIdFk=13
+0.0217490973	2193791	9.913933141306533	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=14 order by rank
+0.02250041715	2531000	8.889931706835243	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.0229488427	2472542	9.281477402608328	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=6
+0.023305933199999997	2849375	8.179314130291731	SELECT * FROM trackpoint WHERE workoutId = '1545509632126873586' ORDER BY timestamp
+0.023686316849999996	2628875	9.01005823783938	select * from challengeSports where challengeIdFk=7
+0.023907978450000002	2953000	8.096166085336947	SELECT * FROM zones WHERE sport = '0' AND goalType = '0'
+0.02403497285	2648167	9.076078982178993	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=7 order by rank
+0.024355481000000005	3019375	8.066398178430967	SELECT * FROM workout WHERE workoutId = '1545509632126873586'
+0.024494354400000005	2603708	9.407489011824676	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=5 order by rank
+0.0246793565	2763166	8.931550438880617	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=7
+0.02725423545	3557500	7.661064075895994	select * from challenges where challengeId = 32340475
+0.029253555350000005	3564375	8.20720472733649	select * from challengeSports where challengeIdFk=5
+0.038430439299999994	3524125	10.904959188451032	SELECT * FROM workout WHERE status = '5' AND upLoadStatus = '2' AND starttime <> 0
+0.03864439160000001	4068709	9.497949251224409	SELECT * FROM workout WHERE (trackType = '1' OR trackType = '2') AND goalWorkoutIdServer = '4207178'
+0.04510687895	6628875	6.804605449642661	SELECT * FROM workout WHERE trackType = '0' AND (starttime = 0 OR duration < 0)
+0.06480331740000002	8038833	8.06128419386247	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=16 order by rank

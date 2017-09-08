@@ -1,0 +1,11 @@
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0040966419	1489701733203_2082417	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.036591279625000014	1489701658157_19348917	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0048241074	1489701723632_1282458	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.003887253225	1489701709682_1197167	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0026306502500000007	1489701747333_1363792	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.013458707399999999	1489701742387_3821292	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.01109324232500001	1489701742393_4510958	true	CREATE TABLE IF NOT EXISTS favoritemeetings (meetingid INTEGER,group_id TEXT,mtgTime INTEGER,mtgDay INTEGER,comName TEXT,latitude REAL, longitude REAL, wchair TEXT,closed TEXT,format1 TEXT,format2 TEXT,format3 TEXT,format4 TEXT,format5 TEXT);
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003095486650000001	1489701658140_1118875	true	DROP TABLE IF EXISTS prefs_v2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0053823477500000005	1489701658142_1593917	true	CREATE TABLE IF NOT EXISTS favoritemeetings (meetingid INTEGER,group_id TEXT,mtgTime INTEGER,mtgDay INTEGER,comName TEXT,latitude REAL, longitude REAL, wchair TEXT,closed TEXT,format1 TEXT,format2 TEXT,format3 TEXT,format4 TEXT,format5 TEXT);
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0029561456500000016	1489701658158_1163917	true	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.io.File,android.database.sqlite.SQLiteDatabase$CursorFactory)	0.08383641124999998	1489701658083_37924875	false	null

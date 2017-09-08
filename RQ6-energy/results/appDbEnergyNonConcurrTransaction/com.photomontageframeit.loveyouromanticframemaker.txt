@@ -1,0 +1,4 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.009018747950000001	1491116209295_701125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.3263730906000001	1491116209259_35331042	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0201932013	1491116209257_1627208	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.02082701915	1491116209282_1863709	false	create table favorites( _id integer primary key autoincrement, type text not null, itemID text not null, md5ID text not null, rssURL text not null, title text not null, pictureURL text not null, link text not null);

@@ -1,0 +1,10 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00205911005	1489194127524_640375	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.00125177885	1489194127515_244417	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.15150797814999994	1489194127475_48368083	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00166250285	1489194127511_413333	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0012576962500000003	1489194127514_246375	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.008239575249999999	1489194127526_2494125	false	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0016758612500000004	1489194127514_500375	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0025604083500000005	1489194127474_803291	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00169758175	1489194127513_582250	true	CREATE TABLE effects (effect_code varchar(255), effect_name varchar(255), image varchar(255), video varchar(255), vdo_dur varchar(255), loop_req varchar(255),password varchar(255))
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00258523155	1489194127511_842834	true	CREATE TABLE liscence (status varchar(255) NOT NULL, free_day int, install_date varchar(255), uniq_id varchar(255))

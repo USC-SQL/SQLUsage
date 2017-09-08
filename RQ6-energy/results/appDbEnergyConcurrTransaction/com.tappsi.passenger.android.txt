@@ -1,0 +1,8 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.003176183200000001	1491119824842_799083	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0029767568499999997	1491119824839_704125	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.00256744715	1491119824841_500791	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0039671472	1491119830142_686750	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0035370053499999992	1491119824837_816042	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.002512794275	1491119824840_412500	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027242539750000007	1491119871648_980958	true	Select locations.*,(strftime('%s', datetime(locations.date, 'localtime')) * 1000) as date, (abs(locations.lat-?)+abs(locations.lon-?)) as distance from locations where distance<0.0009 order by distance asc, id desc limit 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007498864800000001	1491119866409_1428333	true	Select locations.*,(strftime('%s', datetime(locations.date, 'localtime')) * 1000) as date, (abs(locations.lat-?)+abs(locations.lon-?)) as distance from locations where distance<0.0009 order by distance asc, id desc limit 1

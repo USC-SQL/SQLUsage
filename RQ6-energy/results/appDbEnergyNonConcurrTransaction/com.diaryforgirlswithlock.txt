@@ -1,0 +1,260 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0109443634	1489193308031_3982167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0097243353	1489193346377_2975584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.016367857	1489193322010_3830500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01216926905	1489193322057_3400708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.015567205199999998	1489193354550_4243917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0137859318	1489193308022_4258625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012760761549999998	1489193322065_3144500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012364974500000002	1489193290218_4095291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.044605098400000015	1489193268648_12285917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.017321603249999994	1489193273989_4440458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.016720398499999997	1489193341933_5139792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.041534608750000014	1489193307793_12499375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.013449194349999997	1489193312629_5803875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012764258650000002	1489193290197_4072625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0175345298	1489193354507_3037750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.03424015525000001	1489193354526_7991000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01483979745	1489193290208_4390625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012028077299999999	1489193322030_3417916	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011750587449999999	1489193252008_3328125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.017682084549999994	1489193268826_4177875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01249594995	1489193268835_3178792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.017770583100000008	1489193307963_4488083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012981884300000003	1489193346354_3836750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012635957650000003	1489193251991_3391500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.022070152050000003	1489193273920_5285000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.017362200000000005	1489193337903_3976167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01618592545	1489193273964_5046417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011706901950000001	1489193341082_4682750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.017531079350000003	1489193341963_2892500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014210345	1489193290228_3427167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0127886123	1489193252000_3227333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0164721899	1489193341986_3520833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0233999543	1489193354560_4591084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0118055858	1489193271230_5837125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.010362070750000002	1489193322040_3301000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01347083635	1489193310296_7198459	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014046095150000003	1489193272646_3687000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014685319950000003	1489193346335_4023833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.016027393749999997	1489193274001_4306958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.19096760355	1489193251921_47710250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014166559650000004	1489193290185_4711042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0149128009	1489193308000_4849875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01105813825	1489193341971_3082834	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.020327504149999995	1489193268768_4988417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014543542450000004	1489193307990_4050000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.023992775600000005	1489193323943_5043250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.040454284600000015	1489193354403_7371500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.010455890250000002	1489193256834_4404375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011756399250000002	1489193322048_3400542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01574549335	1489193251982_3493541	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01818983875	1489193341979_2971667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.010154524900000001	1489193346362_3043167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0143662135	1489193308011_3690542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.036734391150000004	1489193268810_8216166	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.017262938399999997	1489193354540_3209833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0162239045	1489193268844_3764125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01364876125	1489193346384_2699750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.013619998250000001	1489193294937_7266416	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0179970912	1489193273951_5119125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014580074550000004	1489193273978_4407375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011078777350000001	1489193341955_3019125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011851384199999999	1489193255732_4774333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.020207448800000003	1489193268793_4416709	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0091529061	1489193346370_2687667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.06330667934999999	1489193354571_13347000	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.052267224200000004	1489193268662_15519084	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.16742651899999994	1489193307807_44851208	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.06128374670000001	1489193354412_11496334	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00409670495	1489193290213_880291	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00302789695	1489193341939_750250	false	select * from DainyTable where date='8-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037485233000000002	1489193268798_787291	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030706486000000002	1489193308036_975750	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030859922500000004	1489193308006_938208	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028911940999999997	1489193322052_769625	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038305455000000005	1489193308026_629625	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037595947000000005	1489193322069_780291	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00303198055	1489193294946_1087208	false	select * from DainyTable where date='10-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00312035425	1489193322034_637250	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035896142999999998	1489193268838_950667	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0032783623	1489193346387_429208	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0029981108000000007	1489193346340_665459	false	select * from DainyTable where date='8-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027665897000000005	1489193322043_712958	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00286064255	1489193290202_683375	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023138248499999996	1489193346358_570708	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022952828500000006	1489193256839_783417	false	select * from DainyTable where date='9-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035529507000000003	1489193307969_1121417	false	select * from DainyTable where date='10-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00374024845	1489193341990_541000	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00425151905	1489193354535_855292	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0045944791999999995	1489193310305_1830875	false	select * from DainyTable where date='8-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00423644435	1489193354544_620500	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005259651950000001	1489193354565_901291	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0053167376	1489193273957_1017750	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003931011399999999	1489193308015_606792	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034576531500000005	1489193341959_691750	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003345065399999999	1489193268831_535291	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00592620095	1489193268819_842250	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030151987500000002	1489193290223_622209	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00453344795	1489193274006_768000	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00403272415	1489193323949_621125	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033083015500000004	1489193290191_998875	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030699381000000004	1489193290232_562875	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024877695	1489193312636_1039875	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0032493146500000005	1489193354555_738042	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0036983731500000003	1489193252012_805584	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0036656100000000006	1489193322061_586125	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00295445105	1489193341975_512625	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004258402900000001	1489193273970_1066416	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033044773	1489193252004_601667	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037390405	1489193341966_515500	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004348918249999999	1489193251995_921833	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024403599000000003	1489193272650_496333	false	select * from DainyTable where id=1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027923347	1489193346373_614708	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0041849168	1489193273983_1078583	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035785714	1489193322014_730333	false	select * from DainyTable where date='8-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0042751831	1489193251986_613167	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027982200500000004	1489193346381_446667	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028085351500000003	1489193268848_537042	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004018228700000001	1489193354510_432458	false	select * from DainyTable where date='8-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0051117115	1489193354586_1231417	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022000157	1489193271237_897083	false	select * from DainyTable where date='10-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00399518305	1489193251969_656250	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003912011150000001	1489193273926_939833	false	select * from DainyTable where date='10-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027014170500000005	1489193346366_495750	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00437288295	1489193337908_571625	false	select * from DainyTable where id=1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027576751500000005	1489193341088_751875	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0040026929	1489193268774_940042	false	select * from DainyTable where date='9-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0044734263	1489193341982_521500	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026367724500000007	1489193255738_601875	false	select * from DainyTable where date='10-3-2017'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035231622499999997	1489193273995_892083	false	select * from DainyTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035999929	1489193307995_791500	false	select * from DainyTable
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0029276882500000006	1489193273963_748916	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0030100434	1489193341932_738292	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00397646215	1489193251980_677333	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0036153285000000003	1489193322008_805250	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0040707999	1489193307999_827625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.012983014350000004	1489193251917_2879084	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0032935095499999996	1489193341978_450000	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00332648805	1489193354549_701625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0026526388	1489193271228_1115666	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0042535202	1489193337902_756792	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0031280573999999998	1489193346353_496708	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0019721534500000003	1489193308030_495125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0041339522999999994	1489193354525_466167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0036021477000000007	1489193307962_717333	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0032289698500000004	1489193274000_796583	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.022927808650000003	1489193268641_5345625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0032725188500000004	1489193346369_425000	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0027579147	1489193310294_1128209	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0027540110000000002	1489193256833_669125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0028799849000000002	1489193268843_489250	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00245078255	1489193346383_326458	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0029846173500000005	1489193268792_716709	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0029396688500000004	1489193290207_611333	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0025028212	1489193312627_1070125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00322673095	1489193273976_704500	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0026906795000000002	1489193290196_554834	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0028481599500000004	1489193322038_660167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0028432487500000005	1489193322047_495917	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0032665526000000005	1489193341970_667125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004817977	1489193268766_916292	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.003571743	1489193273949_967167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.005794246100000001	1489193294933_2897083	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00244134455	1489193268825_589333	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0045996456000000005	1489193272645_749459	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0035847216000000006	1489193268834_530292	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0034611984	1489193273988_646709	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0043529610500000005	1489193354506_542583	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.005852152650000001	1489193346333_1147833	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.002507896	1489193252007_436500	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0044464942000000006	1489193268808_1077875	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00341335895	1489193290183_915500	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.003205293750000001	1489193290227_478792	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0104227764	1489193354400_2181750	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0034843885000000003	1489193322064_502959	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0028520937000000007	1489193307988_758875	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0094567013	1489193307788_2677125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0027736513	1489193322056_465208	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0025872993500000003	1489193346362_426458	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0039435173	1489193354559_587375	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0026047864	1489193308020_635458	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00293818875	1489193341985_539958	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0032943164000000004	1489193354539_510042	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0030714742000000003	1489193251999_442542	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0028151181500000004	1489193354570_552834	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00232287315	1489193346377_426250	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004800226050000001	1489193322029_817541	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00287270065	1489193251990_464084	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0034178041500000007	1489193255731_841875	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00357348775	1489193341962_438917	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0023896247	1489193290217_459792	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0031843897000000004	1489193341954_603000	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00382907665	1489193323941_849292	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00475689765	1489193273918_1242917	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0029428399000000004	1489193308010_480625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0047099651000000005	1489193251971_864042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0031058292000000006	1489193341960_586791	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00374476435	1489193341976_554916	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.003966644	1489193290233_610542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004163931900000001	1489193308039_1305250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004529321300000001	1489193268822_1104458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004962360450000001	1489193354537_709833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00396305295	1489193322045_641791	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0042968515	1489193341992_562959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0036320195499999998	1489193308008_740750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0044416019000000015	1489193322063_640083	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00472819025	1489193323951_1120958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0034514488	1489193255739_686417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004058964900000001	1489193308018_1019083	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0041080889	1489193268832_608417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0033025558500000005	1489193307996_678542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0031237800000000005	1489193341968_587458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.008344582900000001	1489193268696_1926167	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0038941783	1489193268841_816958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0058389732500000015	1489193354567_876417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0058821987	1489193274008_1054792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.005212939450000001	1489193354546_977625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004474385100000001	1489193341090_649042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0041500499	1489193346389_608083	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00226325615	1489193346375_541958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0037067713000000007	1489193251997_740917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00262515755	1489193271240_1178333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00302657385	1489193310309_1348583	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.006046939249999999	1489193354512_913833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0030372179	1489193346341_565000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0033799904499999998	1489193308028_768500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00431338885	1489193273960_1088958	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0034664775999999997	1489193312639_1411959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0036358579500000003	1489193290225_664125	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0027339468999999996	1489193290215_759708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00322249025	1489193252006_635792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00797666095	1489193307866_2189292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00362228925	1489193268850_547666	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00225785575	1489193346360_573042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0034192957	1489193322036_845333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0034972230999999994	1489193346367_549541	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.005034015450000001	1489193354557_643708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.005373638450000001	1489193268776_1061167	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.003834791050000001	1489193290204_1016375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00259238935	1489193354589_1098042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0019817839	1489193272652_539209	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0056423437	1489193294948_2975875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004525029700000001	1489193337909_645333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0033563283999999997	1489193322054_764542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0035283246999999996	1489193273997_925541	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00480641015	1489193290193_1150916	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0037169529500000005	1489193273986_872792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0039644608	1489193252014_936458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00563801445	1489193273973_1132417	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00438823315	1489193268800_667042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0029591256999999998	1489193256841_618375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00444603625	1489193341941_800500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004350747900000001	1489193273931_1098709	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00383791755	1489193341983_683416	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0084084744	1489193354435_1513334	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00342446195	1489193251987_580750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0028373127	1489193346382_489875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00358235625	1489193307972_1089333	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0028450422000000004	1489193322016_694875	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0035706461500000005	1489193322072_678958	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007604604700000001	1489193251957_1670416	false	create table DainyTable ( id integer primary key autoincrement, date text, title text, description text, image_path text, music text );

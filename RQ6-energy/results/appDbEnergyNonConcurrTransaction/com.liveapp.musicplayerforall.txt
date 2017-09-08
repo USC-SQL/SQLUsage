@@ -1,0 +1,30 @@
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0077387802999999995	1489186747380_1930625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.014264270650000004	1489186703052_3425625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.20836191574999996	1489186660630_52882583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.020533773050000002	1489186763712_4642667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01442790545	1489186709927_4021042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.015297212200000002	1489186731902_3767875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0199945905	1489186688586_4876917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0433870397	1489186747368_10286708	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022243004499999997	1489186703056_585208	false	SELECT * FROM playlists WHERE _name LIKE ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005010617750000001	1489186731906_645250	false	SELECT * FROM playlists WHERE _name LIKE ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00451792365	1489186660683_831500	false	SELECT * FROM playlists
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003251052	1489186688592_683208	false	SELECT * FROM playlists
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003983450100000001	1489186709932_975667	false	SELECT * FROM playlists WHERE _name LIKE ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00434527995	1489186763717_673834	false	SELECT * FROM playlists
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.006482170700000001	1489186709925_1539166	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.011151859600000001	1489186660626_2566584	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.006086846450000001	1489186688585_1096833	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0080300558	1489186703050_1640167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00434155815	1489186731900_856458	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.013237427650000001	1489186747362_4081875	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004499885099999999	1489186763711_907375	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.005027141400000002	1489186763719_823291	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.003988887000000001	1489186747383_1363791	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004652766950000001	1489186660686_1009750	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004464307	1489186709935_1096917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0040427538500000006	1489186688594_892458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00307678995	1489186703058_670500	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00410368465	1489186731908_712333	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.010999970600000002	1489186660667_2301916	false	CREATE TABLE playlists(_id INTEGER PRIMARY KEY,_name TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007726315300000002	1489186660670_1584209	false	CREATE TABLE tracks(_id INTEGER PRIMARY KEY,_artist TEXT,_name TEXT, _path TEXT, _track_id INTEGER, _playlist_id INTEGER, _album_id INTEGER)

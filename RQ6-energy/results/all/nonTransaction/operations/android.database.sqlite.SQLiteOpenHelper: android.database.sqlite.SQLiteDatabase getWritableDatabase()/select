@@ -1,0 +1,14 @@
+select	8.49609475E-4	0.0046879437756944435	0.003993383375000001	0.01519317893333333	718416	12	529666	11570291
+
+8.49609475E-4	718416	1.1826149125297878	SELECT route_id, route_short_name, route_long_name, route_desc, route_type, route_url, route_color, route_text_color FROM routes_master WHERE transportation_type='subway'  AND route_id NOT IN ('5x' ) ORDER BY route_id
+0.0012305845499999998	625458	1.9674935007626408	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+0.001452876	546458	2.6587148509126046	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+0.0016539569499999997	734417	2.2520678987550666	SELECT * FROM `persistent_context` WHERE `key` = 'last_mdmversion'
+0.00316041035	1167958	2.705928081317993	SELECT * FROM `persistent_context` WHERE `key` = 'last_mdmversion'
+0.003243609100000001	526125	6.165092135899266	SELECT * FROM `persistent_context` WHERE `key` = 'last_mdmversion'
+0.0047431576500000005	533208	8.895511038844129	SELECT * FROM `medisafeAppointment` WHERE `userId` = 7415083
+0.00532294455	436750	12.187623468803663	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+0.0054125383	417292	12.97062560509188	SELECT SUM(u.ingress_usage) as ingress, SUM(u.egress_usage) as egress FROM usage as u WHERE u.usage_category = 0 AND (u.flags & 40 = 0 OR (u.flags & 8 <> 0 AND u.flags & 16 <> 0)) AND u.timestamp >= 1491109200000 AND u.timestamp < 1493701200000 AND u.plan_config_id IN (1)
+0.0068685523	504208	13.62245799352648	SELECT DISTINCT report_request_parameters FROM sessions WHERE id = -2
+0.007123907150000001	1545417	4.609698967980811	Select locations.*,(strftime('%s', datetime(locations.date, 'localtime')) * 1000) as date, (abs(locations.lat-?)+abs(locations.lon-?)) as distance from locations where distance<0.0009 order by distance asc, id desc limit 1
+0.01519317893333333	11570291	1.3131198630469476	select count(1) from messages

@@ -1,0 +1,120 @@
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.004685985700000001	1491107121736_460750	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0048499120499999986	1491107122223_1001375	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0020518427000000006	1491107121752_320833	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0033426855250000007	1491107124846_802417	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.00707017425	1491107122703_3866458	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0024023949750000004	1491107127061_674542	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0025636074	1491107121767_488958	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0043498304500000015	1491107122681_1675250	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005645011391666666	1491107122678_3952417	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0026216094499999995	1491107127056_863041	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0030100059	1491107121750_387583	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.004660251200000001	1491107121733_1060792	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.001735144966666666	1491107122683_1517000	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.004760511425000002	1491107124841_1191209	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.003149261041666666	1491107122676_2341875	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0028237977750000002	1491107121766_565459	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0058962344	1491107122262_845000	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.003129027999999999	1491107122217_493625	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0024733134500000004	1491107122692_1026667	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.007564387275000001	1491107122220_1716417	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.004309983025	1491107124844_1325875	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0022088983500000003	1491107122686_757500	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0037759143000000005	1491107122280_527083	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0036433349000000005	1491107127059_1442708	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0030643459999999995	1491107121735_564417	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.004651250500000001	1491107121751_440250	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0019683859000000003	1491107127055_564084	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0029082821000000008	1491107124842_644167	true	SELECT * FROM marketing_rules WHERE _id IN (SELECT rule_id_ref FROM marketing_ruleevent WHERE event_name = ?) AND expiration > ?;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017517810999999998	1491107127057_788291	true	SELECT * FROM marketing_rules WHERE _id IN (SELECT rule_id_ref FROM marketing_ruleevent WHERE event_name = ?) AND expiration > ?;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025715359249999996	1491107122711_1490042	true	SELECT * FROM marketing_rules WHERE _id IN (SELECT rule_id_ref FROM marketing_ruleevent WHERE event_name = ?) AND expiration > ?;
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.0019091240499999997	1491107121467_504709	false	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.003325509725000001	1491107121526_500541	false	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.0029777629875000003	1491107121474_1008000	false	CREATE TABLE frequency_capping_blackout_dates (frequency_id INTEGER NOT NULL, rule_group_id INTEGER NOT NULL, start INTEGER NOT NULL, end INTEGER NOT NULL, FOREIGN KEY(frequency_id) REFERENCES frequency_capping_rules(_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.003429925499999999	1491107121498_920583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.0018983290099999993	1491107121448_559417	false	CREATE TABLE info (places_data_last_modified INTEGER,location_monitoring_enabled INTEGER);
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.003235290966666667	1491107122683_2020208	true	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0019270110000000004	1491107122685_915667	true	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0018568382199999993	1491107121463_605417	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0026334972833333336	1491107121491_487709	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0021037928000000004	1491107121484_618417	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.002539382275	1491107121490_520125	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0010640469750000004	1491107122686_1038125	true	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0016931042000000002	1491107122704_868208	true	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.003651358325	1491107121508_549000	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00261319949	1491107121416_1086541	false	PRAGMA auto_vacuum = INCREMENTAL;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.008170377339999996	1491107121419_4822750	false	CREATE TABLE changes (_id INTEGER PRIMARY KEY AUTOINCREMENT, scope TEXT NOT NULL, change TEXT NOT NULL, customer_id TEXT NOT NULL)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0062144217958333275	1491107121469_6680792	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030283795399999995	1491107121463_1427917	false	CREATE TABLE frequency_capping_rules (_id INTEGER PRIMARY KEY AUTOINCREMENT, campaign_id INTEGER UNIQUE, max_display_count INTEGER, ignore_global INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004202689650000002	1491107121500_1184209	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003025751510000002	1491107121427_4446541	false	PRAGMA auto_vacuum = INCREMENTAL;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0035981584500000014	1491107121446_1187167	false	PRAGMA auto_vacuum = INCREMENTAL;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030226304375	1491107121489_827458	false	DELETE FROM marketing_rules
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003985620699999999	1491107121499_1127584	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005940788250000003	1491107121477_2025917	false	CREATE TABLE screens (name TEXT NOT NULL)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002478933400000001	1491107121465_915208	false	CREATE TABLE frequency_capping_rules (_id INTEGER PRIMARY KEY AUTOINCREMENT, campaign_id INTEGER UNIQUE, max_display_count INTEGER, ignore_global INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0036848106199999986	1491107121454_2499750	false	CREATE TABLE info (places_data_last_modified INTEGER,location_monitoring_enabled INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004039700674999999	1491107121503_1040083	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0035325456250000003	1491107121466_2267875	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014807064009999968	1491107121434_11271625	false	CREATE TABLE geofences_attributes (_id INTEGER PRIMARY KEY AUTOINCREMENT,place_id INTEGER REFERENCES geofences(place_id) ON DELETE CASCADE,key TEXT NOT NULL,value TEXT NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.017091776959999957	1491107121434_13201917	false	PRAGMA auto_vacuum = INCREMENTAL;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0020450787666666673	1491107121484_1108208	false	CREATE TABLE campaigns_displayed (campaign_id INTEGER NOT NULL, date INTEGER NOT NULL, ignore_global INTEGER NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0042367817249999995	1491107121495_1016292	false	ALTER TABLE marketing_rules ADD COLUMN schema_version INTEGER DEFAULT 1;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013969564180000001	1491107121435_10607750	false	CREATE TABLE marketing_displayed (campaign_id INTEGER PRIMARY KEY);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0032106509249999996	1491107121476_704250	false	PRAGMA foreign_keys = ON;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002810350875	1491107121486_1075667	false	DROP TABLE marketing_displayed
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030919643700000007	1491107121429_1204459	false	PRAGMA auto_vacuum = INCREMENTAL;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0035307715825000007	1491107121463_1870167	false	CREATE TABLE frequency_capping_rules (_id INTEGER PRIMARY KEY AUTOINCREMENT, campaign_id INTEGER UNIQUE, max_display_count INTEGER, ignore_global INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002637139889999999	1491107121425_1115209	false	PRAGMA auto_vacuum = INCREMENTAL;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0019905913999999983	1491107121457_2877041	false	CREATE TABLE info (places_data_last_modified INTEGER,location_monitoring_enabled INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0044148583	1491107121493_1372667	false	ALTER TABLE marketing_rules ADD COLUMN control_group INTEGER DEFAULT 0;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0038282123666666646	1491107121480_1281958	false	CREATE TABLE frequency_capping_blackout_times (frequency_id INTEGER NOT NULL, rule_group_id INTEGER NOT NULL, start INTEGER NOT NULL, end INTEGER NOT NULL, FOREIGN KEY(frequency_id) REFERENCES frequency_capping_rules(_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0060780111699999945	1491107121450_2355458	false	ALTER TABLE marketing_rules ADD COLUMN rule_name_non_unique TEXT;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0040146219250000005	1491107121497_1240584	false	CREATE TABLE inbox_campaigns (_id INTEGER PRIMARY KEY AUTOINCREMENT, campaign_id INTEGER UNIQUE NOT NULL, expiration INTEGER NOT NULL, version INTEGER NOT NULL, received_date INTEGER, ab_test TEXT, rule_name TEXT NOT NULL, listing_title TEXT NOT NULL, listing_summary TEXT, sort_order INTEGER NOT NULL, read INTEGER NOT NULL DEFAULT 0, schema_version INTEGER NOT NULL DEFAULT 1, thumbnail_location TEXT, creative_location TEXT);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004245325060000004	1491107121426_2252083	false	PRAGMA auto_vacuum = INCREMENTAL;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006309476874999992	1491107121468_5451542	false	PRAGMA foreign_keys = ON;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0023010056100000007	1491107121446_991250	false	CREATE TABLE marketing_conditions (_id INTEGER PRIMARY KEY AUTOINCREMENT, attribute_name TEXT NOT NULL, operator TEXT NOT NULL, rule_id_ref INTEGER REFERENCES marketing_rules(_id) NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007219054983333332	1491107121476_2276708	false	CREATE TABLE screens (name TEXT NOT NULL)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0097988266	1491107121505_992000	false	CREATE TABLE places_campaigns_geofence_triggers (_id INTEGER PRIMARY KEY AUTOINCREMENT, place_id INTEGER NOT NULL, campaign_id INTEGER REFERENCES places_campaigns(campaign_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0042153945	1491107121527_596500	false	PRAGMA foreign_keys = ON;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007017740716666656	1491107121470_5725459	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.003063138975	1491107121504_513250	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0029597223333333333	1491107121477_456209	false	CREATE TABLE frequency_capping_blackout_weekdays (frequency_id INTEGER NOT NULL, rule_group_id INTEGER NOT NULL, day INTEGER NOT NULL, FOREIGN KEY(frequency_id) REFERENCES frequency_capping_rules(_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0016886991500000004	1491107122692_1032792	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0036412678500000006	1491107121753_971459	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.003005468974999999	1491107122270_565917	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0037376648500000004	1491107122273_657791	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0048588496	1491107122269_536833	true	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0019582761499999995	1491107121479_552833	false	CREATE TABLE screens (name TEXT NOT NULL)
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0025238104333333332	1491107121482_703291	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.006071725579166666	1491107121485_5156083	false	CREATE TABLE frequency_capping_blackout_times (frequency_id INTEGER NOT NULL, rule_group_id INTEGER NOT NULL, start INTEGER NOT NULL, end INTEGER NOT NULL, FOREIGN KEY(frequency_id) REFERENCES frequency_capping_rules(_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.009622874541666653	1491107121481_7532000	false	CREATE TABLE frequency_capping_blackout_times (frequency_id INTEGER NOT NULL, rule_group_id INTEGER NOT NULL, start INTEGER NOT NULL, end INTEGER NOT NULL, FOREIGN KEY(frequency_id) REFERENCES frequency_capping_rules(_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0907605383	1491107121510_16811333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.09157949158166624	1491107121365_112379500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.2370009007366662	1491107121349_179198541	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.15237364006166568	1491107121349_152945708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.11276989379999919	1491107121349_113453500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.11077241916999861	1491107121350_124953834	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0032805788166666667	1491107122694_4821000	true	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.002397387066666666	1491107122684_1856625	true	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0036120083999999996	1491107121755_812542	true	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0029812671333333323	1491107121480_911625	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0097988266	1491107121505_824958	false	CREATE TABLE places_campaigns_geofence_triggers (_id INTEGER PRIMARY KEY AUTOINCREMENT, place_id INTEGER NOT NULL, campaign_id INTEGER REFERENCES places_campaigns(campaign_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0026886367166666664	1491107121478_968417	false	CREATE TABLE screens (name TEXT NOT NULL)
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.0019247187800000005	1491107121446_412959	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.002544038875	1491107121497_493750	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.004373232	1491107121524_776375	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.003247879487499999	1491107121471_1003542	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0073529827999999995	1491107121345_2562541	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0026701341099999993	1491107121364_684417	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.005654653300000001	1491107121345_2341625	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0073529827999999995	1491107121345_2440459	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.003141139375	1491107122272_557375	true	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.002078337925	1491107121476_531667	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.002975284775	1491107121503_491958	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.011795820174999999	1491107122266_2042375	true	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0018835016750000007	1491107122689_1096458	true	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0022375955166666663	1491107121478_539417	false	CREATE TABLE frequency_capping_blackout_weekdays (frequency_id INTEGER NOT NULL, rule_group_id INTEGER NOT NULL, day INTEGER NOT NULL, FOREIGN KEY(frequency_id) REFERENCES frequency_capping_rules(_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0038788085500000005	1491107122277_605291	true	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.002121790050000001	1491107121753_351459	true	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.009103122116666664	1491107122675_5517709	true	null

@@ -1,0 +1,3 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0015300149500000002	1489104659159_1271750	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0010460126250000003	1489104659158_601292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0023066149750000002	1489104659162_637500	false	null

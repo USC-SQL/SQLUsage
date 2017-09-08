@@ -1,0 +1,7 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.15496056965	1491105021124_34386417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.02428455375	1491105151219_3869584	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.004222306949999999	1491105151217_331167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.01148941995	1491105021121_2089917	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004464516599999999	1491105151218_412833	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.016022888599999997	1491105151215_1921083	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005651523050000002	1491105021149_1108083	false	CREATE TABLE popups ( popup_id INTEGER PRIMARY KEY, acked INTEGER(1) DEFAULT 0)

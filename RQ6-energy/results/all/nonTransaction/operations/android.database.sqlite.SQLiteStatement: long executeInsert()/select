@@ -1,0 +1,14 @@
+select	0.05438949934999998	0.0877606810332639	0.07265133461249998	0.16893598880000008	8966791	12	9359521	32989791
+
+0.05438949934999998	8966791	6.065659314463779	SELECT * FROM `app` WHERE `package_name` = 'com.sec.android.app.filtermanager'
+0.05489072535	8525500	6.438417142689579	SELECT * FROM `plan_config` WHERE `id` = ?
+0.055846278700000015	7689417	7.2627454981307435	SELECT * FROM `persistent_context` WHERE `key` = 'last_known_network_mnc'
+0.05603148455000001	7699417	7.277367175982287	SELECT * FROM `persistent_context` WHERE `key` = 'last_known_roaming_state'
+0.06819753519916662	20011083	3.407988223284398	SELECT SUM(u.ingress_usage) as ingress, SUM(u.egress_usage) as egress FROM usage as u WHERE u.usage_category = 0 AND (u.flags & 40 = 0 OR (u.flags & 8 <> 0 AND u.flags & 16 <> 0)) AND u.timestamp >= 1491030000000 AND u.timestamp < 1493622000000 AND u.plan_config_id IN (2)
+0.06985645999999998	9097417	7.678713639267056	SELECT MAX(timestamp) FROM `reporter_check_in` WHERE (`reason` = 'PersistentNotificationOn' OR `reason` = 'PersistentNotificationOff' )
+0.07544620922499998	9621625	7.841316744832602	SELECT * FROM `mobile_subscriber` WHERE `id` = ?
+0.08374283705000003	13136125	6.3750030583600585	SELECT SUM(u.ingress_usage) as ingress, SUM(u.egress_usage) as egress FROM usage as u WHERE u.usage_category = 0 AND (u.flags & 40 = 0 OR (u.flags & 8 <> 0 AND u.flags & 16 <> 0)) AND u.timestamp >= 1491030000000 AND u.timestamp < 1491116400000 AND u.plan_config_id IN (1)
+0.10594951064999997	14991583	7.067266388746269	SELECT * FROM `persistent_context` WHERE `key` = 'guid'
+0.12416109324999998	15314834	8.107243816681263	SELECT COUNT(*) FROM `persistent_context` WHERE `id` = ?
+0.135680550275	15078416	8.998329153075495	SELECT * FROM `plan_config` WHERE `id` = ?
+0.16893598880000008	32989791	5.120856594696222	SELECT * FROM `persistent_context` WHERE `key` = 'alerts_enabled'

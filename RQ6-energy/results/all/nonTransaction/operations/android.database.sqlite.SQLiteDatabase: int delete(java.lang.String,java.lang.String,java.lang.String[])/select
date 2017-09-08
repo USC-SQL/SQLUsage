@@ -1,0 +1,6 @@
+select	0.0168790914	0.067545322175	0.067260419725	0.11878135785000002	3225042	4	10870000	16664709
+
+0.0168790914	3225042	5.233758630120166	SELECT DISTINCT id_post, title, comments_count,  custom1, excerpt, date, images, imagesWidth, imagesHeight, sticky FROM TB_Post_Category INNER JOIN TB_post ON TB_post.id_post = TB_Post_Category.post_id WHERE TB_Post_Category.category_slug = 'allposts' ORDER BY sticky DESC, TB_post.date DESC
+0.04376185625	9453708	4.629067901187555	SELECT * FROM TB_post WHERE id_post = 54050;
+0.09075898320000002	12286292	7.387011736331842	SELECT * FROM TB_post WHERE id_post = 54063;
+0.11878135785000002	16664709	7.127718692837663	SELECT * FROM TB_Post_Category WHERE post_id = 54112 AND category_slug = 'blog';

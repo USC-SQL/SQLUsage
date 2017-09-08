@@ -1,0 +1,6 @@
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.05108828515	1489105177287_8002833	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.05386979	1489105224122_10178708	false	create table if not exists all_package_names(app_name varchar,pkg_name varchar primary key,time_limit varchar,total_time varchar,notification varchar)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.013420415899999998	1489105223831_3305458	false	insert into register values('zhang@gmail.com','34934ac8a5d40fcddaf54a5c59fad965','Liz66')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.06987977905000001	1489105223816_13083291	false	create table if not exists register(email_id varchar,token varchar,name varchar)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.07749607359999999	1489105224133_14428916	false	create table if not exists day_time(names varchar primary key)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.13133341925000003	1489105224093_28727042	false	create table if not exists opened_package_names(name varchar,app_name varchar,opened_time varchar,closed_time varchar,network varchar,date varchar)

@@ -1,0 +1,19 @@
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0019169710000000004	1489696413262_777041	true	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0017835681750000003	1489696523452_606583	true	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	8.652788750000001E-4	1489696413288_634791	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.03697343125	1489696413270_19758625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0037243278500000004	1489696523421_1422500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	7.847005000000001E-4	1489696523425_406250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.002229440325	1489696413257_1242458	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0012480073	1489696413259_837750	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006764363300000001	1489696523454_5430292	true	SELECT stop_name, route_id, borough, full_time, part_time, stop_sequence, type, acc, air_train, alert_type, alert_notes, acc_notes, parent_stop, lon, lat FROM stops_master WHERE route_id='1' ORDER BY stop_sequence
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001411249475	1489696410489_1139542	true	SELECT route_id, route_short_name, route_long_name, route_desc, route_type, route_url, route_color, route_text_color FROM routes_master WHERE transportation_type='subway'  AND route_id NOT IN ('5x' ) ORDER BY route_id
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011245775500000003	1489696413264_443125	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00430053495	1489696523409_2202417	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	8.138964750000002E-4	1489696523424_401417	true	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.0010726242000000002	1489696523453_432375	true	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.001070439675	1489696413263_615542	true	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	9.224705249999998E-4	1489696410487_725917	true	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.0012715043999999998	1489696413289_497333	true	null
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.0010235573000000001	1489696523410_519542	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0035416971499999997	1489696361980_711125	true	null

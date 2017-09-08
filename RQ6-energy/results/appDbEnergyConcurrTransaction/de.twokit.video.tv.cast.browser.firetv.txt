@@ -1,0 +1,2 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004847870724999999	1489695871171_1273458	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.016479305700000002	1489695871174_5481250	false	SELECT COUNT(*) FROM hits2

@@ -1,0 +1,3 @@
+select	0.04892689534999998	0.04892689534999998	0.04892689534999998	0.04892689534999998	13511459	1	13511459	13511459
+
+0.04892689534999998	13511459	3.621140792419233	SELECT DISTINCT id_post, title, comments_count,  custom1, excerpt, date, images, imagesWidth, imagesHeight, sticky FROM TB_Post_Category INNER JOIN TB_post ON TB_post.id_post = TB_Post_Category.post_id WHERE TB_Post_Category.category_slug = 'blog' ORDER BY sticky DESC, TB_post.date DESC

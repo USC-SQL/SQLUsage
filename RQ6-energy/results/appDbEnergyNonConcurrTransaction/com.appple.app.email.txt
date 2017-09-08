@@ -1,0 +1,27 @@
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.005992115699999999	1491118769635_669791	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.04692701170000001	1491118800763_11888125	true	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.0080913698	1491118800741_4280834	false	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.008334179750000002	1491118769627_766792	false	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.007152730099999999	1491118769628_728500	false	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.01706560095	1491118769599_2842458	false	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.005442804150000001	1491118769602_738417	false	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.0032118463999999997	1491118800746_1532000	false	null
+android.database.sqlite.SQLiteDatabase: void setVersion(int)	0.0174552589	1491118769615_2958834	false	null
+android.database.sqlite.SQLiteStatement: void execute()	0.0025593505500000006	1491118800757_1126125	true	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0024399281500000003	1491118800751_1060375	true	INSERT INTO preferences_storage (primkey, value) VALUES (?, ?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0055277225	1491118769631_642334	true	INSERT INTO preferences_storage (primkey, value) VALUES (?, ?)
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.004382269	1491118769630_587708	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0028869971500000004	1491118800749_1398042	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006033501900000001	1491118769618_785083	false	SELECT primkey, value FROM preferences_storage
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.001813613	1491118800762_633333	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.006917551900000001	1491118769633_823083	true	null
+android.database.sqlite.SQLiteProgram: void clearBindings()	0.0018206145499999999	1491118800759_699208	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.00182632515	1491118800755_790750	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0024377012500000003	1491118800753_1058958	true	null
+android.database.sqlite.SQLiteClosable: void close()	0.0046083168	1491118769636_507000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.005440113450000001	1491118769621_638250	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.008431147449999999	1491118800776_1017542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0018546814000000003	1491118800760_632500	true	null
+android.database.sqlite.SQLiteClosable: void close()	0.0055432542	1491118769632_678250	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007134731550000001	1491118769603_970083	false	DROP TABLE IF EXISTS preferences_storage
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.06510205904999998	1491118769605_9072333	false	CREATE TABLE preferences_storage (primkey TEXT PRIMARY KEY ON CONFLICT REPLACE, value TEXT)

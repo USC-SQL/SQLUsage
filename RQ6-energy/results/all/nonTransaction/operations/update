@@ -1,0 +1,126 @@
+update	8.219754999999999E-4	0.010102951030107532	0.0089498685	0.03759869580000002	437209	124	1396708	6930125
+
+8.219754999999999E-4	437209	UPDATE kick SET endTime = 1489276260246, numOfKicks = 5 WHERE id = 1
+9.114098499999999E-4	438792	UPDATE kick SET endTime = 1489276260699, numOfKicks = 6 WHERE id = 1
+0.0010216855500000002	421417	UPDATE kick SET endTime = 1489276261204, numOfKicks = 7 WHERE id = 1
+0.0011647003	549500	UPDATE kick SET endTime = 1489276259764, numOfKicks = 4 WHERE id = 1
+0.0017382720000000001	644916	UPDATE kick SET endTime = 1489276258684, numOfKicks = 2 WHERE id = 1
+0.0017392630500000005	542250	UPDATE kick SET endTime = 1489276259265, numOfKicks = 3 WHERE id = 1
+0.00222177185	2148917	update Props set Value = '11' where Name = 'Seq'
+0.0023256917	2248041	update Props set Value = '17' where Name = 'Seq'
+0.0023333861500000005	424958	UPDATE `persistent_context` SET `key` = ?, `value` = ? WHERE `id` = ?
+0.0023895428000000004	1108375	UPDATE admin SET value='' WHERE var='username'
+0.00268411855	4020125	update Props set Value = '8' where Name = 'Seq'
+0.0027357968000000007	2358083	update Props set Value = '13' where Name = 'Seq'
+0.0027495085500000003	962583	UPDATE admin SET value='' WHERE var='username_pass'
+0.0028136280249999998	410625	UPDATE `persistent_context` SET `key` = ?, `value` = ? WHERE `id` = ?
+0.0032067702	2368167	update Props set Value = '20' where Name = 'Seq'
+0.0032826403499999998	2149958	update Props set Value = '10' where Name = 'Seq'
+0.0033893028999999993	2180042	update Props set Value = '6' where Name = 'Seq'
+0.0034197703000000005	3496709	update Props set Value = '16' where Name = 'Seq'
+0.00357190825	2131542	update Props set Value = '28' where Name = 'Seq'
+0.0037931538333333343	777750	UPDATE `alert_rule` SET `interval_type` = ?, `plan_config_id` = ?, `name` = ?, `rule_type` = ?, `threshold` = ?, `disable_data` = ?, `enabled` = ?, `interval_count` = ?, `is_aligned_to_plan` = ? WHERE `id` = ?
+0.0038681232999999995	1418709	UPDATE admin SET value='' WHERE var='user_link'
+0.003955605500000001	3554917	update Props set Value = '12' where Name = 'Seq'
+0.00402234525	2086833	update Props set Value = '24' where Name = 'Seq'
+0.004092713150000001	1042625	UPDATE admin SET value='' WHERE var='sessionid'
+0.0042469879	2156125	update Props set Value = '25' where Name = 'Seq'
+0.004293861349999999	1986833	update Props set Value = '18' where Name = 'Seq'
+0.0043151387	359375	UPDATE `persistent_context` SET `key` = ?, `value` = ? WHERE `id` = ?
+0.00442789005	940500	UPDATE printhand_menu SET position = position + 1 WHERE position >= 16;
+0.00450466775	434708	UPDATE `plan_config` SET `interval_type` = ?, `plan_mode_type` = ?, `start_date` = ?, `mobile_subscriber_id` = ?, `usage_category` = ?, `usage_limit_adjustment_date` = ?, `usage_limit` = ?, `usage_limit_adjustment` = ?, `cost` = ?, `interval_count` = ?, `is_configured` = ?, `is_recurring` = ?, `is_roaming` = ?, `is_rollover` = ?, `text_limit` = ?, `voice_limit` = ? WHERE `id` = ?
+0.0046640282500000005	2339208	UPDATE weblog SET _status = 'sending' WHERE _rowid_ >= 1 and _rowid_ <= 2
+0.004775836625000001	555166	UPDATE `persistent_context` SET `key` = ?, `value` = ? WHERE `id` = ?
+0.0048265679	369667	UPDATE fs_user SET is_member = temple, can_help = temple
+0.005174565999999999	1827375	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.005240882550000001	3989792	UPDATE history SET status=1 WHERE (url=? OR url=?) AND last_visit>=1488960000000
+0.005268807499999999	2302000	UPDATE admin SET value='1' WHERE var='current_rezept_id'
+0.005293813499999999	1962917	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.00585353485	2115750	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.005905069850000001	1793542	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.0060949749	3488583	update Props set Value = '5' where Name = 'Seq'
+0.0061866138	1935333	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.0064051761	1179583	UPDATE printhand_menu SET position = position + 1 WHERE position >= 14;
+0.0066544202	1954708	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.0068424999	1177625	UPDATE printhand_menu SET position = position + 1 WHERE position >= 7;
+0.0068899082	4848292	update Workoutitem set count = count + 0, duration = duration + 7380, distance = distance + 6437.36, calorie = calorie + 520.64307 where _id=4
+0.006946380550000001	2032375	update Props set Value = '15' where Name = 'Seq'
+0.007036344799999999	2309250	UPDATE history SET status=1 WHERE (url=?) AND last_visit>=1488960000000
+0.007184745200000001	2095750	update Props set Value = '29' where Name = 'Seq'
+0.0072804888	4023834	UPDATE queued_request SET frozen=? WHERE id=?
+0.007455621149999999	1121125	UPDATE printhand_menu SET position = position + 1 WHERE position >= 12;
+0.0074643615	544500	UPDATE `alert_rule` SET `interval_type` = ?, `plan_config_id` = ?, `name` = ?, `rule_type` = ?, `threshold` = ?, `disable_data` = ?, `enabled` = ?, `interval_count` = ?, `is_aligned_to_plan` = ? WHERE `id` = ?
+0.00751804615	2320833	update Props set Value = '22' where Name = 'Seq'
+0.007537887050000001	4053000	update Props set Value = '9' where Name = 'Seq'
+0.007595114200000001	1368791	UPDATE printhand_menu SET position = position + 1 WHERE position >= 6;
+0.0076858327500000006	1093125	UPDATE printhand_menu SET position = position + 1 WHERE position >= 8;
+0.008092455900000002	6321542	UPDATE kategorie SET name='Party recipes' WHERE _id='5'
+0.00815349455	1107833	UPDATE printhand_menu SET position = position + 1 WHERE position >= 15;
+0.008168844350000001	2577500	update Props set Value = '4' where Name = 'Seq'
+0.008485489500000002	5208000	update Props set Value = '21' where Name = 'Seq'
+0.008536925400000001	3482083	update favorite set Rank=0 where rowid=2
+0.00856719145	953750	UPDATE savedchords SET pos=_id WHERE pos=-1
+0.008751422300000002	3752042	UPDATE queued_request SET frozen=? WHERE id=?
+0.0088242068	1932792	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.009075530200000001	860625	UPDATE printhand_menu SET position = position + 1 WHERE position >= 10;
+0.0093494801	943375	UPDATE printhand_menu SET position = position + 1 WHERE position >= 3;
+0.009475822049999999	2852000	UPDATE reader SET unread_count = unread_count + 7 WHERE section_id = 'default1'
+0.0097958656	1237792	UPDATE printhand_menu SET position = position + 1 WHERE position >= 13;
+0.009971704650000001	1205625	UPDATE printhand_menu SET position = position + 1 WHERE position >= 11;
+0.01000296265	4934833	UPDATE queued_request SET frozen=? WHERE id=?
+0.010028787450000002	2517750	UPDATE queued_request SET frozen=? WHERE id=?
+0.010075545200000001	5545875	UPDATE queued_request SET frozen=? WHERE id=?
+0.01034017135	3933375	update favorite set Rank=1 where rowid=2
+0.010426623050000004	3327750	UPDATE kategorie SET name='Mediterranean6' WHERE _id='4'
+0.010547411100000001	2345333	update Props set Value = '14' where Name = 'Seq'
+0.010627021450000001	3204958	UPDATE reader SET unread_count = unread_count + 7 WHERE section_id = 'default3'
+0.010671782349999999	6631625	UPDATE queued_request SET frozen=? WHERE id=?
+0.010978111750000002	2710792	UPDATE result SET go='200' WHERE _id='5'
+0.011031159450000003	1039666	UPDATE printhand_menu SET position = position + 1 WHERE position >= 5;
+0.011120929149999997	8441500	UPDATE kategorie SET color_id='2', pic_id='8' WHERE _id='5'
+0.011178242050000002	8631666	UPDATE rezept SET name='Test', is_favorit='0', beschreibung='test', datum='2017-3-10', kategorie_id='3', bewertung='0', schwierigkeit='0', zeit_arbeit='12', zeit_kochen='2', zutaten_fuer_x='2', show_online='0', import_id='0', should_sync='1' WHERE _id='1'
+0.0112205295	3025541	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.011293340050000001	1121458	UPDATE printhand_menu SET position = position + 1 WHERE position >= 2;
+0.011357550800000001	3967709	UPDATE history SET status=1 WHERE (url=?) AND last_visit>=1488960000000
+0.01136037975	4876166	UPDATE admin SET value='5yc' WHERE var='herd2text'
+0.011410061150000005	5119916	UPDATE admin SET value='0' WHERE var='current_rezept_id'
+0.0115108571	3834667	update Props set Value = '23' where Name = 'Seq'
+0.011933511600000004	1183917	UPDATE printhand_menu SET position = position + 1 WHERE position >= 0;
+0.012030277750000004	2768291	UPDATE result SET go='100' WHERE _id='7'
+0.012104931950000002	3607084	UPDATE queued_request SET request=? WHERE id=?
+0.012128181900000002	1234125	UPDATE printhand_menu SET position = position + 1 WHERE position >= 9;
+0.0123491355	3258125	UPDATE reader SET unread_count = unread_count + 7 WHERE section_id = 'default4'
+0.012392808700000002	1979958	UPDATE queued_request SET frozen=? WHERE id=?
+0.012528903200000002	1213542	UPDATE printhand_menu SET position = position + 1 WHERE position >= 4;
+0.012552254399999995	2864250	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.01296967415	2635125	UPDATE result SET go='300' WHERE _id='6'
+0.013620783799999998	4831166	update favorite set Rank=0 where rowid=3
+0.013729988900000002	1034083	UPDATE printhand_menu SET position = position + 1 WHERE position >= 1;
+0.01386615915	3174208	UPDATE queued_request SET frozen=? WHERE id=?
+0.0143482847	3841333	UPDATE queued_request SET frozen=? WHERE id=?
+0.014455497549999998	2502667	update Props set Value = '3' where Name = 'Seq'
+0.014522341700000002	5367750	UPDATE queued_request SET request=? WHERE id=?
+0.0146398731	3265417	UPDATE result SET go='100' WHERE _id='3'
+0.01473149735	2775083	UPDATE result SET go='200' WHERE _id='4'
+0.01523122205	7043042	UPDATE kategorie SET color_id='2', pic_id='9' WHERE _id='5'
+0.015595273700000002	4937334	UPDATE workout SET sport = '0', starttime = '1491000809915', timeZoneOffSetInt = '0', distance = '0.000000', duration = '4', end_time = '0', lastTimeStamp = '1491000814034', status = '1', authToken = 'null', hrAvg = '0', calories = '0', trackType = '0', steps = '0', hydration = '0.000107', hrMax = '0', speedAvg = '-1.000000', speedMax = '-1.000000', cadenceAvg = '-1', cadenceMax = '-1', altitudeMin = '-999999', altitudeMax = '-999999', descent = '-999999', ascent = '-999999', goalType = '0', goalDistInMeters = '0', goalDurInSeconds = '0', goalCalInKcal = '0', goalWorkoutIdLocal = '0', goalWorkoutIdServer = '', goalFriendId = '', goalPbRecordId = '', ipUuid = '', goalResultSecondsAhead = '0', goalResultMetersAhead = '0.000000', goalResultDuration = '0', goalResultDistance = '0.000000', goalResultCalories = '0' WHERE workoutId = '1545509632126873586';
+0.015754684999999997	3225833	UPDATE result SET go='100' WHERE _id='2'
+0.0159180085	2896459	update Props set Value = '1' where Name = 'Seq'
+0.0167135879	5478375	UPDATE kategorie SET name='Party recipes' WHERE _id='5'
+0.016814282799999997	5162833	UPDATE queued_request SET frozen=? WHERE id=?
+0.016973051200000002	2578250	update Props set Value = '2' where Name = 'Seq'
+0.017303517600000002	2274250	UPDATE queued_request SET frozen=? WHERE id=?
+0.01744985255	2068917	update Props set Value = '7' where Name = 'Seq'
+0.018855835550000002	3554416	UPDATE workout SET sport = '0', starttime = '1491000809915', timeZoneOffSetInt = '0', distance = '0.000000', duration = '59', end_time = '0', lastTimeStamp = '1491000814034', status = '1', authToken = 'null', hrAvg = '0', calories = '2', trackType = '0', steps = '0', hydration = '0.001575', hrMax = '0', speedAvg = '-1.000000', speedMax = '-1.000000', cadenceAvg = '-1', cadenceMax = '-1', altitudeMin = '-999999', altitudeMax = '-999999', descent = '-999999', ascent = '-999999', goalType = '0', goalDistInMeters = '0', goalDurInSeconds = '0', goalCalInKcal = '0', goalWorkoutIdLocal = '0', goalWorkoutIdServer = '', goalFriendId = '', goalPbRecordId = '', ipUuid = '', goalResultSecondsAhead = '0', goalResultMetersAhead = '0.000000', goalResultDuration = '0', goalResultDistance = '0.000000', goalResultCalories = '0' WHERE workoutId = '1545509632126873586';
+0.020030180450000008	5269750	update Props set Value = '26' where Name = 'Seq'
+0.0200905895	3929125	update Props set Value = '1' where Name = 'Enrolled'
+0.020295254750000002	2830750	UPDATE workout SET serverId = '897088587', upLoadStatus = '1', lastUpload = '2', sharedOnFb = '0', sharedOnTwitter = '0', sharedOnGplus = '0', timeOfFirstTpUpload = '0' WHERE workoutId = '1545509632126873586';
+0.02058016185	7192500	UPDATE queued_request SET request=? WHERE id=?
+0.021563436850000003	4385541	update Props set Value = '27' where Name = 'Seq'
+0.021791311600000002	6284583	update table_customer set password=? where email=?
+0.02536307885	7118208	UPDATE admin SET value='2017-3-10 17:30:44' WHERE var='herd2'
+0.02583216005	3995875	UPDATE workout SET serverId = '897088587', upLoadStatus = '1', lastUpload = '2', sharedOnFb = '0', sharedOnTwitter = '0', sharedOnGplus = '0', timeOfFirstTpUpload = '0' WHERE workoutId = '1545509632126873586';
+0.027660055500000006	9006458	UPDATE  LocationTable SET lon=-1.1828977211471361E8 , lat=3.401941725609574E7 WHERE id=1
+0.029961737950000015	10845125	UPDATE kategorie SET color_id='5', pic_id='12' WHERE _id='4'
+0.034232792399999996	5846875	UPDATE workout SET sport = '0', starttime = '1491000809915', timeZoneOffSetInt = '0', distance = '0.000000', duration = '0', end_time = '0', lastTimeStamp = '0', status = '1', authToken = 'null', hrAvg = '0', calories = '0', trackType = '0', steps = '0', hydration = '0.000000', hrMax = '0', speedAvg = '-1.000000', speedMax = '-1.000000', cadenceAvg = '-1', cadenceMax = '-1', altitudeMin = '-999999', altitudeMax = '-999999', descent = '-999999', ascent = '-999999', goalType = '0', goalDistInMeters = '0', goalDurInSeconds = '0', goalCalInKcal = '0', goalWorkoutIdLocal = '0', goalWorkoutIdServer = '', goalFriendId = '', goalPbRecordId = '', ipUuid = '', goalResultSecondsAhead = '0', goalResultMetersAhead = '0.000000', goalResultDuration = '0', goalResultDistance = '0.000000', goalResultCalories = '0' WHERE workoutId = '1545509632126873586';
+0.03759869580000002	6930125	update Props set Value = '19' where Name = 'Seq'

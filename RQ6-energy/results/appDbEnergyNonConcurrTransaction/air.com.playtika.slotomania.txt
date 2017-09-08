@@ -1,0 +1,329 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00325492145	1489698102459_1260792	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.016101503150000005	1489698102428_7257000	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.005989883200000001	1489698149991_610042	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00401427705	1489698105479_559375	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0045911601	1489698133848_1204000	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.006052041199999999	1489698106546_449875	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0060253347	1489698113572_489250	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0062059942	1489698113595_657834	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00704153805	1489698114659_652875	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.007198464000000002	1489698115966_585458	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.007143567500000001	1489698115994_613541	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00614645535	1489698106579_462875	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.009516736999999999	1489698115409_1004541	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0072311195	1489698112030_494583	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0051993238	1489698113619_527208	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.008454437	1489698116053_976375	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0036357591500000004	1489698104673_1387583	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.007274455000000001	1489698113478_613917	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0075341292499999995	1489698215156_615250	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.008033274200000001	1489698215106_997208	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00401256545	1489698113528_551375	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00392363635	1489698149963_718542	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0045347766	1489698104710_1089875	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0030013672	1489698150864_518084	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.007194315950000001	1489698115353_635833	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.003947242950000001	1489698124181_391917	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0088598603	1489698116024_640625	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.003519963	1489698113550_414750	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.1334876657	1489698115437_22967542	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.11130554720000005	1489698105488_18363583	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0959293476	1489698149969_17591958	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0514371626	1489698113536_9486208	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.039433485950000007	1489698104687_13068625	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.061648248600000004	1489698113582_8588833	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.35852225900000007	1489698112037_46427166	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.06003889695	1489698116062_9262667	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.05175766750000001	1489698113557_8472334	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.1076582892	1489698116033_15999833	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.17548968300000006	1489698114667_20640209	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.10215717885000003	1489698150871_20342500	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0724802712	1489698113605_10212125	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.15124905889999998	1489698116002_17668875	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.05284901765	1489698106585_7534667	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.26670016015000003	1489698115364_41011291	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.2577853815	1489698113491_33821959	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.19889300520000006	1489698124186_36741334	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.09254855640000001	1489698215137_13925250	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.037503636050000004	1489698104727_12230084	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.11735499479999997	1489698115976_14632875	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.046613835850000014	1489698215167_6959250	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.08312386170000002	1489698113629_12008750	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.16437684659999996	1489698106552_22588375	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.054881458350000016	1489698133868_19784083	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.047810305399999996	1489698150000_7677084	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00433549805	1489698115434_440459	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01334863215	1489698113567_2362250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0038734755500000003	1489698115412_350458	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00639064395	1489698116020_597833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004107086850000001	1489698149959_586708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.019771598	1489698106541_2617250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00702470275	1489698113577_625083	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.06966135969999998	1489698215119_11005792	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0022708712999999995	1489698150870_378250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0049430151	1489698112036_329625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0045329711	1489698116030_498291	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004415731200000001	1489698133863_1106583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0038064230000000006	1489698104708_962166	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0045273897	1489698149967_246166	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004711251849999999	1489698149992_416833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0051032748999999995	1489698115975_533500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0056729336	1489698215136_454666	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003947242950000001	1489698124181_301917	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00460564265	1489698149995_606209	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004997491	1489698116052_463292	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0022221576	1489698150865_258541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0053768589999999995	1489698114660_400333	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0039292092	1489698104748_1332250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007100044200000001	1489698215108_922833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007246803	1489698215163_760709	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0024297430000000003	1489698113550_295667	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0073889859000000006	1489698115965_522500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0049512283500000006	1489698116050_537375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007662713700000001	1489698115357_696541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004894506100000001	1489698115362_427833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0038207202499999995	1489698124185_265792	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035923556500000006	1489698149988_433417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005835875450000001	1489698215157_567958	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0047864365	1489698106549_335542	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00656184505	1489698215166_541334	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0043128839999999995	1489698102487_1551584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0031666858	1489698149964_384875	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00508551645	1489698113575_451250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00210814975	1489698105485_373916	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00299922525	1489698104684_663667	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004821570000000001	1489698116061_460291	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00754843575	1489698215155_797750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0083442987	1489698113581_1079459	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004654426	1489698106546_256375	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00393444245	1489698124180_296791	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0022449682	1489698150864_304667	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00429269215	1489698113552_341084	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027020174	1489698114662_373625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0043864416500000005	1489698114664_390375	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00219413225	1489698150867_391125	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036856182500000006	1489698104667_1249542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00488910375	1489698113573_580333	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00231874685	1489698104675_625917	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0039431088	1489698124186_248291	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035670050000000003	1489698104712_708833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00574474585	1489698112035_335750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003418642550000001	1489698133866_760083	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0030170317499999995	1489698113536_359416	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007695009099999999	1489698113481_589834	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004834198300000001	1489698215160_467708	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0039837543	1489698106583_259542	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0052622683	1489698116028_477959	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0044888278	1489698106547_247583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0053224601500000005	1489698116060_446875	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006085521	1489698113484_588333	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00393897085	1489698149962_409250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00383384795	1489698105480_433083	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0054454691	1489698133846_1430458	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00483219795	1489698133838_1329291	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004086186499999999	1489698150862_499625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006132543250000001	1489698215133_705584	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004913713700000001	1489698104703_1389292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005569710100000001	1489698113599_597250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007243097299999999	1489698115967_514834	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036261567	1489698116000_344542	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005434041600000001	1489698115360_465208	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005835522100000001	1489698215152_510791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.016256215300000005	1489698113471_1961584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004899962549999999	1489698115352_414875	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0100121266	1489698215183_877833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0064244758	1489698106578_501500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0053086843500000005	1489698106580_414584	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00348119285	1489698116001_335416	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005520467750000001	1489698124183_443708	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036811298000000007	1489698149966_353916	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0028995388000000004	1489698113534_368792	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006183007700000001	1489698115354_422208	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004325144350000001	1489698105478_438541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005951427500000001	1489698113625_791750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0053970248000000005	1489698114666_505625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00470090875	1489698116032_413584	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0030722264000000005	1489698113528_363917	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0029847929000000003	1489698113554_296292	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0043855701	1489698113479_396666	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0095306987	1489698114655_800709	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00491931685	1489698106552_234292	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006372334049999999	1489698105476_852083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00579545795	1489698113477_402333	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035239499500000003	1489698106585_381750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.26281776435000015	1489698102378_103788625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0022885410500000005	1489698104672_638209	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00455125665	1489698113617_445083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.01916943625	1489698215099_2410833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0054665138	1489698113602_446833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034207819500000004	1489698113547_372584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006095222200000001	1489698113592_441375	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0037228363000000003	1489698114658_291708	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0031569473000000008	1489698113529_350291	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0062867764	1489698115406_439292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00484782465	1489698133856_1747209	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0039764707	1489698133851_1182084	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00530047255	1489698113526_404500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034869988500000008	1489698106582_310417	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00540525375	1489698112031_315750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0056611566	1489698115995_453833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005515445450000001	1489698113604_451500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005349897500000001	1489698115991_447250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0063681327	1489698106576_513208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0038988306500000003	1489698113619_366417	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0038712079500000003	1489698149997_549833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0052969172	1489698116054_461666	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004167559800000001	1489698115998_398541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0063749795	1489698116025_479583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00498809365	1489698112029_394542	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023879961	1489698113549_306625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035407878	1489698105483_509833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00342862145	1489698105487_562583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0041278070500000005	1489698113571_380459	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008596576650000002	1489698115349_1101208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0039152689	1489698104725_994500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0054978005	1489698113628_556042	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00693939235	1489698112033_426625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0059752257000000005	1489698113532_481334	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00323173925	1489698115993_383875	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006751370749999999	1489698116023_547708	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023815496000000004	1489698104686_565042	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004815716050000001	1489698149990_569541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005267008750000001	1489698124178_649042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0024098919000000002	1489698150869_358583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00565063675	1489698113594_423666	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0058233484	1489698115408_475208	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0074628008	1489698113623_603958	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00953824505	1489698115962_639042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.03350876369999999	1489698113486_4222125	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0025710671499999996	1489698104679_745834	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00394419395	1489698113620_363667	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0032764026000000005	1489698149999_387625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012683358050000001	1489698112025_1171583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011370762100000003	1489698215104_1206875	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0058645862500000005	1489698115970_484125	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003448107	1489698115411_354125	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00579107745	1489698113596_419958	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00356885835	1489698115436_358042	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00394180645	1489698104721_856583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00497923195	1489698104716_1010500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0048232461	1489698115972_506250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0033967143500000007	1489698113556_353666	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036553440000000005	1489698149969_280125	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00514437245	1489698116057_460375	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0075064644	1489698150018_644584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00481294	1489698106551_274291	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0100289029	1489698106577_833292	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0187456266	1489698112027_1811167	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0038361736000000007	1489698150863_562625	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.006354150200000001	1489698113548_851375	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.009724938850000002	1489698215153_1065166	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0078103251	1489698113570_810250	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.01098679445	1489698133840_3615125	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.003585186	1489698104670_1210958	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0055929681	1489698104705_1591166	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00475743465	1489698124179_570458	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00664875675	1489698113527_646958	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005535331150000001	1489698115992_639916	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.01597377805	1489698113474_1836625	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00672844955	1489698113617_848459	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00489042185	1489698105477_746208	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.008332094000000002	1489698115407_783250	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00846257785	1489698116021_825250	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0059066488	1489698114657_655958	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.008600195	1489698215102_873792	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005790217350000001	1489698149960_863750	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00540986935	1489698115351_782041	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00620398575	1489698116051_761792	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00957292725	1489698113593_878917	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0049724094	1489698149989_673208	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.009383114050000002	1489698106544_1070292	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.01249861545	1489698115963_1051375	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0054921737	1489698116055_537625	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033794469000000002	1489698104714_754417	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006490387100000002	1489698116026_536000	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00711603015	1489698113480_443125	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005181134150000001	1489698113597_534833	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00335930245	1489698124182_328458	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033331941	1489698102483_1328083	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006212388150000001	1489698112032_378792	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003408726	1489698149965_457375	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0054544024500000005	1489698113574_469166	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0047459830000000005	1489698150019_498875	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003442120850000001	1489698113551_363083	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0046057560999999995	1489698133853_1309959	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0041789093	1489698105481_641375	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00571272295	1489698113530_432167	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006348887300000001	1489698115996_559500	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006756636700000001	1489698115355_625291	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0059715053999999995	1489698215159_636375	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026686292500000004	1489698150866_342709	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.008776698200000002	1489698115968_602000	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004255151749999999	1489698114661_433375	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004879326800000001	1489698149993_785625	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0045116419	1489698102490_1143542	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003448107	1489698115411_373958	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00787334885	1489698215184_656959	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006770679400000001	1489698215113_762209	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0052633239	1489698106581_400917	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00337870675	1489698104677_1095292	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037019462500000005	1489698104751_1319209	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0046403658500000005	1489698106548_392625	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005066665000000001	1489698113621_440042	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.006221019300000001	1489698113486_423667	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0036261567	1489698116000_360292	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0045795681000000005	1489698116031_461542	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00622322955	1489698113627_538917	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0046631119	1489698115974_527959	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00462766305	1489698149968_348333	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00398275105	1489698104723_940125	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00481294	1489698106551_238917	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00425203265	1489698115435_476750	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00545224035	1489698113603_558042	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0085291461	1489698215164_716166	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0059446116500000016	1489698115361_469667	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00364198745	1489698113555_282334	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0038207202499999995	1489698124185_292917	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0038445835500000003	1489698133865_810208	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0030322960000000007	1489698113535_328334	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0049430151	1489698112036_315916	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0032764026000000005	1489698149999_350125	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.006661456900000001	1489698114665_516667	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00555104565	1489698215135_508042	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0070206078	1489698113579_606709	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0023961225000000003	1489698104685_552916	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.003844312350000001	1489698105486_617042	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0039482935	1489698106584_258750	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.004821570000000001	1489698116061_416625	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0024098919000000002	1489698150869_363208	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0082467383	1489698115359_893250	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.006660411200000001	1489698104719_1717333	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.007372744250000001	1489698106550_614709	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.008533592400000001	1489698115971_980708	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.005703812000000001	1489698149966_691875	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.006801092850000001	1489698113533_920750	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.006795557200000001	1489698113576_760000	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0095781583	1489698113600_1129125	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0057678129	1489698124184_569292	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0074266242500000005	1489698215161_844083	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0104927331	1489698215131_1301375	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.00357314265	1489698105484_771584	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.00853673785	1489698113553_991000	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0058329603	1489698116029_722584	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0037132948	1489698150868_735083	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0048932726	1489698104681_1419959	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0053850931500000025	1489698133860_1989625	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.00569811	1489698114663_747000	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.00762786135	1489698116058_874833	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0060817247500000015	1489698106582_622750	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.008088047100000002	1489698113624_892958	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0091105196	1489698112034_667750	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.12022723079999999	1489698115413_20056209	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.010989256650000001	1489698113483_1105250	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.00638646045	1489698115999_639084	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.005797560400000001	1489698149996_955083	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0050601668500000006	1489698102296_2196375	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.013609103100000002	1489698115776_2634417	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.00327054085	1489698102418_1198916	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.04351200209999999	1489698102439_18423834	false	CREATE TABLE IF NOT EXISTS hits2 ( 'hit_id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, 'hit_time' INTEGER NOT NULL, 'hit_url' TEXT NOT NULL, 'hit_string' TEXT NOT NULL, 'hit_app_id' INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.037598723449999996	1489698102464_17204041	false	CREATE TABLE IF NOT EXISTS properties ( app_uid INTEGER NOT NULL, cid TEXT NOT NULL, tid TEXT NOT NULL, params TEXT NOT NULL, adid INTEGER NOT NULL, hits_count INTEGER NOT NULL, PRIMARY KEY (app_uid, cid, tid)) ;

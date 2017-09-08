@@ -1,0 +1,313 @@
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011799	1489023248202_545375	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0010622054999999998	1489023248374_509250	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014664678499999998	1489023248399_521333	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016109052	1489023248189_623959	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0019028060999999998	1489023248415_407583	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016953696999999998	1489023248122_743458	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014054548000000003	1489023248436_320250	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012345791499999998	1489023248197_540708	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00101536	1489023248367_517750	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012100789000000002	1489023248327_561958	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013546536	1489023248410_459541	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016961544000000002	1489023248446_293833	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.012930548100000005	1489023248488_6707833	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00223873225	1489023248128_878666	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016040927000000001	1489023248422_388459	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018819237000000002	1489023248138_833917	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020304116999999996	1489023248125_795959	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00109257195	1489023248314_556916	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011262830999999999	1489023248269_515000	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	9.372053000000001E-4	1489023248341_441333	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0010474862	1489023248369_444291	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00162354995	1489023248455_371833	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011826387	1489023248218_562666	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	9.242818E-4	1489023248359_464625	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0019622512	1489023248151_782500	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00120418025	1489023248204_532500	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0030949256000000007	1489023248142_1284209	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012265228000000001	1489023248387_525333	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00116014	1489023248264_595083	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017496488499999998	1489023248123_792208	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015867215	1489023248206_530709	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00114467075	1489023248241_534833	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012744354500000001	1489023248401_513125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012268017000000003	1489023248209_517916	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016116197000000001	1489023248335_449291	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.001571019	1489023248429_397584	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0030382605000000003	1489023248432_1001750	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.001342962	1489023248311_673416	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00154166	1489023248137_762667	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00111267655	1489023248266_515167	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015086787000000003	1489023248177_655292	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	8.973876E-4	1489023248349_451416	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	8.790555E-4	1489023248343_438250	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00133763515	1489023248288_738416	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015691848	1489023248164_754541	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011284796499999997	1489023248225_534584	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00109250215	1489023248274_532167	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00139574	1489023248305_668708	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013506843	1489023248463_386666	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012319998500000002	1489023248378_499750	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011234279999999999	1489023248319_555458	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015033612500000002	1489023248440_381208	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014433715000000003	1489023248468_379125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016108372500000002	1489023248451_299625	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00123082625	1489023248216_509042	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013655915	1489023248293_644458	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00206856955	1489023248120_829125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011394641999999998	1489023248258_526875	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00116561385	1489023248449_293625	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018382951499999998	1489023248154_778166	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011636779000000002	1489023248331_438791	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015132810500000002	1489023248192_648208	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00119796175	1489023248389_562583	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0022041539000000007	1489023248308_904625	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012724646000000003	1489023248431_383500	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	9.207701E-4	1489023248337_517125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	9.212453E-4	1489023248361_439875	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017204285500000004	1489023248396_553292	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0023674733	1489023248126_767042	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00178387195	1489023248435_461750	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.002121388	1489023248135_806709	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0010956477	1489023248316_550958	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011081162500000002	1489023248256_531500	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00160157295	1489023248453_309959	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018134395	1489023248168_931792	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014685777	1489023248439_320708	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0010658995000000003	1489023248295_597375	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	8.777999999999999E-4	1489023248347_431291	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012679293000000002	1489023248403_561666	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0027124279500000004	1489023248131_870042	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011507159	1489023248230_515750	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	9.392977499999999E-4	1489023248351_440125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00112172345	1489023248251_525125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020451725000000002	1489023248457_456666	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021527893	1489023248130_779750	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00117116025	1489023248253_557292	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00143111955	1489023248382_662583	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011461198499999998	1489023248260_521917	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00115668255	1489023248380_488041	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020615884	1489023248420_491500	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0010036662000000001	1489023248465_367042	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0010742584	1489023248376_484416	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014773218	1489023248470_376792	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015953501499999998	1489023248473_372958	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012336929	1489023248223_528458	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011170065	1489023248329_436084	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015060597500000004	1489023248174_639541	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	8.8510745E-4	1489023248354_437542	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00107733645	1489023248365_432750	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011723772000000001	1489023248211_523708	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014585172000000002	1489023248301_796792	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016974477000000002	1489023248444_299250	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	8.786748E-4	1489023248339_435709	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018209798000000004	1489023248158_807458	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00106966465	1489023248322_557000	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011240022	1489023248286_429584	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011091141999999999	1489023248371_432791	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011794891000000004	1489023248385_506584	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00118998615	1489023248246_536083	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	9.233700000000002E-4	1489023248357_511250	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018592439500000001	1489023248118_857125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00197864165	1489023248186_628958	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012485982	1489023248220_546125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015893813000000003	1489023248394_538958	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0024595999000000006	1489023248116_983917	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0010710513999999999	1489023248284_456000	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.001208544	1489023248239_538084	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	8.501714000000003E-4	1489023248345_426792	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013812897499999998	1489023248419_390542	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013791285	1489023248298_629500	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013864564499999998	1489023248408_497834	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011555936	1489023248406_469292	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018333610500000004	1489023248161_801000	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	8.93059E-4	1489023248356_434584	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013850993	1489023248234_626709	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015417048500000002	1489023248183_645042	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014939895	1489023248438_315584	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014013709500000002	1489023248424_387416	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012162801500000002	1489023248195_507542	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011400747499999999	1489023248237_588166	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015168999000000002	1489023248228_564583	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011009358	1489023248333_459875	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014785156500000001	1489023248442_353375	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021241698000000002	1489023248171_630625	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015514620000000002	1489023248460_375083	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014394293000000002	1489023248425_396375	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012526995000000003	1489023248417_399417	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012114800500000003	1489023248200_544333	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011872347000000001	1489023248214_516417	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014091560000000004	1489023248244_635292	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011351347	1489023248249_547958	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00137201615	1489023248392_512667	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021552729500000003	1489023248412_689500	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026330628	1489023248146_914584	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00189413555	1489023248180_860125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0011245676	1489023248363_438125	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00217844415	1489023248133_1182792	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013451445500000003	1489023248427_390916	false	null
+android.database.sqlite.SQLiteDatabase: long insertOrThrow(java.lang.String,java.lang.String,android.content.ContentValues)	0.00115646055	1489023248324_553708	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.8073783748000004	1489023248041_446097625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004750324100000001	1489023265827_883250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.008698436200000001	1489023248946_5295208	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012152796	1489023248205_470417	false	select _id from ScaleTable where Name = "Locus of Control"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012598215000000001	1489023248221_453916	false	select _id from ScaleTable where Name = "Caring"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012013012500000002	1489023248185_573833	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011454723500000001	1489023248250_482584	false	select _id from ScaleTable where Name = "Likes People"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010747819	1489023248317_550625	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	7.9317595E-4	1489023248334_398167	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015896240000000002	1489023248404_601167	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013957996	1489023248235_473875	false	select _id from ScaleTable where Name = "Trusting"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010182879	1489023248464_376208	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.704963999999999E-4	1489023248344_367958	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011348968	1489023248390_436083	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011397322	1489023248226_470458	false	select _id from ScaleTable where Name = "Trusting"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011409483000000002	1489023248381_407417	false	select _id from ScaleTable where Name = "Self-Confidence"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.9768E-4	1489023248352_373292	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011078452000000002	1489023248245_478708	false	select _id from ScaleTable where Name = "Likes People"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00109588335	1489023248315_494000	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	7.0528E-4	1489023248336_375625	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015941609000000002	1489023248196_453542	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011996980000000001	1489023248203_463041	false	select _id from ScaleTable where Name = "Locus of Control"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016108372500000002	1489023248451_266167	false	select _id from ScaleTable where Name = "Likes People"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00133337365	1489023248400_486166	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012724646000000003	1489023248431_327584	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00123581385	1489023248458_345250	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00115975975	1489023248242_526708	false	select _id from ScaleTable where Name = "Likes People"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016205086500000001	1489023248428_377833	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012094786500000002	1489023248217_453167	false	select _id from ScaleTable where Name = "Caring"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.917208E-4	1489023248342_377041	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011202763000000002	1489023248383_405458	false	select _id from ScaleTable where Name = "Self-Confidence"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013491316500000002	1489023248409_402875	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015159378	1489023248162_748958	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016077561	1489023248421_331167	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015237963500000001	1489023248201_449375	false	select _id from ScaleTable where Name = "Locus of Control"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.612010500000001E-4	1489023248340_380667	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	8.5994085E-4	1489023248330_374416	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002038528	1489023248149_768500	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016972834500000003	1489023248414_562209	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020235327500000002	1489023248187_658125	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	8.4667715E-4	1489023248364_381958	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00133445135	1489023248393_525875	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014054548000000003	1489023248436_278625	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010123867000000001	1489023248366_401708	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	7.889493999999999E-4	1489023248370_389792	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010845227000000001	1489023248388_443834	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00160157295	1489023248453_268000	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015964157000000001	1489023248456_362917	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	9.045196000000001E-4	1489023248350_438334	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014653672499999998	1489023248416_346625	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015643267500000003	1489023248224_600208	false	select _id from ScaleTable where Name = "Trusting"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012774084000000004	1489023248434_387041	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014685777	1489023248439_276041	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013506843	1489023248463_353541	false	select _id from ScaleTable where Name = "Self-Confidence"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015824254499999999	1489023248472_388000	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013546794000000003	1489023248430_335666	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00207491555	1489023248302_1170542	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014711763500000002	1489023248247_583250	false	select _id from ScaleTable where Name = "Likes People"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018921183	1489023248144_747792	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011338454	1489023248259_477958	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	8.254341E-4	1489023248332_366083	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017004882999999999	1489023248445_274958	false	select _id from ScaleTable where Name = "Locus of Control"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016637670499999998	1489023248156_689917	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011309548	1489023248261_476125	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015883329999999997	1489023248466_352375	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012157801000000003	1489023248379_406583	false	select _id from ScaleTable where Name = "Self-Confidence"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012924228	1489023248402_452125	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	8.817159000000001E-4	1489023248348_491208	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014950639999999997	1489023248441_344292	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015275059	1489023248423_326792	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.844099000000001E-4	1489023248338_375250	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017042868	1489023248461_342458	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014315857000000002	1489023248467_352417	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016278893	1489023248166_659334	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016018409	1489023248290_897625	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001171959	1489023248207_549541	false	select _id from ScaleTable where Name = "Locus of Control"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	7.208275500000001E-4	1489023248358_374333	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014253078	1489023248320_674667	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017587999	1489023248462_379417	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011184869	1489023248407_400916	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00143372535	1489023248240_581000	false	select _id from ScaleTable where Name = "Likes People"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00110158405	1489023248257_486000	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013298435499999998	1489023248952_559292	false	select * from EntryTable where date >= 1486431248946 AND date <= 1489023248946 ORDER BY date DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00123634755	1489023248190_589416	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00116561385	1489023248449_318250	false	select _id from ScaleTable where Name = "Trusting"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015033612500000002	1489023248440_269042	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014139729000000002	1489023248469_363250	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016089633	1489023248454_278792	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011469918999999999	1489023248252_489166	false	select _id from ScaleTable where Name = "Likes People"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014139729000000002	1489023248469_347792	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011346362	1489023248238_489334	false	select _id from ScaleTable where Name = "Trusting"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016961544000000002	1489023248446_273375	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016800385000000002	1489023248395_452958	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016822690000000003	1489023248417_424000	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011943010500000003	1489023248325_482708	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	7.683950000000002E-4	1489023248368_373500	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004385815350000001	1489023265828_813125	false	select * from EntryTable where date >= 1486431265827 AND date <= 1489023265827 ORDER BY date DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017652909000000002	1489023248270_892791	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001517199	1489023248182_621834	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014335129	1489023248328_672542	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022912988	1489023248152_834583	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012637567	1489023248175_551625	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011794891000000004	1489023248385_562000	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015511252499999999	1489023248459_374916	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013738269000000002	1489023248450_281250	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011708116	1489023248447_270250	false	select _id from ScaleTable where Name = "Caring"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011039392499999998	1489023248310_472542	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014569581500000002	1489023248212_630125	false	select _id from ScaleTable where Name = "Caring"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018601516500000004	1489023248424_447541	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.695307999999999E-4	1489023248356_374083	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00141108	1489023248299_627125	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012372399000000003	1489023248219_455625	false	select _id from ScaleTable where Name = "Caring"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011540603999999999	1489023248265_490500	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013254748000000002	1489023248312_652916	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010889864999999999	1489023248294_552750	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	7.031566E-4	1489023248360_375125	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001900848	1489023248172_688042	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016740250500000002	1489023248471_337250	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022858077	1489023248140_930125	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011617369	1489023248231_508791	false	select _id from ScaleTable where Name = "Trusting"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017204828	1489023248452_282667	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00119358	1489023248178_579084	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00106935515	1489023248323_497292	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013673477	1489023248282_775625	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00153874045	1489023248159_687333	false	select _id from ScaleTable where Name = "Optimism"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00146771035	1489023248307_561375	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011592539	1489023248448_283250	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011685103500000001	1489023248437_271375	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015964157000000001	1489023248456_374167	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.631290500000001E-4	1489023248354_373417	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011101996	1489023248267_583334	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015711661499999998	1489023248198_612834	false	select _id from ScaleTable where Name = "Locus of Control"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	6.4863215E-4	1489023248346_374292	false	select _id from ScaleTable where Name = "Conscientiousness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016974477000000002	1489023248444_277625	false	select _id from TestTable where TestName = "Your Happiness Assessment"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011073923	1489023248229_481417	false	select _id from ScaleTable where Name = "Trusting"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014792219	1489023248443_280042	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012066985000000004	1489023248210_559292	false	select _id from ScaleTable where Name = "Caring"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011583155	1489023248254_576708	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015172998500000002	1489023248193_635750	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010683195	1489023248375_428625	false	select _id from ScaleTable where Name = "Self-Confidence"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011156435500000001	1489023248287_443500	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010240663	1489023248372_538250	false	select _id from ScaleTable where Name = "Self-Confidence"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010032384500000002	1489023248362_423750	false	select _id from ScaleTable where Name = "Assertiveness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	8.165125499999999E-4	1489023248285_392000	false	select _id from ScaleTable where Name = "Agreeableness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014601564	1489023248426_330042	false	select _id from ScaleTable where Name = "Playfulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015197808	1489023248169_690208	false	select _id from ScaleTable where Name = "Immoderation"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011996204500000001	1489023248215_452750	false	select _id from ScaleTable where Name = "Caring"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010907443000000001	1489023248296_488875	false	select _id from ScaleTable where Name = "Emotional Stability"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013812897499999998	1489023248419_324250	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011809707	1489023248377_418750	false	select _id from ScaleTable where Name = "Self-Confidence"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00144362375	1489023248397_530208	false	select _id from ScaleTable where Name = "Gratefulness"
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011650625	1489023248411_395875	false	select _id from ScaleTable where Name = "Conformity"
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0135393462	1489023142914_2295709	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0028153160000000004	1489023248495_609166	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00395630325	1489023248114_1585917	false	Create TABLE PointsTable ( _id integer primary key autoincrement, dateMillis LONG, date STRING,points INTEGER, pointsText STRING)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004753925	1489023248101_1562917	false	Create TABLE AnswerTable ( _id integer primary key autoincrement, QuestionID INTEGER, Answer INTEGER,UserID INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00424242965	1489023248106_1461750	false	Create TABLE TestScaleListTable (ScaleID INTEGER, TestID INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00472141395	1489023248108_1604625	false	Create TABLE ScoreTable ( _id integer primary key autoincrement, date LONG,score INTEGER, UserID INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.007058976850000001	1489023248089_2893000	false	Create TABLE UserTable ( _id integer primary key autoincrement, UserID STRING,Sex STRING, BirthMonth INTEGER, BirthDay INTEGER, BirthYear INTEGER, Country STRING)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005305204650000001	1489023248093_1942084	false	Create TABLE EntryTable (_id integer primary key autoincrement, date LONG,affirmation STRING, event STRING, todo STRING, string1 STRING, string2 STRING, string3 STRING, int1 INTEGER, string4 STRING,  otherString STRING, otherInt INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004617261249999999	1489023248103_1716834	false	Create TABLE TestTable ( _id integer primary key autoincrement, TestName STRING)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00497534405	1489023248098_1571875	false	Create TABLE QuestionsTable ( _id integer primary key autoincrement, Question STRING,Keyed INTEGER, ScaleID INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0049804331500000005	1489023248096_1444041	false	Create TABLE ScaleTable ( _id integer primary key autoincrement, Name STRING)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005265770449999999	1489023248111_2156750	false	Create TABLE MoodTable ( _id integer primary key autoincrement, dateMillis LONG, date STRING,UserID INTEGER, dep INTEGER, anx INTEGER, ang INTEGER, sad INTEGER, happy INTEGER, fearful INTEGER, shame INTEGER,confused INTEGER, other1 INTEGER, other2 INTEGER, other3 INTEGER, otherStr1 String, otherStr2 String, otherStr3 String)

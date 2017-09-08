@@ -1,0 +1,4 @@
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0212494187	1491106498094_13462625	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.005306607200000001	1491106498119_5347708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0032566269	1491106498115_1894000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0026870220500000005	1491106498129_1409125	false	null

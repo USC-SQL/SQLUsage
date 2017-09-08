@@ -1,0 +1,10 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.007324874700000001	1489021064542_828750	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.005320952	1489021064532_403083	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.26846025189999995	1489021064503_37955000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006984372	1489021067229_635208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00469465895	1489021064542_405125	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0072597336	1489021064527_835291	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00354695825	1489021064531_382584	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.009493368350000001	1489021064501_1121417	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0081392626	1489021064528_1126750	true	create table IF NOT EXISTS statistics_new(id text, funid numeric, data text, time text, opcode numeric,isold boolean, network numeric)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00723900665	1489021064530_800083	true	create table IF NOT EXISTS ctrl_info(funid numeric, startime long, duration long, intervaltime long, bn text, updatetime text, network numeric, priority numeric)

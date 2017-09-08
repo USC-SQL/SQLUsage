@@ -1,0 +1,154 @@
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.03409046030000001	1491029186861_5530292	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.01480733115	1491029108236_4792084	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0044270372	1491029109849_684958	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00440233675	1491029187688_563083	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.014760525049999999	1491029105645_5430041	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0120247581	1491029105693_3727166	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.014652691800000003	1491029109933_3580084	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.013756496500000001	1491029186878_2379875	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.012188270850000002	1491029110105_2385291	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.010666196499999997	1491029108270_3400333	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.027622461800000015	1491029187736_8446833	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0027552104000000007	1491029108252_841791	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.00244775025	1491029105661_838959	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.009764543050000001	1491029186868_1365167	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0078580504	1491029109846_1261833	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0054939683500000005	1491029187686_997500	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0036446218999999992	1491029108243_1788583	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0035847898000000004	1491029108255_999000	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0045197643000000004	1491029105653_2186542	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00416509545	1491029105664_1196667	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.008274277600000001	1491029109810_1884125	false	SELECT  * FROM MusicFoldersTable ORDER BY include*1 DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0048797523500000006	1491029110206_680750	false	SELECT DISTINCT(library_name), _id, library_tag FROM LibrariesTable GROUP BY library_name ORDER BY _id ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034607352999999996	1491029117936_1170541	false	SELECT  * FROM MusicLibraryTable WHERE blacklist_status='0' AND album='Brand Music' AND artist='Samsung' AND source<>'GOOGLE_PLAY_MUSIC' ORDER BY track_number*1 ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00350270115	1491029177799_740041	false	SELECT DISTINCT(album), _id, artist, file_path, blacklist_status, album_art_path, source, album_artist, duration FROM MusicLibraryTable WHERE blacklist_status='0' AND source<>'GOOGLE_PLAY_MUSIC' GROUP BY album ORDER BY album ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0036228614	1491029184380_1293291	false	SELECT  * FROM MusicFoldersTable ORDER BY include*1 DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0078605125	1491029114091_1263375	false	SELECT DISTINCT(album), _id, artist, file_path, songs_count, year, source, duration, local_copy_path, album_art_path, title, album, genre FROM MusicLibraryTable WHERE blacklist_status='0' AND artist='Samsung' AND source<>'GOOGLE_PLAY_MUSIC' GROUP BY album ORDER BY year*1 ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006039269150000001	1491029177530_726709	false	SELECT DISTINCT(library_name), _id, library_tag FROM LibrariesTable GROUP BY library_name ORDER BY _id ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024821634500000003	1491029171091_1818459	false	SELECT DISTINCT(album), _id, artist, file_path, blacklist_status, album_art_path, source, album_artist, duration FROM MusicLibraryTable WHERE blacklist_status='0' AND source<>'GOOGLE_PLAY_MUSIC' GROUP BY album ORDER BY album ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00681065965	1491029187753_1844625	false	SELECT * FROM EqualizerPresetsTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00804736975	1491029115731_1637625	false	SELECT  * FROM MusicLibraryTable WHERE blacklist_status='0' AND album='Brand Music' AND artist='Samsung' AND source<>'GOOGLE_PLAY_MUSIC' ORDER BY track_number*1 ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006497936100000001	1491029114136_765083	false	SELECT DISTINCT(library_name), _id, library_tag FROM LibrariesTable GROUP BY library_name ORDER BY _id ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005856067500000001	1491029187670_894833	false	SELECT  * FROM MusicFoldersTable ORDER BY include*1 DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0039871414499999995	1491029168886_3577208	false	SELECT DISTINCT(album_artist), _id, file_path, artist_art_location, blacklist_status, albums_count, source, album_art_path, duration FROM MusicLibraryTable WHERE blacklist_status='0' AND source<>'GOOGLE_PLAY_MUSIC' GROUP BY album_artist ORDER BY album_artist ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0069401152	1491029186902_746250	false	SELECT  * FROM MusicFoldersTable ORDER BY include*1 DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0063176857500000004	1491029182557_668291	false	SELECT DISTINCT(album), _id, artist, file_path, blacklist_status, album_art_path, source, album_artist, duration FROM MusicLibraryTable WHERE blacklist_status='0' AND source<>'GOOGLE_PLAY_MUSIC' GROUP BY album ORDER BY album ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004458845800000001	1491029187854_981125	false	SELECT DISTINCT(library_name), _id, library_tag FROM LibrariesTable GROUP BY library_name ORDER BY _id ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0036601257	1491029156066_1007041	false	SELECT  * FROM MusicLibraryTable WHERE blacklist_status='0' AND album='Brand Music' AND artist='Samsung' AND source<>'GOOGLE_PLAY_MUSIC' ORDER BY track_number*1 ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006400354350000001	1491029173787_779208	false	SELECT DISTINCT(album), _id, artist, file_path, blacklist_status, album_art_path, source, album_artist, duration FROM MusicLibraryTable WHERE blacklist_status='0' AND source<>'GOOGLE_PLAY_MUSIC' GROUP BY album ORDER BY album ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033090261000000005	1491029158514_1466292	false	SELECT  * FROM MusicLibraryTable WHERE blacklist_status='0' AND album='Brand Music' AND artist='Samsung' AND source<>'GOOGLE_PLAY_MUSIC' ORDER BY track_number*1 ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00451959435	1491029109941_841042	false	SELECT * FROM EqualizerPresetsTable
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00270660985	1491029115739_465708	false	SELECT DISTINCT(library_name), _id, library_tag FROM LibrariesTable GROUP BY library_name ORDER BY _id ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0075049397	1491029110489_1194791	false	SELECT DISTINCT(artist), _id, file_path, artist_art_location, blacklist_status, albums_count, source, album_art_path, duration FROM MusicLibraryTable WHERE blacklist_status='0' AND source<>'GOOGLE_PLAY_MUSIC' GROUP BY artist ORDER BY artist ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0047519012	1491029188116_631250	false	SELECT DISTINCT(album), _id, artist, file_path, blacklist_status, album_art_path, source, album_artist, duration FROM MusicLibraryTable WHERE blacklist_status='0' AND source<>'GOOGLE_PLAY_MUSIC' GROUP BY album ORDER BY album ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004555484	1491029101868_666583	false	SELECT  * FROM MusicFoldersTable ORDER BY include*1 DESC
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00253219575	1491029105689_854375	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0041573040000000006	1491029186876_501709	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0035794528999999998	1491029109931_443000	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0034415905500000004	1491029110103_352750	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0026953371	1491029108248_995750	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.008930166500000001	1491029187730_1983125	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00221504855	1491029105658_657417	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0022966895499999997	1491029108267_816292	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransactionNonExclusive()	0.003207311450000001	1491029110007_763625	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.008024001199999999	1491029158502_4813708	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.008873385650000001	1491029110099_1054666	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00405024745	1491029110040_740541	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006849613950000001	1491029110063_1102833	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006256302250000001	1491029110076_948125	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0044122330500000004	1491029110089_616458	true	null
+android.database.sqlite.SQLiteDatabase: boolean yieldIfContendedSafely()	0.0047460333	1491029110042_443625	true	null
+android.database.sqlite.SQLiteDatabase: boolean yieldIfContendedSafely()	0.006384880150000001	1491029110066_604250	true	null
+android.database.sqlite.SQLiteDatabase: boolean yieldIfContendedSafely()	0.0066036559000000015	1491029110084_618292	true	null
+android.database.sqlite.SQLiteDatabase: boolean yieldIfContendedSafely()	0.004272266100000002	1491029110091_437334	true	null
+android.database.sqlite.SQLiteDatabase: boolean yieldIfContendedSafely()	0.0030210787500000004	1491029110101_381083	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0041667406	1491029101853_605500	false	CREATE TABLE IF NOT EXISTS EqualizerPresetsTable(_id INTEGER PRIMARY KEY, preset_name TEXT, eq_50_hz TEXT, eq_130_hz TEXT, eq_320_hz TEXT, eq_800_hz TEXT, eq_2000_hz TEXT, eq_5000_hz TEXT, eq_12500_hz TEXT, eq_virtualizer TEXT, eq_bass_boost TEXT, eq_reverb TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00403964235	1491029101854_688625	false	CREATE TABLE IF NOT EXISTS LibrariesTable(_id INTEGER PRIMARY KEY, library_name TEXT, library_tag TEXT, song_id TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0049167725	1491029101850_1390500	false	CREATE TABLE IF NOT EXISTS MusicFoldersTable(_id INTEGER PRIMARY KEY, folder_path TEXT, include TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025554351	1491029101852_619542	false	CREATE TABLE IF NOT EXISTS EqualizerTable(_id INTEGER PRIMARY KEY, song_id TEXT, eq_50_hz TEXT, eq_130_hz TEXT, eq_320_hz TEXT, eq_800_hz TEXT, eq_2000_hz TEXT, eq_5000_hz TEXT, eq_12500_hz TEXT, eq_virtualizer TEXT, eq_bass_boost TEXT, eq_reverb TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004907399700000001	1491029101855_882000	false	CREATE TABLE IF NOT EXISTS MusicLibraryTable(_id INTEGER PRIMARY KEY, song_id TEXT, title TEXT, artist TEXT, album TEXT, album_artist TEXT, duration TEXT, file_path TEXT, track_number TEXT, genre TEXT, play_count TEXT, year TEXT, albums_count TEXT, songs_count TEXT, genres_song_count TEXT, last_modified TEXT, scanned TEXT, blacklist_status TEXT, added_timestamp TEXT, rating TEXT, last_played_timestamp TEXT, source TEXT, album_art_path TEXT, deleted TEXT, artist_art_location TEXT, album_id TEXT, artist_id TEXT, genre_id TEXT, genre_song_count TEXT, local_copy_path TEXT, libraries TEXT, saved_position TEXT)
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00748222765	1491029118125_927166	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.006888154750000002	1491029141497_1546541	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.022636126650000008	1491029187759_8048667	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0027129662000000003	1491029110004_750667	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.007864389650000001	1491029156238_1054042	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0022045010500000004	1491029141377_1296042	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.006869496649999999	1491029127669_951875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004323049	1491029186875_454250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0026648288500000007	1491029109932_448958	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0028465394	1491029105666_670208	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00450069505	1491029110041_465042	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009860575500000003	1491029110061_1481833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020724434499999997	1491029108268_736625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0030694522499999997	1491029110102_374541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0024311384	1491029105669_909458	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0032600631	1491029105687_1257333	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00234333285	1491029105651_527750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036740390000000005	1491029110104_578208	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0026108446	1491029108265_896833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0235880476	1491029110079_3670000	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0040717049000000005	1491029187726_1364417	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00391743785	1491029110101_514542	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036119140000000004	1491029108254_847083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00270107845	1491029108257_601667	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00314505275	1491029187688_399625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004859148600000001	1491029187685_705333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004651998300000001	1491029110074_737167	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00302188925	1491029186877_388042	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0021958759000000002	1491029105656_720709	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00181975065	1491029108242_613125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00313769655	1491029105691_931708	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00228753685	1491029108246_975875	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00467198405	1491029109845_751458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00794342975	1491029186872_883875	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00522947935	1491029187733_1378834	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003124702	1491029109921_429709	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035427091	1491029110088_463000	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0022015856	1491029109925_482500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0032585255500000004	1491029105662_892583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0025596372000000005	1491029108250_905292	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023518326	1491029109923_495667	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.005196861200000001	1491029110065_589500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00266387095	1491029110090_393209	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.011659460700000002	1491029109914_2342250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0034678210000000003	1491029109930_430125	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0051295139	1491029110039_907583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023270241	1491029108260_881916	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00661561955	1491029186867_747833	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.16532330445	1491029101824_43543167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020271809499999996	1491029105659_721167	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0026826584	1491029109928_522042	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00221564075	1491029110006_516667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035190371	1491029109848_440541	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0035991078999999997	1491029110097_655333	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.008471332350000001	1491029109965_2487167	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026854975	1491029105667_970209	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.01072351665	1491029135606_5546750	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.008031620650000003	1491029186873_928916	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.011620475050000002	1491029109942_3415750	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0033064938999999996	1491029109929_605916	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0125727852	1491029109968_3445916	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.010069371100000002	1491029109976_2705666	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0031767466	1491029109924_726583	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0090542065	1491029109918_1935291	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.00884873935	1491029109962_2781458	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0116061047	1491029109954_3257209	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0032195693	1491029109926_684000	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.010346842250000002	1491029109958_2943709	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026442272	1491029108262_1273250	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.008186842500000001	1491029109997_2866291	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.011668128450000002	1491029109947_3357750	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.00311670765	1491029109922_676083	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.010769572900000001	1491029109972_2790292	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0060705555	1491029141380_4653916	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0034350574500000004	1491029105671_1332500	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.011003857000000002	1491029109983_3430083	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.012605782349999999	1491029109987_4174375	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.008505281950000002	1491029110001_2702500	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.009337801000000001	1491029109951_2454541	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.011843665900000001	1491029109992_3667750	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026651188	1491029108258_1023459	true	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.0092685637	1491029109979_2857416	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.032614375249999994	1491029196485_4670042	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.004537025450000001	1491029101822_966791	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.01018626765	1491029101342_2214417	false	null

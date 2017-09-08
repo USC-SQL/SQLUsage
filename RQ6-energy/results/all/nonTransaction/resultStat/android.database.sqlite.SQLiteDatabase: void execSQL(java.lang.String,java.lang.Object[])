@@ -1,0 +1,218 @@
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0014829651000000004	0.014438314657870367	0.009489380325000001	0.15350371119999998	973958	216	2064478	21205708
+
+0.0014829651000000004	973958	1.5226170943716262	INSERT INTO favourite (name, category, latitude, longitude) VALUES (?, ?, ?, ?)
+0.0016037023000000001	380500	4.214723521681997	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.0016136689500000003	379792	4.248822908328771	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.0016348509	885125	1.8470282728428187	INSERT INTO favourite (name, category, latitude, longitude) VALUES (?, ?, ?, ?)
+0.0016829061500000001	881375	1.9094098993050632	INSERT INTO favourite (name, category, latitude, longitude) VALUES (?, ?, ?, ?)
+0.00177919955	1100084	1.617330631115442	INSERT INTO favourite (name, category, latitude, longitude) VALUES (?, ?, ?, ?)
+0.0020204815000000004	952666	2.120870798370048	CREATE TABLE `screen_unlock_count` (`date` BIGINT , `need_remind` SMALLINT DEFAULT 1 , `is_sent` SMALLINT , `unlock_count` INTEGER , PRIMARY KEY (`date`) )
+0.00213222485	941375	2.2650111273403266	CREATE INDEX `muted_notifications_is_read_idx` ON `muted_notifications` ( `is_read` )
+0.00217857045	425958	5.114519389235559	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.00221803265	877459	2.5277906432095403	CREATE INDEX `app_usage_report_v2_is_sent_idx` ON `app_usage_report_v2` ( `is_sent` )
+0.0022937860000000003	848875	2.702148137240466	CREATE UNIQUE INDEX `pkg_date` ON `usage_time_counters` ( `current_day_of_week`, `pkg_name` )
+0.002321817	696292	3.3345449897456816	DELETE FROM stored_key_values WHERE key=?
+0.0024128609	457666	5.272099959359008	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.0024346551500000002	673167	3.616717916950772	DELETE FROM `feedCardStates` WHERE `createdAt` < ?
+0.0026042126499999994	375000	6.944567066666665	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.0026235217	700083	3.7474438030919193	DELETE FROM stored_key_values WHERE key=?
+0.0026383607999999996	1093208	2.413411537420143	CREATE TABLE `ifttt_triggers` (`opt_pkg` VARCHAR , `type` VARCHAR NOT NULL , `uid` VARCHAR NOT NULL , `enabled` SMALLINT DEFAULT 1 NOT NULL , `_id` INTEGER PRIMARY KEY AUTOINCREMENT , `value` INTEGER NOT NULL ,  UNIQUE (`uid`))
+0.0026991393000000007	950875	2.838584777178915	DELETE FROM stored_key_values WHERE key=?
+0.0027023308000000005	458708	5.891178701919304	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.00275371655	820416	3.356488110909587	CREATE INDEX `delayed_tasks_class_name_idx` ON `delayed_tasks` ( `class_name` )
+0.0027598228	398250	6.929875204017578	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.00278180605	735375	3.7828401155872857	DELETE FROM stored_key_values WHERE key=?
+0.0027972265500000003	1233667	2.267408101213699	CREATE TABLE `lock_profiles_v2` (`auto_reply_message` VARCHAR , `display_name` VARCHAR NOT NULL , `permitted_apps` TEXT NOT NULL , `permitted_contacts` TEXT , `block_calls` SMALLINT DEFAULT 0 NOT NULL , `auto_reply` SMALLINT DEFAULT 0 NOT NULL , `exit_penalty` SMALLINT DEFAULT 0 NOT NULL , `exit_penalty_value` INTEGER DEFAULT 30000 NOT NULL , `_id` INTEGER PRIMARY KEY AUTOINCREMENT , `stop_notifications` SMALLINT DEFAULT 0 NOT NULL , `user_attempt_to_invoke_block` SMALLINT DEFAULT 0 NOT NULL )
+0.00287786525	956541	3.0086167242177804	CREATE TABLE `usage_alert` (`extras` VARCHAR , `type` VARCHAR NOT NULL , `_id` INTEGER PRIMARY KEY AUTOINCREMENT , `enabled` SMALLINT DEFAULT 1 NOT NULL , `value` INTEGER NOT NULL )
+0.00289405255	864667	3.3470139949830395	DELETE FROM stored_key_values WHERE key=?
+0.0030076287000000003	863375	3.4835716809034314	CREATE TABLE `muted_notifications` (`block_end_gmt` BIGINT , `type` INTEGER NOT NULL , `value` VARCHAR NOT NULL , `is_read` SMALLINT , `_id` INTEGER PRIMARY KEY AUTOINCREMENT , `timestamp_gmt` BIGINT NOT NULL )
+0.00314333795	528083	5.952355879662856	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.0031458004	1038292	3.029783914351647	DELETE FROM stored_key_values WHERE key=?
+0.0031552041	1007916	3.1304236662579026	CREATE INDEX `muted_notifications_block_end_gmt_idx` ON `muted_notifications` ( `block_end_gmt` )
+0.0035258558000000003	817417	4.313411392226978	CREATE INDEX `app_usage_report_v2_start_time_idx` ON `app_usage_report_v2` ( `start_time` )
+0.0035339560500000002	743875	4.75073910267182	DELETE FROM stored_key_values WHERE key=?
+0.003620212950000001	1039792	3.4816703244495057	CREATE TABLE `self_locks` (`arguments` VARCHAR , `display_name` VARCHAR NOT NULL , `profile` INTEGER , `type` INTEGER , `last_manual_exit_timestamp` BIGINT DEFAULT -1 , `enabled` SMALLINT DEFAULT 0 , `_id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.00363163135	1106916	3.2808554126961758	CREATE TABLE `usage_time_counters` (`current_day_of_week` VARCHAR NOT NULL , `pkg_name` VARCHAR , `elapsed_ifttt_time` BIGINT DEFAULT 0 , `elapsed_time` BIGINT DEFAULT 0 , `_id` INTEGER PRIMARY KEY AUTOINCREMENT , `last_checked_gmt` BIGINT DEFAULT 0 , `need_remind` SMALLINT DEFAULT 1 , UNIQUE (`current_day_of_week`,`pkg_name`) )
+0.0037832719500000005	1117917	3.384215420286122	CREATE TABLE `app_usage_report_v2` (`app_name` VARCHAR , `end_time` BIGINT , `package_id` VARCHAR , `uid` VARCHAR , `start_time` BIGINT , `is_sent` SMALLINT , PRIMARY KEY (`uid`) )
+0.0039249904500000005	431417	9.097904000074175	INSERT INTO poi_filters VALUES (?, ?, ?)
+0.00405382045	703000	5.76645867709815	CREATE UNIQUE INDEX `feed_uniqueId_idx` ON `feed` ( `uniqueId` )
+0.004054009050000001	1842666	2.200078066236638	DELETE FROM `muted_notifications` WHERE `timestamp_gmt` <= 1490338800000
+0.004136041850000001	621375	6.65627334540334	CREATE INDEX `feed_isLocal_idx` ON `feed` ( `isLocal` )
+0.004164303200000001	760209	5.477839909814276	CREATE INDEX `feed_type_idx` ON `feed` ( `type` )
+0.00430346735	959625	4.484530259215839	DELETE FROM stored_key_values WHERE key=?
+0.0043768031999999995	681917	6.418381122629293	CREATE INDEX `refill_date_idx` ON `refill` ( `date` )
+0.00442168425	1034750	4.273190867359266	CREATE TABLE IF NOT EXISTS `socket_timetask_table` (`deviceid` BIGINT , `enable` INTEGER , `endhour` INTEGER , `endmin` INTEGER , `endok` INTEGER , `recycle` TINYINT , `starthour` INTEGER , `startmin` INTEGER , `startok` INTEGER , `taskId` INTEGER , PRIMARY KEY (`taskId`) )
+0.00452371315	704875	6.417752296506472	CREATE INDEX `vitals_type_idx` ON `vitals` ( `type` )
+0.004574862999999999	646458	7.076813961618543	CREATE INDEX `schedulegroup_continues_idx` ON `schedulegroup` ( `continues` )
+0.00459199015	1224667	3.749582662062422	CREATE TABLE IF NOT EXISTS `server_item_table` (`ipaddress` VARCHAR , `port` INTEGER , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.004765700550000001	741792	6.424577981428757	CREATE TABLE `timercapPair` (`code` VARCHAR NOT NULL , `connectedAt` VARCHAR NOT NULL , `lastStatusAt` VARCHAR , `uniqueId` VARCHAR NOT NULL , `groupId` INTEGER NOT NULL )
+0.004800827899999999	2936083	1.6351131422374634	DELETE FROM queued_request WHERE id=?
+0.004801598350000001	1834667	2.6171497879451695	CREATE TABLE `delayed_tasks` (`class_name` VARCHAR , `json` TEXT , `_id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.004943842150000001	1327417	3.7244077407476333	null
+0.0050432062	1155792	4.363420234782729	CREATE TABLE IF NOT EXISTS `device_table` (`deviceIcon` VARCHAR , `deviceName` VARCHAR , `serverIp` VARCHAR , `timeinfo` VARCHAR , `deviceId` BIGINT , `parentId` BIGINT , `serverPort` BIGINT , `deviceType` INTEGER , `onoff` INTEGER , `settime` INTEGER , `timeronoff` SMALLINT , PRIMARY KEY (`deviceId`) )
+0.0051484624	1372125	3.7521817618657187	DELETE FROM stored_key_values WHERE key=?
+0.005174565999999999	1827375	2.831693549490389	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.005240882550000001	3989792	1.3135728754782205	UPDATE history SET status=1 WHERE (url=? OR url=?) AND last_visit>=1488960000000
+0.005293813499999999	1962917	2.696911535230476	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.0053139174499999995	998959	5.319455002657767	CREATE TABLE `vitals` (`id` VARCHAR , `notes` VARCHAR , `reportingApp` VARCHAR , `reportingPlatform` VARCHAR DEFAULT 'MediSafe' , `type` VARCHAR NOT NULL , `value` FLOAT NOT NULL , `timestamp` BIGINT NOT NULL , PRIMARY KEY (`id`) )
+0.0053793736	969458	5.548846468851667	CREATE TABLE `feed` (`jsonData` VARCHAR NOT NULL , `type` VARCHAR NOT NULL , `uniqueId` VARCHAR NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `timestamp` BIGINT , `isLocal` SMALLINT , `isUnread` SMALLINT , `sortOrder` INTEGER )
+0.005388425	687709	7.835327151455049	CREATE UNIQUE INDEX `feedCardStates_uniqueId_idx` ON `feedCardStates` ( `uniqueId` )
+0.0054945549	968792	5.671552717198326	CREATE TABLE `feedCardStates` (`createdAt` VARCHAR , `type` VARCHAR NOT NULL , `uniqueId` VARCHAR NOT NULL , `updatedAt` VARCHAR , `isDismissed` SMALLINT , `isLiked` SMALLINT , `isRead` SMALLINT , `isShared` SMALLINT )
+0.0056581659000000005	2016084	2.8065129726737577	DELETE FROM categories WHERE filter_id = ?
+0.00574743385	620625	9.260719194360524	CREATE INDEX `schedulegroup_status_idx` ON `schedulegroup` ( `status` )
+0.00585353485	2115750	2.766647689944464	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.005905069850000001	1793542	3.2924067850097742	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.005935180449999997	4020666	1.4761684880067127	SELECT * FROM `feedCardStates`
+0.005988823849999999	1859958	3.2198704755698784	DELETE FROM categories WHERE filter_id = ?
+0.0060704242499999995	649375	9.348102791145331	CREATE INDEX `schedulegroup_scheduled_idx` ON `schedulegroup` ( `scheduled` )
+0.0061866138	1935333	3.196666310138875	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.006324831150000001	654709	9.660522690233371	CREATE INDEX `schedule_group_idx` ON `schedule` ( `group_id` )
+0.006377039300000001	1870292	3.409649028066206	DELETE FROM categories WHERE filter_id = ?
+0.006394915600000001	712416	8.976378408121098	CREATE INDEX `schedule_originalDateTime_idx` ON `schedule` ( `originalDateTime` )
+0.0064096519000000005	920417	6.96385649113391	CREATE TABLE `mobile_network` (`country` VARCHAR , `iso_country_code` VARCHAR , `mcc` VARCHAR NOT NULL , `mnc` VARCHAR NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `is_cdma` SMALLINT NOT NULL )
+0.0064120877	1174583	5.459033290963687	CREATE TABLE `notes` (`noteId` VARCHAR , `noteType` VARCHAR , `text` VARCHAR , `date` BIGINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `userId` INTEGER )
+0.00641858005	1834208	3.499374144044732	DELETE FROM categories WHERE filter_id = ?
+0.006640955300000001	804542	8.254330165485458	CREATE INDEX `schedulegroup_activeItem_idx` ON `schedulegroup` ( `activeItem` )
+0.0066544202	1954708	3.4043039676514346	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.0067131653500000004	1859292	3.610603041372738	DELETE FROM categories WHERE filter_id = ?
+0.0069716623499999995	1266792	5.503399413636966	CREATE INDEX `vitals_timestamp_idx` ON `vitals` ( `timestamp` )
+0.007001055450000002	3802584	1.8411310440479427	DELETE FROM queued_request WHERE id=?
+0.0070018762	619291	11.306277985631956	CREATE INDEX `schedulegroup_startDate_idx` ON `schedulegroup` ( `startDate` )
+0.007036344799999999	2309250	3.0470260041138895	UPDATE history SET status=1 WHERE (url=?) AND last_visit>=1488960000000
+0.00718861055	3750500	1.916707252366351	DELETE FROM queued_request WHERE id=?
+0.0072075198	915833	7.869906194688332	CREATE INDEX `feedCardStates_type_idx` ON `feedCardStates` ( `type` )
+0.0072804888	4023834	1.8093412402201485	UPDATE queued_request SET frozen=? WHERE id=?
+0.0073259477	1064833	6.879902951918282	CREATE TABLE `location` (`granularity` INTEGER NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `latitude` INTEGER NOT NULL , `longitude` INTEGER NOT NULL )
+0.007487524500000001	1101958	6.7947458070089795	CREATE TABLE `medisafeDoctor` (`address` VARCHAR , `email` VARCHAR , `id` VARCHAR , `imageName` VARCHAR , `name` VARCHAR , `phoneNumber` VARCHAR , `phone2` VARCHAR , `phone3` VARCHAR , `phoneType1` VARCHAR , `phoneType2` VARCHAR , `phoneType3` VARCHAR , `photoUrl` VARCHAR , `speciality` VARCHAR , `title` VARCHAR , `visitHours` VARCHAR , `userGenerated` SMALLINT , `userId` BIGINT , PRIMARY KEY (`id`) )
+0.0076713941	966750	7.935240858546678	CREATE TABLE `widget_config` (`height` INTEGER , `id` INTEGER , `page` INTEGER , `type` INTEGER , `width` INTEGER , PRIMARY KEY (`id`) )
+0.007696256999999999	962417	7.996800763078789	CREATE TABLE `telephony_log` (`usage_category` INTEGER , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `log_id` INTEGER NOT NULL )
+0.007764131150000001	1213208	6.399670254399905	CREATE TABLE `refill` (`created` VARCHAR , `currency` VARCHAR , `date` VARCHAR , `group_id` INTEGER , `refill_id` VARCHAR , `user_id` INTEGER , `amount` FLOAT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `price` FLOAT )
+0.0078156999	1379458	5.665775906189243	CREATE UNIQUE INDEX `wifi_network_unique_index` ON `wifi_network` ( `bssid`, `ssid` )
+0.007851646400000002	2666042	2.945057279667763	DELETE FROM categories WHERE filter_id = ?
+0.00794875585	1251041	6.353713307557466	CREATE TABLE `user` (`authToken` VARCHAR , `country` VARCHAR , `created` VARCHAR , `email` VARCHAR , `facebookId` VARCHAR , `firstName` VARCHAR , `humanApiPublicToken` VARCHAR , `imageName` VARCHAR , `inviteCode` VARCHAR , `lastName` VARCHAR , `medFriendEmail` VARCHAR , `name` VARCHAR , `national_id` VARCHAR , `national_id_country` VARCHAR , `passwordMD5` VARCHAR , `phone` VARCHAR , `promoCode` VARCHAR , `relationType` VARCHAR , `zipCode` VARCHAR , `activeItem` SMALLINT , `backgroundId` INTEGER , `birthYear` INTEGER , `colorId` INTEGER , `defaultSyncTo` SMALLINT , `defaultUser` SMALLINT , `gender` INTEGER , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `inviterId` INTEGER , `isPendingUser` SMALLINT , `isWatchUser` SMALLINT , `notifiedOnNotRegister` SMALLINT , `platform_id` INTEGER , `serverId` INTEGER , `syncOnly` SMALLINT , `weight` INTEGER , `weightType` INTEGER )
+0.0079754814	4598583	1.7343345547965534	DELETE FROM queued_request WHERE id=?
+0.0081257448	1962125	4.141298235331592	DELETE FROM categories WHERE filter_id = ?
+0.00831477085	1199625	6.9311416901114935	CREATE TABLE `web_service_queue` (`createdDate` VARCHAR , `http_method` VARCHAR , `params` VARCHAR , `request_type` VARCHAR , `url` VARCHAR , `isActive` SMALLINT , `call_count` INTEGER , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `never_remove_on_fail` SMALLINT , `skip_adding_auth_params` SMALLINT , `user_local_id` INTEGER )
+0.0084058227	1344959	6.24987282140199	CREATE TABLE `medisafeAppointment` (`doctor_id` VARCHAR , `id` VARCHAR , `location` VARCHAR , `notes` VARCHAR , `summary` VARCHAR , `title` VARCHAR , `date` BIGINT , `reminder` BIGINT , `userId` BIGINT , `serialNumber` INTEGER , PRIMARY KEY (`id`) )
+0.008751422300000002	3752042	2.332442520632765	UPDATE queued_request SET frozen=? WHERE id=?
+0.008795551300000001	7373708	1.192826092381201	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.008802835300000002	1213250	7.255582361425924	CREATE INDEX `usage_index` ON `usage` ( `plan_config_id`, `usage_category`, `timestamp` )
+0.0088242068	1932792	4.56552324305978	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.00882756805	4320875	2.043004727051813	INSERT INTO track (lat, lon, altitude, speed, hdop, date) VALUES (?, ?, ?, ?, ?, ?)
+0.0089036221	1820250	4.891428155473149	DELETE FROM categories WHERE filter_id = ?
+0.0089540974	1188083	7.536592477124915	CREATE TABLE `app` (`display_name` VARCHAR , `package_name` VARCHAR , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `is_launcher` SMALLINT , `uid` INTEGER )
+0.00901392235	1685667	5.347392070913175	CREATE TABLE `schedulegroup` (`changingDoseDateStart` VARCHAR , `conditionId` VARCHAR , `consumptionHoursString` VARCHAR , `created` VARCHAR , `customScheduleJson` VARCHAR , `customScheduleType` VARCHAR , `doctor_id` VARCHAR , `freeInstructions` VARCHAR , `medicine_id` INTEGER , `notes` VARCHAR , `quantityString` VARCHAR , `rxNumber` VARCHAR , `rxRefillPillsTime` VARCHAR , `startConsumptionHourString` VARCHAR , `startDate` VARCHAR , `state` VARCHAR , `status` VARCHAR , `stock_id` INTEGER , `syncAccounts` VARCHAR , `tag` VARCHAR , `user_id` INTEGER , `activeItem` SMALLINT , `serverId` BIGINT , `alertUser` SMALLINT , `changingDoseDaysInterval` INTEGER DEFAULT 1 , `changingDoseValEnd` FLOAT DEFAULT -1.0 , `changingDoseValIncrement` FLOAT DEFAULT 0.0 , `continues` SMALLINT , `currentPills` FLOAT DEFAULT -1.0 , `cycleBreakDays` INTEGER , `cyclePillDays` INTEGER , `days` INTEGER , `daysToTake` INTEGER , `defaultPills` INTEGER DEFAULT -1 , `dose` FLOAT , `everyXDays` INTEGER DEFAULT 1 , `external` SMALLINT , `foodInstructions` INTEGER , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `isCycleShowPlacebo` SMALLINT , `reminderNumber` FLOAT , `reminderType` INTEGER , `scheduled` SMALLINT DEFAULT 1 , `type` INTEGER )
+0.00903699675	1591750	5.6773970472750115	CREATE TABLE `shared_plan_user` (`display_name` VARCHAR , `server_user_id` VARCHAR , `shared_plan_group_id` INTEGER NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.009091158399999999	955333	9.516219370627832	CREATE TABLE `phone_number` (`area_code` VARCHAR , `country_iso` VARCHAR , `number` VARCHAR , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `is_short_code` SMALLINT , `is_toll_free` SMALLINT )
+0.009153269900000004	7657709	1.1953013492677775	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.009217494849999999	1067166	8.637358058633803	CREATE TABLE `schedule` (`actualDateTime` VARCHAR , `group_id` INTEGER , `location` VARCHAR , `notes` VARCHAR , `originalDateTime` VARCHAR , `status` VARCHAR , `serverId` BIGINT , `doseType` INTEGER , `doseValue` FLOAT , `handled` SMALLINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `itemType` INTEGER , `nextAlarm` SMALLINT , `quantity` FLOAT , `scheduled` SMALLINT , `sequence` INTEGER , `snoozeCounter` INTEGER , `taken` SMALLINT )
+0.009343733499999998	7722000	1.210014698264698	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.009472244250000001	1114416	8.499738203686956	CREATE INDEX `schedule_status_idx` ON `schedule` ( `status` )
+0.009506516400000003	3014541	3.153553526059192	DELETE FROM `app_usage_report_v2` WHERE `end_time` <= 1475276936303
+0.009506962800000001	1288750	7.37688675072745	CREATE TABLE `app_version` (`app_id` INTEGER , `installer_localized_display_name` VARCHAR , `installer_package` VARCHAR , `locale` VARCHAR , `localized_display_name` VARCHAR , `market_type` INTEGER DEFAULT 0 , `version_string` VARCHAR , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.00954860015	4134250	2.309632980588982	DELETE FROM queued_request WHERE id=?
+0.0097296084	1266208	7.684052225226819	DELETE FROM `muted_notifications` WHERE `timestamp_gmt` <= 1490338800000
+0.009918748750000003	8330917	1.1905950749479322	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.009941213450000002	1367792	7.268073983471172	CREATE TABLE `zero_rated_time_slot` (`plan_config_id` INTEGER NOT NULL , `days` INTEGER , `duration` INTEGER , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `start_time` INTEGER )
+0.01000296265	4934833	2.027011380121678	UPDATE queued_request SET frozen=? WHERE id=?
+0.010028787450000002	2517750	3.9832340184688713	UPDATE queued_request SET frozen=? WHERE id=?
+0.010039711300000002	8465500	1.185956092374934	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.010075545200000001	5545875	1.8167638470034035	UPDATE queued_request SET frozen=? WHERE id=?
+0.01016955135	1132125	8.982710698906924	CREATE INDEX `schedulegroup_serverId_idx` ON `schedulegroup` ( `serverId` )
+0.010217095300000001	1175750	8.68985354029343	CREATE TABLE `carrier` (`iso_country` VARCHAR , `iso_lang` VARCHAR , `mobile_network_id` INTEGER , `name` VARCHAR , `sms` VARCHAR , `sms_payload` VARCHAR , `tel` VARCHAR , `tel_code` VARCHAR , `timestamp` BIGINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `is_recurring` SMALLINT , `is_toll` SMALLINT )
+0.0102492134	1254042	8.172942692509501	CREATE TABLE `reporter_check_in` (`timestamp` BIGINT NOT NULL , `reason` VARCHAR NOT NULL , `mobile_subscriber_id` INTEGER NOT NULL , `os_version` VARCHAR NOT NULL , `status` VARCHAR NOT NULL , `response_timestamp` BIGINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.010369874950000002	8677333	1.195053243894178	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.0104025134	1737625	5.9866273793252285	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276725223
+0.010671782349999999	6631625	1.6092258458522608	UPDATE queued_request SET frozen=? WHERE id=?
+0.0108817204	2369166	4.593059498574603	DELETE FROM queued_request WHERE id=?
+0.011131227250000002	1887042	5.898770271143939	CREATE TABLE `shared_plan_group` (`group_pin` VARCHAR , `hashed_admin_password` VARCHAR , `mobile_subscriber_id` INTEGER , `pin_expiry_timestamp` BIGINT , `quota_type` VARCHAR NOT NULL , `server_group_details_last_modified_time` VARCHAR , `server_group_id` VARCHAR , `server_stats_last_modified_time` VARCHAR , `am_group_owner` SMALLINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.011170654699999998	1009000	11.071015559960355	CREATE UNIQUE INDEX `telephony_log_unique_index` ON `telephony_log` ( `usage_category`, `log_id` )
+0.0112205295	3025541	3.7086026928737703	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.011220770350000003	8218458	1.3653133410184735	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.011243428000000001	10647750	1.0559440257331363	INSERT INTO T_HIST_LOOKUP_1(GRP,SORT,VALUE) values (?,?,?)
+0.011337306250000002	1467084	7.727782628670207	CREATE TABLE `shared_plan_plan_config` (`interval_type` INTEGER , `plan_mode_type` VARCHAR , `shared_plan_group_id` INTEGER NOT NULL , `start_date` BIGINT , `usage_category` VARCHAR , `usage_limit_adjustment_date` BIGINT , `usage_limit` BIGINT , `usage_limit_adjustment` BIGINT , `cost` FLOAT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `interval_count` INTEGER , `is_configured` SMALLINT , `is_recurring` SMALLINT , `is_roaming` SMALLINT , `text_limit` INTEGER , `voice_limit` INTEGER )
+0.011357550800000001	3967709	2.862495913888847	UPDATE history SET status=1 WHERE (url=?) AND last_visit>=1488960000000
+0.011555606599999997	8116500	1.4237179326064187	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.011695863450000003	1515750	7.7162219693221195	null
+0.0118021539	1294500	9.117152491309387	CREATE TABLE `mobile_subscriber` (`hashed_imsi` VARCHAR , `hashed_phone_number` VARCHAR , `mobile_network_id` INTEGER , `md5_hashed_imsi` VARCHAR , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.012104931950000002	3607084	3.3558774760998085	UPDATE queued_request SET request=? WHERE id=?
+0.0121471374	1541584	7.87964677889755	CREATE TABLE `zero_rated_app_rule` (`app_id` INTEGER NOT NULL , `plan_config_id` INTEGER NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.012167001249999998	8403708	1.4478134235506515	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.012288793550000001	7186958	1.7098741289430104	insert into T_DAY_TEMPLATE_1(ID, TEXT, ASOFDATE) values (?, ?, ?)
+0.012349579400000003	16258208	0.759590441947846	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.012392808700000002	1979958	6.2591270622912205	UPDATE queued_request SET frozen=? WHERE id=?
+0.01240172915	8654583	1.4329666894407278	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.01248512465	1489209	8.383728979612668	CREATE UNIQUE INDEX `mobile_subscriber_index` ON `mobile_subscriber` ( `hashed_imsi` )
+0.01252526115	2149584	5.826830284371302	CREATE TABLE `usage` (`app_version_id` INTEGER , `location_id` INTEGER , `mobile_network_id` INTEGER , `phone_number_id` INTEGER , `plan_config_id` INTEGER , `radio_access_technology` INTEGER , `screen_session_id` INTEGER , `usage_category` INTEGER , `timestamp` BIGINT , `wifi_network_id` INTEGER , `egress_usage` BIGINT , `ingress_usage` BIGINT , `flags` TINYINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `time_zone_offset` INTEGER )
+0.012552254399999995	2864250	4.382387850222569	UPDATE poi_filters SET filterbyname = ?, name = ?  WHERE id= ?
+0.0126299419	1330291	9.494119632471392	DELETE FROM `feed` WHERE `isLocal` = 0
+0.012705334350000002	7292584	1.7422266716434123	insert into T_DAY_TEMPLATE_1(ID, TEXT, ASOFDATE) values (?, ?, ?)
+0.013233443150000003	7304125	1.8117766536032724	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.013381894650000002	1412750	9.472231215714034	CREATE TABLE `shared_plan_usage` (`shared_plan_device_id` INTEGER NOT NULL , `shared_plan_plan_config_id` INTEGER NOT NULL , `timestamp` BIGINT NOT NULL , `flags` INTEGER , `usage` BIGINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.013518665550000001	2173291	6.22036604854113	CREATE TABLE `alert_rule` (`interval_type` VARCHAR , `plan_config_id` INTEGER , `name` VARCHAR , `rule_type` VARCHAR , `threshold` BIGINT , `disable_data` SMALLINT , `enabled` SMALLINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `interval_count` INTEGER , `is_aligned_to_plan` SMALLINT )
+0.013631007550000001	3924625	3.4732000000000003	INSERT INTO track (lat, lon, altitude, speed, hdop, date) VALUES (?, ?, ?, ?, ?, ?)
+0.013699691850000003	1404250	9.75587811999288	CREATE TABLE `screen_session` (`end_time` BIGINT NOT NULL , `start_time` BIGINT NOT NULL , `end_time_zone_offset` INTEGER NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `start_time_zone_offset` INTEGER NOT NULL )
+0.01386615915	3174208	4.368383908678952	UPDATE queued_request SET frozen=? WHERE id=?
+0.014004315600000001	6634875	2.110712801672978	insert into table_customer(email, password) values (?, ?)
+0.0142310863	1979000	7.191049166245578	CREATE TABLE `plan_cost_calculation` (`available_plan_id` INTEGER NOT NULL , `data_buffer` DOUBLE PRECISION NOT NULL , `end_date` BIGINT NOT NULL , `start_date` BIGINT NOT NULL , `text_buffer` DOUBLE PRECISION NOT NULL , `timestamp` BIGINT NOT NULL , `voice_buffer` DOUBLE PRECISION NOT NULL , `data_overage_cost` FLOAT NOT NULL , `data_roaming_cost` FLOAT NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `actual_price` FLOAT NOT NULL , `text_long_distance_cost` FLOAT NOT NULL , `text_overage_cost` FLOAT NOT NULL , `text_roaming_cost` FLOAT NOT NULL , `voice_long_distance_cost` FLOAT NOT NULL , `voice_overage_cost` FLOAT NOT NULL , `voice_roaming_cost` FLOAT NOT NULL )
+0.0143482847	3841333	3.7352358413082127	UPDATE queued_request SET frozen=? WHERE id=?
+0.014522341700000002	5367750	2.70548026640585	UPDATE queued_request SET request=? WHERE id=?
+0.014724102700000003	1610917	9.140199464031978	CREATE TABLE `shared_plan_alert_rule` (`interval_type` VARCHAR , `name` VARCHAR , `rule_type` VARCHAR , `shared_plan_plan_config_id` INTEGER , `threshold` BIGINT , `disable_data` SMALLINT , `enabled` SMALLINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `interval_count` INTEGER , `is_aligned_to_plan` SMALLINT )
+0.015046963650000002	2943125	5.112580556381398	DELETE FROM queued_request WHERE id=?
+0.015463907700000001	1812334	8.53259261261997	CREATE TABLE `shared_plan_triggered_alert` (`description` VARCHAR , `shared_plan_alert_rule_id` INTEGER , `timestamp` BIGINT NOT NULL , `acknowledged` SMALLINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `timestamp_offset` INTEGER )
+0.0161733694	1843333	8.773981369616884	CREATE TABLE `available_region` (`name` VARCHAR , `region_code` VARCHAR , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.016235703900000002	3154208	5.147315554332498	DELETE FROM queued_request WHERE id=?
+0.01639920785	1987042	8.25307560182422	CREATE TABLE `available_plan` (`carrier_logo` VARCHAR , `carrier_name` VARCHAR NOT NULL , `mobile_subscriber_id` INTEGER NOT NULL , `plan` VARCHAR , `plan_id` VARCHAR NOT NULL , `plan_name` VARCHAR , `timestamp` VARCHAR , `cost` FLOAT NOT NULL , `data_limit` BIGINT NOT NULL , `text_limit` BIGINT NOT NULL , `voice_limit` BIGINT NOT NULL , `device_count` INTEGER , `feature_score` INTEGER , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `is_my_plan` SMALLINT NOT NULL , `is_recommended` SMALLINT NOT NULL , `is_valid` SMALLINT NOT NULL , `last_recommended_priority` INTEGER NOT NULL , `recommended_priority` INTEGER NOT NULL , `plan_price` FLOAT NOT NULL ,  UNIQUE (`plan_id`))
+0.016793108200000004	1850292	9.075923259680096	CREATE TABLE `triggered_alert` (`alert_rule_id` INTEGER , `description` VARCHAR , `timestamp` BIGINT NOT NULL , `acknowledged` SMALLINT , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `timestamp_offset` INTEGER )
+0.016814282799999997	5162833	3.2567938571710524	UPDATE queued_request SET frozen=? WHERE id=?
+0.0169052865	3013750	5.609385815014517	DELETE FROM categories WHERE filter_id = ?
+0.017024557250000003	1792584	9.497215890580302	CREATE TABLE `upgrade_mapping` (`legacy_key` VARCHAR NOT NULL , `mapped_id` INTEGER NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.017303517600000002	2274250	7.6084500824447625	UPDATE queued_request SET frozen=? WHERE id=?
+0.0173828901	12315792	1.4114309579115984	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.017511892800000005	11208667	1.5623528471315995	INSERT INTO T_HIST_LOOKUP_1(GRP,SORT,VALUE) values (?,?,?)
+0.01764537915	2473291	7.134372441415102	DELETE FROM queued_request WHERE id=?
+0.0176954469	1950208	9.073620301014046	CREATE TABLE `app_installation_event` (`plan_config_id` INTEGER NOT NULL , `app_version_id` INTEGER NOT NULL , `timestamp` BIGINT NOT NULL , `event_type` INTEGER NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT )
+0.0179032825	2516333	7.114830390095428	CREATE INDEX `schedule_actualDateTime_idx` ON `schedule` ( `actualDateTime` )
+0.01811877435	15323750	1.1823981956113874	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.018171665750000003	8485792	2.141422480070217	DELETE FROM queued_request WHERE id=?
+0.018319097799999993	13853500	1.322344375067672	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.018704965249999997	13093625	1.4285551365645492	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.01900589305	4467250	4.254495058481169	DELETE FROM queued_request WHERE id=?
+0.0192452323	2017250	9.540330796876937	CREATE TABLE `shared_plan_device` (`display_name` VARCHAR NOT NULL , `last_update` BIGINT , `server_device_id` VARCHAR NOT NULL , `shared_plan_user_id` INTEGER NOT NULL , `quota` BIGINT NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `is_admin` SMALLINT NOT NULL , `is_registered` SMALLINT NOT NULL )
+0.019274545850000005	14738375	1.3077795788205961	insert into T_STAMP_3 (MDT,ASOFDATE,STAMP_DATE_STR,CHECK_ACTION,SEQNR,CATEGORY_ID,VALUE1,VALUE2,VALUE_A,VALUE_B,COMMENT) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+0.02058016185	7192500	2.861336371220021	UPDATE queued_request SET request=? WHERE id=?
+0.020646936750000008	4078417	5.062487908911719	SELECT * FROM `app_usage_report_v2` WHERE `end_time` IS NULL
+0.02118463249999999	16057333	1.3193120239830607	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.021791311600000002	6284583	3.467423630175622	update table_customer set password=? where email=?
+0.022054542849999997	17391500	1.2681219475030905	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.022496397799999998	17399416	1.292939820508918	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.0233842291	14561417	1.6059034021208238	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.023755450900000002	16820125	1.4123230891565908	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.024844096849999997	17804459	1.3953862260010257	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.02653840519999999	18748500	1.4154948502546865	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.02771829550000001	17740667	1.5624156352182255	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.027858606650000003	21419833	1.3005986858067475	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.029060729249999993	13704000	2.1206019592819607	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.03137888545000001	13621042	2.3037066804433914	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.03291557235000001	13295125	2.4757625332593722	DELETE FROM `delayed_tasks`
+0.03384743385	4312083	7.849439319697694	CREATE TABLE `wifi_network` (`bssid` VARCHAR NOT NULL , `ssid` VARCHAR NOT NULL , `id` INTEGER PRIMARY KEY AUTOINCREMENT , `is_public` SMALLINT )
+0.03410187650000001	11798333	2.8903978638338153	INSERT INTO track (lat, lon, altitude, speed, hdop, date) VALUES (?, ?, ?, ?, ?, ?)
+0.034530275900000004	23671167	1.4587483540629833	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.03515312440000001	13477834	2.6082176409058024	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.03878479745	28996708	1.3375586445882062	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.04092118990000001	7245542	5.647774852454103	INSERT OR REPLACE INTO user_text_history (text_type, owning_person_id, text, use_count, last_used_at) VALUES (?, ?, ?, COALESCE((SELECT use_count FROM user_text_history WHERE text_type = ? AND owning_person_id = ? AND text = ?), 0) + 1, ?);
+0.04371380675	8543708	5.116491194455616	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.04495323840000002	17633625	2.5492908236394967	INSERT OR REPLACE INTO user_text_history (text_type, owning_person_id, text, use_count, last_used_at) VALUES (?, ?, ?, COALESCE((SELECT use_count FROM user_text_history WHERE text_type = ? AND owning_person_id = ? AND text = ?), 0) + 1, ?);
+0.046345855650000004	14529125	3.189858690733269	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.0464366627	7390583	6.283220511832423	INSERT OR REPLACE INTO user_text_history (text_type, owning_person_id, text, use_count, last_used_at) VALUES (?, ?, ?, COALESCE((SELECT use_count FROM user_text_history WHERE text_type = ? AND owning_person_id = ? AND text = ?), 0) + 1, ?);
+0.050066209500000014	17074958	2.932142468520275	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.0544382256	9847500	5.528126488956588	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.05557888509999998	9206000	6.037245828807297	INSERT OR REPLACE INTO user_text_history (text_type, owning_person_id, text, use_count, last_used_at) VALUES (?, ?, ?, COALESCE((SELECT use_count FROM user_text_history WHERE text_type = ? AND owning_person_id = ? AND text = ?), 0) + 1, ?);
+0.055977192799999985	38103958	1.469065045683705	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.0590241866	18253791	3.2335303170722183	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.06367117970000001	10418166	6.111553578624108	INSERT INTO UpdateConf (id,json) VALUES (?,?);
+0.06534957949999998	15180042	4.3049669757171936	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.06668848990000001	13859458	4.811767523665067	INSERT OR REPLACE INTO user_text_history (text_type, owning_person_id, text, use_count, last_used_at) VALUES (?, ?, ?, COALESCE((SELECT use_count FROM user_text_history WHERE text_type = ? AND owning_person_id = ? AND text = ?), 0) + 1, ?);
+0.07433241114999996	17946000	4.1420044104535805	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.09665073580000003	16154833	5.982775297027214	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)
+0.15350371119999998	21205708	7.2387920837163255	insert into Events(EventId, Event, Timestamp, MID, SID, AppGUID, isJSON, Payload, Seq) values(?,?,?,?,?,?,?,?,?)

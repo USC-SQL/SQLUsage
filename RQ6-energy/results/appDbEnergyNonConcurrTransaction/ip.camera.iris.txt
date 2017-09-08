@@ -1,0 +1,127 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00376326385	1489695527824_947834	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0020825050500000004	1489695657859_1705875	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.003974541000000001	1489695657836_2934875	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0024410662000000005	1489695657840_1877750	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0035925209999999996	1489695657844_2854625	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0060183419	1489695657848_5210291	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.004819068400000001	1489695596405_4346375	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0021677315500000004	1489695657878_1659750	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0055206920999999985	1489695657881_4931917	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.002503628950000001	1489695596399_2079000	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0024475868000000006	1489695657873_1934625	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00191234775	1489695657862_1591208	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00276474345	1489695657856_2182750	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0033053544500000003	1489695596396_2639708	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0023056559	1489695596403_1856416	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0020612843	1489695657876_1708042	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0046584637	1489695657865_4049083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.23161058415	1489695527616_51135708	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.02420596315000001	1489695583395_10140958	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.052432210699999995	1489695644958_26935042	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.03243925814999999	1489695554863_19758750	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.06688739240000001	1489695629177_31668042	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015560418	1489695646680_1179459	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015108576500000002	1489695645029_472500	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028965717	1489695598924_1175333	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018898428000000001	1489695557795_1315583	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018898888999999998	1489695645010_476541	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00185276	1489695583442_409958	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019786397	1489695629327_812583	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014705039	1489695554995_869875	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016079482	1489695646684_1142792	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022339422499999995	1489695591178_667916	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00215799025	1489695557789_1420959	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014766814000000002	1489695583440_372667	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015942993499999999	1489695637902_1178916	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012121205	1489695554909_434417	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015703744	1489695554907_617833	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00268283215	1489695645005_866625	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021747005500000003	1489695645027_776209	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018074806	1489695646690_1297292	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019363105499999999	1489695629210_761833	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00224109815	1489695591184_729000	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001978193	1489695637876_1450250	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00102254635	1489695629220_407208	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00153347335	1489695591161_457958	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021669145000000004	1489695591164_771166	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024263667499999997	1489695583456_768875	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00208027455	1489695554991_858875	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024837347500000005	1489695564858_1621000	false	select * from cameravidpic where  type='picture' and did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014568686	1489695629216_660209	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0029740473999999998	1489695598929_1165375	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018556636000000002	1489695645008_463083	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017017957500000003	1489695646709_1146666	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00154349325	1489695645014_433583	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014431261	1489695629213_650375	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022063986499999996	1489695637845_1768625	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018632734	1489695557802_1210292	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012817886999999999	1489695645031_470833	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016879249999999998	1489695646713_1047666	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00136850745	1489695629304_775833	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017116747500000003	1489695591167_651709	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022382273	1489695646672_1645042	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00102203245	1489695629215_467375	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012192913500000003	1489695554999_770250	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020572602	1489695557808_1425208	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021523180000000003	1489695629231_766333	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017518647000000004	1489695645003_464792	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015901797	1489695646696_1181958	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017550460000000001	1489695645012_483625	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013625729	1489695629318_709125	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028349238000000003	1489695598914_1211834	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025409041500000003	1489695598920_1144167	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020104891499999997	1489695637853_1533916	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017826380999999998	1489695645017_425709	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00163384115	1489695645000_477083	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012454761000000004	1489695645015_396333	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022201320999999997	1489695646661_1694166	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016326021000000002	1489695554902_770792	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019869319000000002	1489695637860_1544000	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024591962499999997	1489695583436_680125	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016332921500000002	1489695591159_514417	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00229318135	1489695583434_756583	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	9.887169499999998E-4	1489695568763_364625	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022459668	1489695568755_1193625	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00177927475	1489695637882_1315917	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019890921	1489695591170_799208	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018666249000000002	1489695629233_464458	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00196998815	1489695629321_902834	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016571801500000003	1489695629324_861167	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017642198499999999	1489695561862_1375333	false	select * from alarmlog where did='34' order by createtime desc
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019286357500000002	1489695583458_432500	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028014193	1489695598909_1212417	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017668260999999998	1489695646704_1334625	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00187397575	1489695637892_1332834	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035242246	1489695591149_1307583	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00174835705	1489695646667_1300250	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002183709	1489695591173_764000	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00229451875	1489695637886_1458459	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	8.321636E-4	1489695568761_371958	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014600955	1489695583443_370208	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017019715000000002	1489695645018_426375	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00106579465	1489695629218_421292	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016044449	1489695554919_666541	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017530893500000001	1489695637865_1313459	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019036459000000001	1489695629307_680125	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011110106	1489695568759_455917	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00107229255	1489695629221_538334	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018924624999999999	1489695583445_450292	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019016478	1489695583446_597708	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021979205	1489695645001_712042	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013852996	1489695554911_409042	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016782020000000004	1489695554987_909500	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00203381765	1489695583438_418916	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001997983	1489695637871_1493208	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023363804	1489695629311_1025292	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013781095000000001	1489695646718_999750	false	select *  from firstpic where did='123'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013121052500000001	1489695629224_602417	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025142219500000006	1489695591155_1178958	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021019412	1489695644997_641167	false	select *  from firstpic where did='56'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00135124465	1489695629314_751292	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015069100000000002	1489695646699_1019417	false	select *  from firstpic where did='890'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	9.559542000000001E-4	1489695568765_376209	false	select *  from firstpic where did='34'
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.013171990100000001	1489695527613_2109542	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011119977700000002	1489695527651_1739875	false	create table cameralist (id integer primary key autoincrement, name text not null, did text not null, user text not null,pwd text);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005559993399999999	1489695527653_1162459	false	create table cameravidpic(id integer primary key autoincrement, did text not null, filepath text not null, createtime text not null, type text not null);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0040048923	1489695527657_923833	false	create table firstpic(id integer primary key autoincrement,did text not null, filepath text not null)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0033837275	1489695527655_733375	false	create table alarmlog(id integer primary key autoincrement, did text not null, content text not null, createtime text not null);

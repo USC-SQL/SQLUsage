@@ -1,0 +1,3 @@
+select	0.0051814963750000005	0.0051814963750000005	0.0051814963750000005	0.0051814963750000005	1000500	1	1000500	1000500
+
+0.0051814963750000005	1000500	5.178906921539231	SELECT * FROM `schedule` WHERE ((((`actualDateTime` BETWEEN ? AND ? AND `status` <> 'taken' ) AND `status` <> 'dismissed' ) AND `status` <> 'deleted' ) AND `status` <> 'missed' ) ORDER BY `actualDateTime`

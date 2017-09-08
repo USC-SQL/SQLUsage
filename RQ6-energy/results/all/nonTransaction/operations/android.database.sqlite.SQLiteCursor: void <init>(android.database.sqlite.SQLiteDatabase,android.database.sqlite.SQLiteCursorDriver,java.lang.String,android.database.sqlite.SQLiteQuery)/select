@@ -1,0 +1,5 @@
+select	0.0023912366499999997	0.0030119672833333333	0.00309106545	0.0035535997500000006	380167	3	459667	533666
+
+0.0023912366499999997	380167	6.289963752771808	select *, users.idPk as userIdPk from challengeRanks, users where userIdPk = challengeRanks.userIdFk and challengeRanks.challengeIdFk=7 order by rank
+0.00309106545	459667	6.724575507922038	select * from challengeSports where challengeIdFk=6
+0.0035535997500000006	533666	6.658846076010089	select * from uncreatedChallenges ORDER BY idPk DESC LIMIT 1

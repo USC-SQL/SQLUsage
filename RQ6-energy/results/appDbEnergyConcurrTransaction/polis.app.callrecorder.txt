@@ -1,0 +1,7 @@
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	9.427716499999999E-4	1489180520380_687166	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.007701296325000006	1489180520369_6904083	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	8.845684000000001E-4	1489180520378_582583	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	9.466485500000001E-4	1489180520377_796458	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012619387250000003	1489180520374_1077292	false	SELECT * FROM messages LIMIT 0
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0010522194000000002	1489180520381_453625	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	9.073605E-4	1489180520372_611875	false	null

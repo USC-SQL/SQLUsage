@@ -1,0 +1,407 @@
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0097894246	1489093968829_7560750	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.015517831050000002	1489093941433_7927375	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.019933095550000002	1489093987811_14648666	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.013086955750000002	1489093941449_7856708	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.012137742550000002	1489094064279_9160291	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.030335787250000006	1489093986565_5539709	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.015693213	1489093941945_11724917	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.024560970450000004	1489093987831_18057709	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.029072245500000003	1489094003570_17228334	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.006017624650000001	1489093926735_669625	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.01141855695	1489093987856_8363709	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.09809572569999997	1489093941029_23381125	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.028614008999999996	1489094072471_8685000	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0532704394	1489093986544_8226792	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.015824568950000003	1489094056700_9725875	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.03399700165000002	1489093941063_7898917	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.016160277999999997	1489094004134_7548833	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.017414397200000004	1489094042393_8240542	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.013475965000000003	1489093978155_9423750	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.008931467800000002	1489093986525_1482916	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0020085469000000002	1489093941419_957333	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00515812105	1489093941016_950875	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0013019836000000003	1489093987852_671500	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0030924374500000003	1489094004126_1433584	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	9.550661000000002E-4	1489094064275_580375	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0012962480000000003	1489093941941_684000	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0012550917000000003	1489094056696_589208	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.011080075550000002	1489093926727_1550500	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00212527095	1489093978147_1521542	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0015795912000000003	1489093987807_875959	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.001225962	1489094003566_581584	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.005007471449999999	1489093941056_889417	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0032393787000000005	1489094042385_1355791	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0015987493500000001	1489093941443_709167	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0013412044	1489093968825_580041	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0032251512	1489094072467_634291	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.004533027400000001	1489093941416_1868083	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00859970945	1489093941014_1665791	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.012418205400000002	1489093986522_2273208	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00144715815	1489093987826_716917	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00606563515	1489093986556_950541	true	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0038621032999999996	1489093926842_443042	false	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0025465381	1489093941432_995583	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	7.988304999999999E-4	1489093941945_323208	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	7.2063845E-4	1489094064279_340250	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00187830755	1489094042391_724416	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.006519865350000001	1489093986564_729875	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	7.8214425E-4	1489093987830_338500	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0015021713000000002	1489094004133_770834	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0042810396499999995	1489093941028_616458	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0012903532000000002	1489093941448_466041	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	9.654539999999999E-4	1489094003569_325917	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	8.8847945E-4	1489094056699_328458	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00133535505	1489093987855_607875	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0033803186	1489093941062_554125	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	9.7770785E-4	1489093968828_466167	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	7.983802500000001E-4	1489093987810_317417	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0077202028	1489093986542_1267083	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.018786256400000007	1489093926732_2612209	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	7.266876000000002E-4	1489093978154_397375	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0019582392	1489094072471_343083	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018884061	1489094044989_1110500	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0031713206000000007	1489093979271_1564041	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004314265350000001	1489094042323_1194625	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003236386550000001	1489094072465_706208	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0029511553500000003	1489094029698_1098667	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038207579500000003	1489094042326_943084	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015818697500000001	1489093936980_957042	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038350185499999995	1489094002930_1480750	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019480998499999999	1489094022547_1065500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022433969000000002	1489093981983_1328750	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030585653500000004	1489094003349_1366958	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00145987335	1489094010193_946791	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00102983395	1489093989684_538917	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00207427665	1489093994994_1041584	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00130802745	1489093987587_626625	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023539165500000006	1489093989396_1137500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018005829500000001	1489093939668_976042	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0032375100500000005	1489094030055_1180459	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004108882100000001	1489094021450_1107667	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0050874388500000015	1489093926998_570125	false	PRAGMA journal_mode = TRUNCATE
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002790283	1489093993053_1372458	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00344795025	1489094071808_1016833	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006364261949999999	1489093940984_1072250	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0063766403	1489093927045_698125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00283046065	1489094029768_1014417	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006000587750000001	1489094063353_1066459	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023150795	1489094027415_860792	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00559040595	1489093930825_759500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0046815417	1489094014036_1029500	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015197222000000001	1489093954058_836334	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018546044000000003	1489093936811_1126500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018598280500000002	1489094047608_1006416	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00211321585	1489094073141_1256250	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0056378608	1489094055771_1153166	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019291022500000001	1489094064017_1324541	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019054569500000001	1489093978165_896125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025645410500000003	1489094042445_1196500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.013255273750000001	1489093968008_3160292	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016854264000000002	1489094004061_1031041	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014765264	1489094010197_968834	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.015112606450000001	1489093931492_1964458	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021156792500000004	1489093939780_1113209	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00199458025	1489094018246_1093333	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023475273	1489094030887_1041208	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004973682750000001	1489094002753_1182875	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.003427828100000001	1489094078027_1368625	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00184963355	1489094073207_1152125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007823930800000002	1489093927756_749292	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004146863200000001	1489094002797_1234042	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00306501345	1489094003060_1084583	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027984731	1489093981616_1649792	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025951401	1489094043099_1914291	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028269342500000004	1489093941684_1607084	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020679135000000004	1489093987328_739500	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005356480000000001	1489093941090_932917	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00208524375	1489093939776_1076208	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012978039500000003	1489093941939_753125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022809941499999996	1489094011433_1102208	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006707862750000001	1489093986572_1133750	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028193826499999996	1489093993475_1106667	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018311861499999999	1489094027116_1082209	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037555795999999995	1489094007318_1704208	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00214461925	1489094004057_1523958	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025865679500000002	1489094017885_1216791	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025166541	1489093968316_1322500	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016691435999999999	1489093989454_894000	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0044820428000000015	1489094071966_1608917	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038425872000000007	1489094003309_1589250	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007912846650000001	1489093986577_1107041	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021107969999999998	1489093996515_1117750	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0050863746000000005	1489093929668_825917	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007429975400000001	1489093986581_953333	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005579371999999999	1489094055690_1184458	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.022330565300000004	1489093929356_2028834	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038168448500000007	1489094056037_1165292	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018018922500000003	1489093999760_1115750	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025870783999999997	1489093958103_1742375	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018986276999999998	1489094001393_1136666	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.009537340699999999	1489093940567_3714500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020565581500000003	1489094042402_630292	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0042975038000000005	1489093930541_453250	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0058132489	1489093941073_1163959	false	SELECT * FROM db_versions WHERE name=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018883637999999997	1489094051988_1089458	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002427257100000001	1489094042879_1619416	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00563733585	1489093987072_1694291	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014768362	1489094056694_686500	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030354462499999997	1489094021077_1114334	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0068926417	1489093953880_4093375	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027542247999999994	1489094006097_1762875	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037952911	1489094011349_1873375	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019295522999999996	1489093996793_1030708	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0031903908	1489094009898_1072750	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022848623999999996	1489094042536_1611792	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025829118500000003	1489094042405_643750	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00386432375	1489094074616_1263250	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004013547500000001	1489094063710_1074083	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0070931093500000006	1489094075908_3975750	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019427079999999996	1489093999803_1170125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00240480105	1489093978142_1727750	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0059195556	1489093968064_1127625	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035335474	1489093968236_1106417	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007087887050000001	1489094071459_1308375	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00475560665	1489094002925_1232250	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017557011500000002	1489094001268_1102083	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025865941000000003	1489093958110_1755500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002254566	1489094053741_1069459	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007345531350000001	1489093929087_976875	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033058716000000004	1489094002984_1077916	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0096449436	1489093929127_916375	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.010690463650000002	1489093927494_918167	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005907850950000001	1489093968170_2355791	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021369513	1489094054015_1216167	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033923881	1489094072211_1579958	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00132274605	1489093936977_661375	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004657454050000001	1489093994651_2540667	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022070665	1489094075542_1113083	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.013221472600000003	1489093931537_1401250	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.015163772000000002	1489093931094_1885541	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020662163	1489094078391_1051375	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015948974000000002	1489093936854_999667	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025570390500000003	1489094005342_782625	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0032407869999999997	1489093985735_1109708	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00946757455	1489094006237_4341834	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004726948250000001	1489094063773_1444834	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005661876850000001	1489094014801_1634708	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00643499875	1489093927163_701833	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.014090560700000001	1489093931423_1697000	false	SELECT name FROM db_versions;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00227795045	1489094056440_1535833	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005848658450000002	1489093957942_4308875	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025724532000000007	1489094007068_1057000	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006398901550000001	1489093932161_1337375	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0066319199	1489094006953_3871292	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0015858792	1489094011709_983959	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023560617000000007	1489094006048_1175791	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0033880087499999997	1489093994721_2039750	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006514455300000001	1489093927716_740583	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018124979	1489093981699_1035042	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018817954	1489094074340_1126625	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028527274000000004	1489094021330_938291	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002419781500000001	1489094075626_1079708	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018271426	1489093941462_958500	false	SELECT * FROM db_versions WHERE name=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020201550500000003	1489093996433_1151500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0083002655	1489093929398_798042	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0105138498	1489093928567_1157417	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00177684655	1489093958006_1171917	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00243937495	1489094011714_1467000	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022550589	1489094074254_1259000	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00808982975	1489093928299_914125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026971571	1489094031233_1606791	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00250104225	1489094009814_1150083	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0061738066	1489093930210_581000	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024978926500000003	1489094078111_1181416	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007869424250000001	1489093986739_1489500	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005033029150000001	1489093926997_526084	false	PRAGMA locking_mode = EXCLUSIVE
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020506833000000003	1489094054010_1219209	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0041151272	1489093941054_636125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026422708	1489094075915_1174750	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00202209415	1489094017967_1079708	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0057481485	1489094063273_1206375	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00402579555	1489094021363_1068958	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00258931425	1489094031459_1675584	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023792411000000003	1489094042839_1755792	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00527353775	1489093926996_514667	false	PRAGMA synchronous = NORMAL
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018074156	1489094027185_1027584	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007170444200000001	1489093927031_957667	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00222086675	1489094053659_1367042	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004784302650000001	1489094021006_1556333	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0014096427	1489093987549_657000	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00368807855	1489094030143_1016959	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035336264000000004	1489094005219_1086709	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022081325	1489094052218_1088584	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.012630354600000003	1489093987031_1864625	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025598755	1489094005175_1383958	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.031519017499999996	1489093927448_3673166	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00367476955	1489094056135_1067792	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0011918051999999998	1489094064274_680709	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004082207700000001	1489094071895_1356333	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026910637000000003	1489094045270_958209	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.002180063	1489093968568_1566000	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00228620945	1489094022213_1051708	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00315397415	1489094030803_1279125	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024896614	1489093993139_1078833	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0053864861500000005	1489093926858_710958	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023271505000000002	1489093968608_1560458	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0017019558500000003	1489093953944_1106292	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.011587036550000004	1489093968153_5754375	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035746878499999996	1489094056194_1625250	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.021737374800000004	1489093928256_2544250	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020356821	1489094001399_1208208	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004457038799999999	1489094031191_1951459	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.009605944000000002	1489093930601_1028125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00449346785	1489094007326_1886875	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0031130584500000005	1489094071805_646291	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037612521500000004	1489094006247_1435167	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00973372745	1489093929945_815208	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006920349450000001	1489093931138_1283292	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037616082	1489094072251_1412834	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030332569	1489094014207_1375375	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024441025000000003	1489093968822_1687583	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023191308500000005	1489094014288_1561959	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00259784805	1489093941725_1337542	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00242674375	1489094064057_1602416	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0165713486	1489093928021_1589416	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034069430500000006	1489093994250_1226500	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037563630500000006	1489093994337_1092459	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.010567568350000002	1489093930558_1714083	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.01133680005	1489093928811_1373916	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016907054500000002	1489094004143_632209	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0010564711	1489093987849_557875	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.008405340649999999	1489093979316_1223416	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007557088300000001	1489093986657_1310834	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0040232074	1489094030720_1763709	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0065990636	1489093931747_736459	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034420612500000005	1489094056043_1125083	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.012398795900000002	1489093927206_1507416	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00297988115	1489093941309_984666	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00227637155	1489094063618_1106125	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00880349645	1489093930172_838291	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038678894499999997	1489093993562_1178333	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005777384099999999	1489093979441_785958	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0043214017	1489093985646_1388625	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00444308015	1489094014061_1168375	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024404934000000003	1489094051916_1373125	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0032178523500000005	1489094052213_1902000	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019274366999999998	1489094044905_1166042	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.009658184300000002	1489093928855_1177833	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00746101325	1489093941179_1087583	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0055110772	1489093941175_1088125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024005327	1489094047331_1055375	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0067836345999999995	1489093930864_656667	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016798575499999998	1489093981979_972500	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00577262965	1489094071539_1074417	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.017496242250000002	1489093929624_1969542	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.020149884500000003	1489093927979_2161584	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.007841215750000002	1489093928523_781375	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030941441500000003	1489094047248_1301750	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034662762000000004	1489094014009_1110417	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019962774500000002	1489094056480_1338500	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016741669000000002	1489094063616_696417	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0071395438	1489093927001_937000	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030310611499999997	1489093941392_955333	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0029626602000000007	1489093959531_1842792	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030798453500000007	1489094022128_1247958	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00221620805	1489094074609_958792	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023961049499999997	1489093968032_1188875	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00203661905	1489093939626_1201875	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025637830000000005	1489094003563_837834	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0027817461000000003	1489093999943_1668875	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0022411726000000002	1489094073433_611333	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0037878305500000007	1489093987291_617750	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0117096725	1489093994138_2054125	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018116983500000002	1489093999938_1159917	false	SELECT value FROM content WHERE url=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0070240847000000006	1489093929906_673750	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020167573	1489094001225_1236792	false	SELECT * FROM metadata WHERE url = ?
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0010665899	1489093987854_544958	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0012232017500000004	1489094056698_526666	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0026182655500000002	1489094072470_518333	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0010011834000000002	1489093968827_565875	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.006581605550000001	1489093941026_1273875	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.00103892	1489093987829_575208	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0010569865	1489093941944_511167	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0058443354	1489093941060_1145000	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.010510465450000001	1489093986562_1174625	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0012995197499999999	1489094003568_521083	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0024633394499999992	1489093941446_1342500	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0010637596	1489093987809_517250	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0023849024500000003	1489094004131_1149958	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0021594428500000006	1489093978152_1476750	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	9.557005499999999E-4	1489094064278_522708	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0095915518	1489093986539_1667000	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0026659000500000004	1489094042390_1013458	true	null
+android.database.sqlite.SQLiteStatement: long executeInsert()	0.0033694175000000006	1489093941429_1627250	true	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.022745572500000002	1489093926981_2945833	false	CREATE TABLE IF NOT EXISTS content (url TEXT PRIMARY KEY, value BLOB)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0063635107	1489093926729_650958	true	CREATE TABLE IF NOT EXISTS metadata ( url TEXT PRIMARY KEY, status_code INTEGER, date INTEGER, flags INTEGER NOT NULL DEFAULT 0, headers TEXT, freshness_lifetime INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00852785215	1489093930523_1256666	false	CREATE TABLE IF NOT EXISTS content (url TEXT PRIMARY KEY, value BLOB)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014017309	1489093926710_1881791	false	CREATE TABLE IF NOT EXISTS metadata ( url TEXT PRIMARY KEY, status_code INTEGER, date INTEGER, flags INTEGER NOT NULL DEFAULT 0, headers TEXT, freshness_lifetime INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.012432963600000001	1489093926713_1296834	false	CREATE TABLE IF NOT EXISTS db_versions (name TEXT PRIMARY KEY,version INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00622154345	1489093926731_758709	true	CREATE TABLE IF NOT EXISTS db_versions (name TEXT PRIMARY KEY,version INTEGER);
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.33951358189999997	1489093926942_53170667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.4320726509	1489093930459_79672875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.055778798500000025	1489093926846_10771250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.3727516844999998	1489093926665_61200208	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00162981725	1489093941420_685709	true	INSERT INTO metadata values (?,?,?,?,?,?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.005097701	1489093941018_857750	true	INSERT INTO metadata values (?,?,?,?,?,?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0058510094	1489093927000_754667	false	INSERT OR REPLACE INTO content values (?,?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00438689875	1489093930540_513750	false	INSERT OR REPLACE INTO content values (?,?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.009055145450000001	1489093986528_801083	true	INSERT INTO metadata values (?,?,?,?,?,?)
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.24290828780000004	1489093926666_41825667	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.041089700950000016	1489093926848_7737334	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.2249238831	1489093926943_36074542	false	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.0013508562500000002	1489093941423_569917	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.0013687154	1489093941425_451834	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.005734303950000001	1489093986537_886875	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.004959231550000001	1489093986531_582667	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.0033679559	1489093941020_444875	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.00130149625	1489093941428_574750	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.0051888787	1489093986533_638625	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.00384648045	1489093986534_589000	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.00330752125	1489093941025_469917	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.00131851265	1489093941424_531375	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.0033697278999999998	1489093941021_464167	true	null
+android.database.sqlite.SQLiteProgram: void bindLong(int,long)	0.0034896943	1489093941023_531667	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	9.274839500000001E-4	1489094056698_326542	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	0.0015078896500000001	1489094042389_579625	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	7.125616000000001E-4	1489094064277_334875	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	0.0019205185	1489094072469_309583	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	7.588600000000001E-4	1489093941943_313208	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	9.270639E-4	1489093968826_309125	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	7.965493000000001E-4	1489093987809_310542	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	0.0032962810000000003	1489093941059_453875	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	0.00122191965	1489093941445_453625	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	7.992098E-4	1489093987853_313125	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	8.209045499999999E-4	1489093987828_334083	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	0.0017592083500000003	1489094004130_631584	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	0.006054571	1489093986560_859834	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	0.0012139756000000002	1489093978150_641667	true	null
+android.database.sqlite.SQLiteProgram: void bindBlob(int,byte[])	9.972469E-4	1489094003567_325083	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0063778611500000006	1489093926940_805959	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.017240846350000005	1489093926658_2089334	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.005227439450000001	1489093930458_629375	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0020465904	1489093941422_825375	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	7.689854E-4	1489093941942_313125	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0019003984500000001	1489094042387_619834	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0057000663500000005	1489093986558_892292	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.00331892115	1489093941024_476875	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.005776083	1489093986535_965000	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0012213610000000002	1489094056697_408750	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	8.877999E-4	1489093987827_357750	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	9.270639E-4	1489093968826_326458	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0019305707500000002	1489094072468_313333	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0033946965	1489093941019_498166	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0013732293000000002	1489093941426_516959	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.00122191965	1489093941445_403250	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	8.460300000000001E-4	1489093987808_317417	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0070953406000000005	1489093986530_751375	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	7.992098E-4	1489093987853_315958	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0016432522499999996	1489094004128_635500	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	7.156657000000002E-4	1489094064276_320958	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0012085280000000002	1489093978149_673542	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0033446127500000003	1489093941058_501958	true	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	9.972469E-4	1489094003567_316000	true	null
+android.database.sqlite.SQLiteClosable: void close()	0.01170578295	1489093926839_2107834	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0033229314000000005	1489093941053_468709	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.005690441249999999	1489093986554_941167	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0013231626000000001	1489093941442_522083	false	null
+android.database.sqlite.SQLiteDatabase: void setLockingEnabled(boolean)	0.00515522565	1489093926999_466875	false	null

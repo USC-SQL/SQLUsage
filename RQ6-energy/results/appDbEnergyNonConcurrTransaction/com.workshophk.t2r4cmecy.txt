@@ -1,0 +1,29 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.12223492335000001	1491008661308_44174542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.06000842085000001	1491008768445_5930875	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.2337775851499998	1491008660320_81358334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0337904713	1491008676196_5092458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.03642090640000001	1491008762171_5902459	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.11073549790000002	1491008660416_34114250	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00319799355	1491008660402_700292	false	SELECT COUNT(*) FROM eventlist
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0045158885499999996	1491008660458_939917	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.006891785100000001	1491008676202_884500	false	SELECT * FROM clickevent;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004650812600000001	1491008661353_1080583	false	SELECT * FROM clickevent;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0100162358	1491008768452_900167	false	SELECT * FROM clickevent;
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00579892705	1491008762177_776875	false	SELECT * FROM clickevent;
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00397480645	1491008661306_820416	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0121301388	1491008660314_4138375	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0084570952	1491008762169_1385000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0065129177	1491008676204_1051834	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.008804370399999999	1491008768454_714667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.006222016000000001	1491008762179_719542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0042365637	1491008661356_930458	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00499012805	1491008660376_1721792	false	CREATE TABLE IF NOT EXISTS eventlist (_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, eventid INTEGER NOT NULL, type VARCHAR NOT NULL, sid VARCHAR NOT NULL, ts VARCHAR NOT NULL, ssts VARCHAR NOT NULL, am VARCHAR)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00332609165	1491008660383_1034250	false	CREATE TABLE IF NOT EXISTS transactiondetail (_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, itemName VARCHAR, itemType INTEGER, itemCount INTEGER, itemDescription VARCHAR, itemPrice REAL, currencyCode VARCHAR, productId VARCHAR, transactionId VARCHAR, transactionStatus INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00431695285	1491008660380_1075250	false	CREATE TABLE IF NOT EXISTS levelbegin (_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, levelid VARCHAR, levelname VARCHAR)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024597205000000005	1491008660382_772458	false	CREATE TABLE IF NOT EXISTS levelend (_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, levelid VARCHAR, levelname VARCHAR, levelstatus VARCHAR, timetaken VARCHAR, attemptcount VARCHAR, attempttime VARCHAR)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0063049449499999995	1491008660386_1202875	false	CREATE TABLE IF NOT EXISTS attribute (_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, attributename VARCHAR, attributevalue VARCHAR)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004118129200000001	1491008661339_1379292	false	CREATE TABLE IF NOT EXISTS clickevent ( clickid INTEGER PRIMARY KEY  NOT NULL , clickurl VARCHAR NOT NULL , pingwv INTEGER NOT NULL , followredirect INTEGER NOT NULL , retrycount INTEGER NOT NULL , timestamp INTEGER NOT NULL );
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005622469850000001	1491008660388_1023791	false	CREATE TABLE IF NOT EXISTS attemptdata (_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, levelid VARCHAR, begintime VARCHAR NOT NULL, totalcount VARCHAR NOT NULL, totaltime VARCHAR NOT NULL)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0028770548000000003	1491008660379_879333	false	CREATE TABLE IF NOT EXISTS sessionlist (_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, start INTEGER NOT NULL, end INTEGER NOT NULL)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0045597124	1491008660385_987333	false	CREATE TABLE IF NOT EXISTS customevent (_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, eventname VARCHAR)
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	0.0046708802499999995	1491008660403_980666	false	null

@@ -1,0 +1,658 @@
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0013015430999999999	1489009444461_554166	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.005202418100000001	1489009510284_930625	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0108355404	1489009379892_1280250	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0029313307500000003	1489009404108_696375	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0041766652000000005	1489009403644_998959	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0018114162	1489009463333_592209	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.004221446100000001	1489009362807_504250	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.009773216300000002	1489009379891_1101292	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00241591805	1489009439684_719083	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0043270343	1489009361601_634375	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0027396118500000004	1489009403646_757292	true	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0020083951000000005	1489009502502_725584	true	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0024643505999999995	1489009362380_278209	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.002425548	1489009362381_264209	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0033332379	1489009380966_503291	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0021167679	1489009362460_348042	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00200529125	1489009362355_277958	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0027927148000000002	1489009362716_277667	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0020429285500000002	1489009380129_427375	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00659594355	1489009508409_1265625	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0018865190500000001	1489009362718_371000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00361085315	1489009510268_695708	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00202058285	1489009362367_358417	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.006268097999999999	1489009403637_1108959	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00215103245	1489009403888_411541	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0018515366999999998	1489009404098_496500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00198599075	1489009362368_240500	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00181024665	1489009453726_1163541	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00327089485	1489009439674_656959	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0017354849000000003	1489009463317_496750	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0019694639	1489009362707_396084	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0025105706000000004	1489009362734_344583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00239179925	1489009467180_1027000	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.00627573245	1489009362729_1745167	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.0019390532000000001	1489009362722_344250	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.021168457600000003	1489009379883_3020541	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.005106982699999999	1489009452223_2114291	false	null
+android.database.sqlite.SQLiteDatabase: boolean isOpen()	0.006194745000000001	1489009380140_638708	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.059314969800000006	1489009439695_16367708	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.024479058100000013	1489009502514_13030542	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.04257194960000002	1489009404120_19221708	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.06842076815	1489009510292_13765667	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.13552180760000002	1489009380093_35073750	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.06969794224999999	1489009403855_31055250	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.05206848619999999	1489009380986_13564125	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0264165498	1489009444476_16904167	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.023986100249999996	1489009362814_6920625	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.036716328099999994	1489009463342_18054042	true	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00451067205	1489009361604_616209	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0100905728	1489009379887_1120166	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0030966271499999996	1489009362805_595708	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.006708745450000001	1489009403639_1339708	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.0029032119000000005	1489009444458_1178666	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.00236011125	1489009502499_886292	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019505498500000003	1489009362370_360416	false	SELECT * FROM paisDivision WHERE codigo=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026459697	1489009362714_456541	false	SELECT latIzqInf,longIZqInf, latDerSup ,longDerSup FROM paisDivision WHERE codigo=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00298349055	1489009404110_691917	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00236215145	1489009362382_355125	false	Select id,localidad,tipo_widget,color_fondo,color_fuente,icono,live FROM widgets
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016042319	1489009463572_761959	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026485922	1489009362368_415292	false	SELECT * FROM paisDivision WHERE codigo=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023516445500000004	1489009362378_368042	false	SELECT codigoPais,codigoISO FROM pais
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025971848	1489009362376_435750	false	SELECT id,antelacion,simbolos FROM avisoProximasHoras
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026076577000000004	1489009362373_425292	false	SELECT * FROM paisDivision WHERE codigo=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0028275556500000003	1489009362461_441500	false	SELECT localidad,salida,validez,fecha_guardado FROM predicciones
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0026573456000000004	1489009439686_604334	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018471491000000002	1489009362712_381292	false	SELECT latIzqInf,longIZqInf, latDerSup ,longDerSup FROM paisDivision WHERE codigo=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005676552350000001	1489009362809_544042	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018734458500000003	1489009502505_762167	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024643505999999995	1489009362380_399125	false	SELECT * FROM localidades ORDER BY creacion ASC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025211549	1489009362708_536417	false	SELECT codigoPais,site,idiomaPRI,idiomaALT,nombre,codigoISO,peticionMovil,alertas,localizaciones FROM pais WHERE codigoPais=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0024635339500000005	1489009362711_535584	false	SELECT latIzqInf,longIZqInf, latDerSup ,longDerSup FROM paisDivision WHERE codigo=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00496540995	1489009439921_1074416	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00289112475	1489009362353_439166	false	SELECT id,valor FROM configuracion
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00124863685	1489009444462_485625	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0031963068999999998	1489009362717_489000	false	SELECT temperatura,velocidad,lluvia,nieve,presion FROM unidadesDefecto WHERE id=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019742057	1489009362371_290500	false	SELECT * FROM paisDivision WHERE codigo=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025487382500000003	1489009362873_525792	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019062304	1489009404407_1067875	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0021348362000000003	1489009362372_331958	false	SELECT * FROM paisDivision WHERE codigo=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016101796999999998	1489009463335_581958	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00134091515	1489009502584_648375	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00389047435	1489009510286_468958	true	SELECT hits_count FROM properties WHERE app_uid=? AND cid=? AND tid=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0030881615	1489009362715_416042	false	SELECT codigoRadar,nombre FROM radares WHERE id=?
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0035024846500000006	1489009381349_365416	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00207000255	1489009362377_362708	false	SELECT id,valoracion,version,idioma,pais,fecha  FROM valoracion
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00246991575	1489009362799_499000	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020200358	1489009362802_378583	false	SELECT COUNT(*) FROM hits2
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0014600118	1489009502512_500125	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0029375193500000003	1489009362813_466750	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0034726839000000006	1489009380984_521375	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0032226347500000007	1489009439692_446083	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0012778412999999997	1489009463340_382875	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0022947088	1489009380092_327542	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0020920076	1489009403855_427125	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0011733242000000002	1489009404118_437917	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0026926686000000003	1489009510291_387625	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.00117963635	1489009444474_415208	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0025317499000000005	1489009502509_1024791	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0032913215000000004	1489009404115_915250	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0017518002000000003	1489009444471_857542	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0047971686	1489009380981_1065917	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.00553103175	1489009510289_898666	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.004492531850000001	1489009362811_681042	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0055633348	1489009439690_1043875	true	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.0025802568	1489009463338_931000	true	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.008887979300000008	1489009380974_4846000	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00855845275	1489009362731_2180833	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0124745148	1489009508411_4456750	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00909075165	1489009362355_2318292	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.008788923200000002	1489009380130_2813084	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0210366956	1489009452226_10156084	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0041643103	1489009439681_2460333	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.012712105250000001	1489009510270_2806417	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.008404088425000001	1489009510276_2954042	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.014724824300000001	1489009362735_4004958	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00869028105	1489009362719_2430417	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006391563750000001	1489009404099_2797625	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.014665480299999999	1489009380967_3032750	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.007793385400000003	1489009463318_3270125	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.006404286650000002	1489009453728_4266500	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.01934502755	1489009362723_5845708	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.010506706100000002	1489009439675_3110500	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0031648885500000007	1489009361585_573917	false	null
+android.database.sqlite.SQLiteDatabase: java.lang.String getPath()	0.0030256316	1489009362770_500500	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024697535500000003	1489009362280_510417	false	INSERT INTO unidadesDefecto VALUES('96','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0036731121500000003	1489009362325_559250	false	INSERT INTO paisDivision VALUES('america_central','5.030468','-99.000000','30.141943','-59.066667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003089452	1489009362286_787792	false	INSERT INTO unidadesDefecto VALUES('183','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00400629105	1489009362153_901417	false	CREATE TABLE predicciones (localidad INTEGER PRIMARY KEY ON CONFLICT REPLACE, salida INTEGER, validez BIGINT DEFAULT 0, fecha_guardado BIGINT DEFAULT CURRENT_TIMESTAMP)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026428235500000003	1489009362242_411959	false	INSERT INTO unidadesDefecto VALUES('182','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024734467	1489009362287_561458	false	INSERT INTO unidadesDefecto VALUES('13','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025710388500000004	1489009362310_542042	false	INSERT INTO paisDivision VALUES('inglaterra','49.681481','-18.500000','60.940262','11.450000')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00391270975	1489009362273_697583	false	INSERT INTO unidadesDefecto VALUES('27','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024698348500000003	1489009362199_404625	false	INSERT INTO pais VALUES('82','br','pt','pt','brasil','br','http://app.tempo.com/peticionMovil.php','0','brasil')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024691551500000005	1489009362249_444292	false	INSERT INTO unidadesDefecto VALUES('21','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031344208	1489009362207_688125	false	INSERT INTO pais VALUES('154','uy','es','es','Uruguay','uy','http://www.meteored.com.uy/peticionMovil.php','0','argentina')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024191504	1489009362220_397458	false	INSERT INTO pais VALUES('83','en','en','en','irlanda','ie','http://app.yourweather.co.uk/peticionMovil.php','0','inglaterra,europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00315241115	1489009362238_518583	false	INSERT INTO unidadesDefecto VALUES('135','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025069243000000003	1489009362234_456375	false	INSERT INTO pais VALUES('140','en','en','en','suecia','se','http://app.yourweather.co.uk/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00253636105	1489009362241_421291	false	INSERT INTO unidadesDefecto VALUES('20','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024759171500000005	1489009362179_487083	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('12','CotaNieve','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0042187354499999994	1489009362165_876667	false	CREATE TABLE configuracion (id INTEGER PRIMARY KEY ON CONFLICT REPLACE, nombre TEXT, valor INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024667120500000005	1489009362198_497583	false	INSERT INTO pais VALUES('67','ar','es','es','argentina','ar','http://app.meteored.com.ar/peticionMovil.php','1','argentina')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00247447785	1489009362248_434375	false	INSERT INTO unidadesDefecto VALUES('122','0','1','0','0','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00369177395	1489009362172_849833	false	CREATE TABLE valoracion (id INTEGER PRIMARY KEY ON CONFLICT REPLACE, valoracion INTEGER, version INTEGER, idioma TEXT, pais INTEGER, fecha BIGINT DEFAULT CURRENT_TIMESTAMP)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024618264500000002	1489009362192_418958	false	INSERT INTO pais VALUES('18','es','es','es','espania','es','http://app.tiempo.com/peticionMovil.php','3','espana,europa,canarias')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026324183500000004	1489009362335_496041	false	INSERT INTO radares VALUES ('20','italia','Italia')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0037901380499999996	1489009362333_619333	false	INSERT INTO radares VALUES ('48','unking','United Kingdom')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0043202424	1489009362155_1004167	false	CREATE TABLE dias (localidad INTEGER,simbolo INTEGER, minima REAL, maxima REAL,simbolo_viento INTEGER, velocidad_viento INTEGER, rachas INTEGER, lluvia REAL, presion INTEGER, humedad INTEGER,cota_nieve INTEGER, zonaHoraria TEXT, sol_in BIGINT, sol_out BIGINT, luna_in BIGINT, luna_out BIGINT, luna_iluminada REAL, luna_simbolo INTEGER,fecha_unix BIGINT,fecha_fin BIGINT, uvDespejado REAL,dianoche INTEGER,niebla INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0019967464000000003	1489009362186_384500	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('25','Live activado','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0045482541	1489009362308_617125	false	INSERT INTO paisDivision VALUES('francia','42.052767','-8.250000','51.366886','12.215833')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0027360428500000007	1489009362322_413125	false	INSERT INTO paisDivision VALUES('paises_bajos','50.436772','1.500000','54.096801','10.485000')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00419007895	1489009362168_899042	false	CREATE TABLE IF NOT EXISTS satelites (id INTEGER PRIMARY KEY ON CONFLICT REPLACE, zona TEXT, imagen TEXT, tipo INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031798917000000005	1489009362219_423709	false	INSERT INTO pais VALUES('209','ru','en','en','armenia','am','http://app.pogoda.com/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00248381855	1489009362178_576584	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('11','Precipitacion','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024717908000000005	1489009362265_552666	false	INSERT INTO unidadesDefecto VALUES('9','0','3','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00309645765	1489009362266_616792	false	INSERT INTO unidadesDefecto VALUES('116','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0037250080000000006	1489009362169_969791	false	CREATE TABLE unidadesDefecto(id INTEGER PRIMARY KEY, temperatura INTEGER, velocidad INTEGER, lluvia INTEGER, nieve INTEGER, presion INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031485913999999998	1489009362309_525500	false	INSERT INTO paisDivision VALUES('alemania','46.963470','0.000000','55.281349','19.966667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.028304722300000005	1489009362790_8120625	false	CREATE TABLE IF NOT EXISTS properties ( app_uid INTEGER NOT NULL, cid TEXT NOT NULL, tid TEXT NOT NULL, params TEXT NOT NULL, adid INTEGER NOT NULL, hits_count INTEGER NOT NULL, PRIMARY KEY (app_uid, cid, tid)) ;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00211191855	1489009362339_381292	false	INSERT INTO radares VALUES ('83','unking','Éire')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0027477243500000003	1489009362223_515792	false	INSERT INTO pais VALUES('199','eu','es','es','PRico','pr','http://app.theweather.com/peticionMovil.php','1','america_central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025375937999999997	1489009362240_430625	false	INSERT INTO unidadesDefecto VALUES('48','0','2','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.048763218050000015	1489009361591_9381208	false	CREATE TABLE IF NOT EXISTS datalayer ( 'ID' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, 'key' STRING NOT NULL, 'value' BLOB NOT NULL, 'expires' INTEGER NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031469855000000003	1489009362237_467417	false	INSERT INTO unidadesDefecto VALUES('18','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025206916	1489009362230_406916	false	INSERT INTO pais VALUES('146','fr','fr','fr','luxemburgo','lu','http://app.tameteo.com/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026060140000000002	1489009362315_517084	false	INSERT INTO paisDivision VALUES('mexico','13.012622','-119.500000','34.173595','-84.558333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00251080825	1489009362208_491042	false	INSERT INTO pais VALUES('176','bo','es','es','Bolivia','bo','http://www.meteored.com.bo/peticionMovil.php','0','brasil')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0029520178500000004	1489009362256_592750	false	INSERT INTO unidadesDefecto VALUES('28','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031381376500000005	1489009362205_732000	false	INSERT INTO pais VALUES('143','pa','es','es','Panama','pa','http://www.meteored.com.pa/peticionMovil.php','0','honduras')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0029693004000000004	1489009362221_415625	false	INSERT INTO pais VALUES('27','de','en','en','Rumania','ro','http://app.daswetter.com/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024873744000000002	1489009362282_449417	false	INSERT INTO unidadesDefecto VALUES('71','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0041289486000000005	1489009362161_860416	false	CREATE TABLE pais (codigoPais INTEGER PRIMARY KEY ON CONFLICT REPLACE, site TEXT, idiomaPRI TEXT, idiomaALT TEXT, nombre TEXT,codigoISO TEXT,peticionMovil TEXT, alertas INTEGER,localizaciones TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025127916500000003	1489009362214_447083	false	INSERT INTO pais VALUES('139','pe','es','es','Peru','pe','http://www.meteored.pe/peticionMovil.php','0','brasil')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025127916500000003	1489009362214_471583	false	INSERT INTO pais VALUES('73','py','es','es','Paraguay','py','http://www.meteored.com.py/peticionMovil.php','0','brasil')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024651096	1489009362243_454542	false	INSERT INTO unidadesDefecto VALUES('67','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024675530000000004	1489009362193_521209	false	INSERT INTO pais VALUES('135','fr','fr','fr','francia','fr','http://app.tameteo.com/peticionMovil.php','2','francia,europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00309135315	1489009362264_618000	false	INSERT INTO unidadesDefecto VALUES('151','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024660085000000006	1489009362278_514209	false	INSERT INTO unidadesDefecto VALUES('25','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026413463000000002	1489009362239_468541	false	INSERT INTO unidadesDefecto VALUES('19','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025189568000000004	1489009362229_409167	false	INSERT INTO pais VALUES('47','at','en','en','hungria','hu','http://www.daswetter.at/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024677715	1489009362250_436500	false	INSERT INTO unidadesDefecto VALUES('143','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024747769	1489009362247_479292	false	INSERT INTO unidadesDefecto VALUES('165','0','0','0','0','3')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0028638556500000002	1489009362218_482000	false	INSERT INTO pais VALUES('99','en','en','en','finland','fi','http://app.yourweather.co.uk/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00256113445	1489009362337_334875	false	INSERT INTO radares VALUES ('21','nederl','Nederland')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030970079	1489009362255_559833	false	INSERT INTO unidadesDefecto VALUES('164','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00347062725	1489009362194_687000	false	INSERT INTO pais VALUES('19','de','de','de','alemania','de','http://app.daswetter.com/peticionMovil.php','2','alemania,europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00315605645	1489009362162_760375	false	CREATE TABLE paisDivision (codigo TEXT,latIzqInf REAL,longIZqInf REAL, latDerSup REAL,longDerSup REAL)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004323442500000001	1489009362307_560000	false	INSERT INTO paisDivision VALUES('espana','34.736876','-13.000000','44.445869','5.968333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0034354872	1489009362326_467167	false	INSERT INTO paisDivision VALUES('india','5.431602','54.000000','36.045791','103.916667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024720341	1489009362176_445375	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('4','Velocidad','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030680310000000006	1489009362236_463833	false	INSERT INTO pais VALUES('8','fr','fr','fr','marruecos','ma','http://app.tameteo.com/peticionMovil.php','0','marruecos,africa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024564485500000004	1489009362260_583709	false	INSERT INTO unidadesDefecto VALUES('97','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025291376000000005	1489009362231_559458	false	INSERT INTO pais VALUES('183','hn','es','es','nicaragua','ni','http://app.meteored.hn/peticionMovil.php','0','america_central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030496552500000004	1489009362332_586167	false	INSERT INTO radares VALUES ('18','espana,LECO,LEAM,LEAS,LEBL,LEBZ,GCLA,LEMG,LEMD,LEPA,LERI,LEBG,LEZL,LEVC,LEBB,LEZG','España,A Coruña,Almería,Asturias,Barcelona,Cáceres,Las Palmas,Málaga,Madrid,Mallorca,Murcia,Palencia,Sevilla,Valencia,Vizcaya,Zaragoza')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00193893505	1489009362321_384375	false	INSERT INTO paisDivision VALUES('siberia_oriental','40.464864','100.000000','73.550567','-160.166667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024810761	1489009362187_404417	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('26','Aviso Dia Anterior','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026428235500000003	1489009362242_453333	false	INSERT INTO unidadesDefecto VALUES('196','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0043960546	1489009362283_1089292	false	INSERT INTO unidadesDefecto VALUES('47','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0021019416999999998	1489009362340_354000	false	INSERT INTO radares VALUES ('25','belgi','Belgique')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025690978	1489009362226_438875	false	INSERT INTO pais VALUES('96','hn','es','es','elsalvador','sv','http://app.meteored.hn/peticionMovil.php','0','america_central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00322282085	1489009362281_633459	false	INSERT INTO unidadesDefecto VALUES('132','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024661954500000004	1489009362189_411083	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('28','Contador Valoracion Restantes','15')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026253161499999998	1489009362323_518833	false	INSERT INTO paisDivision VALUES('oceania','-47.804751','81.750000','19.836363','-165.937500')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024685859500000002	1489009362190_405666	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('29','Num Run','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009781019049999999	1489009362150_2441917	false	CREATE TABLE localidades (id INTEGER PRIMARY KEY ON CONFLICT REPLACE, nombre TEXT, provincia TEXT, alertas INTEGER, url TEXT, fija INTEGER, seleccionada INTEGER, creacion BIGINT, longitud REAL NOT NULL DEFAULT 0.0, latitud REAL NOT NULL DEFAULT 0.0,buscada INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00287511455	1489009362324_452375	false	INSERT INTO paisDivision VALUES('colombia','-8.525576','-95.000000','23.962084','-45.083333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025924789	1489009362295_573833	false	INSERT INTO paisDivision VALUES('azores','36.527104','-31.850000','40.429820','-24.362500')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0023277606000000005	1489009362203_399667	false	INSERT INTO pais VALUES('122','ru','ru','ru','rusia2','ru','http://app.pogoda.com/peticionMovil.php','0','rusia2,siberia_occidental,siberia_oriental')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024704326000000005	1489009362275_488333	false	INSERT INTO unidadesDefecto VALUES('198','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.04016650325	1489009362775_12056125	false	CREATE TABLE IF NOT EXISTS hits2 ( 'hit_id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, 'hit_time' INTEGER NOT NULL, 'hit_url' TEXT NOT NULL, 'hit_string' TEXT NOT NULL, 'hit_app_id' INTEGER);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024868068500000003	1489009362191_407958	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('31','Asistente Live','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0023116921500000004	1489009362201_391125	false	INSERT INTO pais VALUES('166','hn','es','es','honduras','hn','http://app.meteored.hn/peticionMovil.php','0','honduras')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030969058	1489009362202_420458	false	INSERT INTO pais VALUES('165','ca','en','en','canada','ca','http://app.theweather.net/peticionMovil.php','0','canada')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0021232313	1489009362338_337375	false	INSERT INTO radares VALUES ('19','deutsc,de_ne,de_nw,de_e,de_w,de_se,de_sw,de_ce','Deutschland,Nordosten,Nordwesten,Osten,Westen,Südosten,Südwesten,Central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024641323	1489009362245_435375	false	INSERT INTO unidadesDefecto VALUES('155','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00251004795	1489009362209_426542	false	INSERT INTO pais VALUES('164','at','de','de','austria','at','http://www.daswetter.at/peticionMovil.php','2','austria')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024838717500000004	1489009362204_477750	false	INSERT INTO pais VALUES('21','nl','nl','nl','paises_bajos','nl','http://app.tameteo.nl/peticionMovil.php','2','paises_bajos,europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031351792000000006	1489009362164_769583	false	CREATE TABLE radares(id INTEGER PRIMARY KEY,codigoRadar TEXT,nombre TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031299806000000003	1489009362184_446125	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('19','Mostrar reminder','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0033730294	1489009362261_639750	false	INSERT INTO unidadesDefecto VALUES('139','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00371327855	1489009362171_942458	false	CREATE TABLE avisoProximasHoras(id INTEGER PRIMARY KEY, antelacion INTEGER, simbolos TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0044125942500000005	1489009362336_445667	false	INSERT INTO radares VALUES ('58','usa,us_pnw,us_nrs,us_umv,us_cgl,us_ne,us_se,us_smv,us_sps,us_srs,us_psw,us_hwi,us_aka','USA National,Pacific Northwest,Northern Rockies,Upper Mississippi Valley,Central Great Lakes,Northeast,Southeast,South Mississippi Valley,Southern Plains,Southern Rockies,Pacific Southwest,Hawaii,Alaska')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0027774821000000004	1489009362222_455125	false	INSERT INTO pais VALUES('198','de','de','de','Dinamarca','dk','http://app.daswetter.com/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031437371	1489009362185_405417	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('23','hora de alerta','9')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025118655500000002	1489009362196_411333	false	INSERT INTO pais VALUES('20','it','it','it','italia','it','http://app.ilmeteo.net/peticionMovil.php','2','italia,europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00184858835	1489009362188_393542	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('27','Aviso Proximas Horas','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00271758545	1489009362312_534417	false	INSERT INTO paisDivision VALUES('portugal','36.665787','-13.625000','42.428820','-2.393750')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024659519500000006	1489009362292_574583	false	INSERT INTO unidadesDefecto VALUES('17','0','1','0','0','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031391462	1489009362228_794792	false	INSERT INTO pais VALUES('71','hn','es','es','guatemala','gt','http://app.meteored.hn/peticionMovil.php','0','america_central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00308719825	1489009362267_612584	false	INSERT INTO unidadesDefecto VALUES('99','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024646745000000006	1489009362285_559584	false	INSERT INTO unidadesDefecto VALUES('146','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024720076000000002	1489009362177_458166	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('9','Pais','999')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0021232313	1489009362338_363959	false	INSERT INTO radares VALUES ('9','in_agt,in_bhp,in_chn,in_dlh,in_hyd,in_jpr,in_kol,in_lkn,in_mpt,in_mbr,in_mum,in_ngp,in_ptl,in_ptn,in_srn,in_vsk','Agartala,Bhopal,Chennai,Delhi,Hyderabad,Jaipur,Kolkata,Lucknow,Machilipatnam,Mohanbari,Mumbai,Nagpur,Patiala,Patna,Srinagar,Visakhapatnam')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024619324	1489009362259_594792	false	INSERT INTO unidadesDefecto VALUES('114','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0018929813500000003	1489009362196_397708	false	INSERT INTO pais VALUES('182','pt','pt','pt','portugal','pt','http://app.tempo.pt/peticionMovil.php','2','portugal,azores,madeira')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025214027	1489009362227_438375	false	INSERT INTO pais VALUES('132','at','en','en','eslovaquia','sk','http://www.daswetter.at/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0031321899499999997	1489009362263_709625	false	INSERT INTO unidadesDefecto VALUES('73','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0032201570000000004	1489009362294_602167	false	INSERT INTO paisDivision VALUES('alaska','50.399681','171.000000','71.845355','-119.116667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0032067335999999996	1489009362318_610667	false	INSERT INTO paisDivision VALUES('canada','40.464864','-146.000000','73.550567','-46.166667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025215360000000004	1489009362211_451792	false	INSERT INTO pais VALUES('115','ec','es','es','Ecuador','ec','http://www.meteored.com.ec/peticionMovil.php','0','colombia')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024815370000000002	1489009362182_402750	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('17','Presion','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0076356313	1489009362252_1893583	false	INSERT INTO unidadesDefecto VALUES('176','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024879721000000002	1489009362175_510500	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('2','Idioma','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025254676	1489009362217_411667	false	INSERT INTO pais VALUES('116','mx','es','es','colombia','co','http://app.meteored.mx/peticionMovil.php','0','colombia')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00375851215	1489009362291_627375	false	INSERT INTO unidadesDefecto VALUES('137','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025244458500000002	1489009362212_415292	false	INSERT INTO pais VALUES('114','cr','es','es','CostaRica','cr','http://www.meteored.cr/peticionMovil.php','0','america_central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0037014383000000006	1489009362257_834458	false	INSERT INTO unidadesDefecto VALUES('36','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0032974209500000002	1489009362330_620583	false	INSERT INTO paisDivision VALUES('nueva_zelanda','-52.445669','153.250000 ','-31.783658','-164.320833')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026461351500000002	1489009362334_523375	false	INSERT INTO radares VALUES ('135','france','France')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00361264885	1489009362300_701667	false	INSERT INTO paisDivision VALUES('europa','26.939821','-45.500000','71.652381','69.308333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0037046981499999996	1489009362159_852375	false	CREATE UNIQUE INDEX IF NOT EXISTS localidad_dia_hora ON horas (localidad, dia, hora_unix)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00424660855	1489009362166_786667	false	CREATE TABLE widgets (id INTEGER PRIMARY KEY ON CONFLICT REPLACE, localidad INTEGER , tipo_widget INTEGER,color_fondo INTEGER,color_fuente INTEGER, icono INTEGER, live INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00251845985	1489009362232_585167	false	INSERT INTO pais VALUES('13','en','en','en','noruega','no','http://app.yourweather.co.uk/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0029245136	1489009362271_558791	false	INSERT INTO unidadesDefecto VALUES('120','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030680310000000006	1489009362236_498166	false	INSERT INTO pais VALUES('17','ru','ru','ru','kazajistan','kz','http://app.pogoda.com/peticionMovil.php','0','kazajistan')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00260618595	1489009362210_424542	false	INSERT INTO pais VALUES('36','eu','en','en','nueva_zelanda','nz','http://app.theweather.com/peticionMovil.php','0','nueva_zelanda')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00252259275	1489009362213_439917	false	INSERT INTO pais VALUES('97','do','es','es','DominicanRepublic','do','http://www.meteored.do/peticionMovil.php','0','america_central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00405835685	1489009362296_918792	false	INSERT INTO paisDivision VALUES('canarias','26.236508','-19.400000','30.334312','-12.411667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005007611100000001	1489009362299_909709	false	INSERT INTO paisDivision VALUES('madeira','31.717829','-18.550000','33.676335','-15.055833')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024685859500000002	1489009362190_426292	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('30','Localidad del asistente','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00247727455	1489009362301_511709	false	INSERT INTO paisDivision VALUES('africa','-38.252241','-43.500000','38.415660','81.291667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002736030100000001	1489009362224_402750	false	INSERT INTO pais VALUES('15','eu','en','en','bahamas','bs','http://app.theweather.com/peticionMovil.php','0','america_central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0019416355500000001	1489009362225_395750	false	INSERT INTO pais VALUES('25','fr','fr','fr','belgica','be','http://app.tameteo.com/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005037575400000001	1489009362320_416792	false	INSERT INTO paisDivision VALUES('siberia_occidental','46.841709','40.000000','75.873399','139.833333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00247491255	1489009362181_457875	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('15','Vibracion alertas','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.02321015955	1489009362303_3680000	false	INSERT INTO paisDivision VALUES('america_sur','-56.894532','-121.500000','13.481882','3.291667')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0032914249	1489009362329_624875	false	INSERT INTO paisDivision VALUES('marruecos','18.636861','-19.250000 ','37.564752','13.195833')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024626680000000003	1489009362277_516958	false	INSERT INTO unidadesDefecto VALUES('15','1','2','1','1','2')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00319600525	1489009362313_601833	false	INSERT INTO paisDivision VALUES('argentina','-56.582940','-104.000000','-15.554184','-24.133333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004257135600000001	1489009362327_666417	false	INSERT INTO paisDivision VALUES('hawaii','18.254330','-161.250000 ','22.921639','-153.762500')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024659520500000002	1489009362276_549667	false	INSERT INTO unidadesDefecto VALUES('199','1','2','1','1','2')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030963219000000003	1489009362279_636584	false	INSERT INTO unidadesDefecto VALUES('203','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0019416355500000001	1489009362225_394667	false	INSERT INTO pais VALUES('203','eu','es','es','cuba','cu','http://app.theweather.com/peticionMovil.php','0','america_central')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025148244000000003	1489009362251_572583	false	INSERT INTO unidadesDefecto VALUES('154','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0035353224	1489009362302_472709	false	INSERT INTO paisDivision VALUES('asia','4.682450','18.500000','76.214853','-166.791666')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024671479999999997	1489009362244_440833	false	INSERT INTO unidadesDefecto VALUES('82','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025124111	1489009362216_510542	false	INSERT INTO pais VALUES('151','ve','es','es','Venezuela','ve','http://www.meteored.com.ve/peticionMovil.php','0','colombia')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025254676	1489009362217_433458	false	INSERT INTO pais VALUES('9','eu','hi','en','india','hi','http://app.theweather.com/peticionMovil.php','0','india')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025080647	1489009362174_531375	false	INSERT INTO avisoProximasHoras (id, antelacion, simbolos) VALUES ('0','4','11,12,13,14,15,16')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024720341	1489009362176_465792	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('3','Temperatura','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0029693004000000004	1489009362221_410458	false	INSERT INTO pais VALUES('120','de','en','en','RCheca','cz','http://app.daswetter.com/peticionMovil.php','0','alemania')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0018576301500000001	1489009362181_391584	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('14','Sonido alertas','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00250252755	1489009362235_489292	false	INSERT INTO pais VALUES('137','fr','de','de','suiza','ch','http://app.tameteo.com/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00187194	1489009362197_396875	false	INSERT INTO pais VALUES('196','cl','es','es','Chile','cl','http://app.meteored.cl/peticionMovil.php','0','argentina')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024711111	1489009362246_491917	false	INSERT INTO unidadesDefecto VALUES('58','1','2','1','1','2')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024740158500000005	1489009362180_450291	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('13','Notificacion alertas','1')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0030807902	1489009362268_620208	false	INSERT INTO unidadesDefecto VALUES('209','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00476361065	1489009362293_662208	false	INSERT INTO unidadesDefecto VALUES('8','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024747769	1489009362247_444291	false	INSERT INTO unidadesDefecto VALUES('166','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025799938000000003	1489009362311_536208	false	INSERT INTO paisDivision VALUES('italia','35.324323','0.000000','47.709914','24.958333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0029356970000000006	1489009362200_403041	false	INSERT INTO pais VALUES('58','eu','en','en','eeuu','us','http://app.theweather.com/peticionMovil.php','1','eeuu,alaska,hawaii')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00310506535	1489009362270_607125	false	INSERT INTO unidadesDefecto VALUES('83','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0019967464000000003	1489009362186_390291	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('24','tiempo refresco live','60')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0041979515	1489009362156_874125	false	CREATE UNIQUE INDEX IF NOT EXISTS localidad_dia ON dias (localidad, fecha_unix)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024885933000000004	1489009362288_600000	false	INSERT INTO unidadesDefecto VALUES('106','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025680824000000003	1489009362314_546000	false	INSERT INTO paisDivision VALUES('brasil','-34.447597','-87.500000','6.478475','-22.608333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00251004795	1489009362209_433000	false	INSERT INTO pais VALUES('28','eu','en','en','Australia','au','http://app.theweather.com/peticionMovil.php','0','oceania')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0036990774499999993	1489009362158_987958	false	CREATE TABLE horas (localidad INTEGER, dia BIGINT, hora_unix BIGINT, temperatura REAL, velocidad_viento INTEGER, rachas INTEGER, direccion_viento TEXT, simbolo_viento INTEGER, humedad INTEGER, cota_nieve INTEGER, lluvia REAL, presion INTEGER, simbolo INTEGER, nubosidad INTEGER, niebla INTEGER, sensacion REAL, lluvia_dia REAL,uvDespejado REAL, procio INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.002508445	1489009362233_539500	false	INSERT INTO pais VALUES('106','de','en','en','polonia','pl','http://app.daswetter.com/peticionMovil.php','0','europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025196342000000007	1489009362195_441875	false	INSERT INTO pais VALUES('48','en','en','en','inglaterra','uk','http://app.yourweather.co.uk/peticionMovil.php','2','inglaterra,europa')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00307571355	1489009362258_683292	false	INSERT INTO unidadesDefecto VALUES('115','0','0','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0044285788	1489009362319_479958	false	INSERT INTO paisDivision VALUES('rusia2','39.745554','12.500000','70.161149','97.358333')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026316920000000006	1489009362331_537292	false	INSERT INTO paisDivision VALUES('kazajistan','33.983624','43.250000 ','55.922021','90.670833')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0038627302	1489009362290_691125	false	INSERT INTO unidadesDefecto VALUES('140','0','1','0','0','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0033513165	1489009362336_357458	false	INSERT INTO radares VALUES ('165','canada,ca_atl,ca_ont,ca_pyr,ca_pnr,ca_que','Canada,Atlantic,Ontario,Pacific,Prairies,Quebec')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0029813580499999997	1489009362183_494917	false	INSERT INTO configuracion (id, nombre, valor) VALUES ('18','Mostrar temperatura barra','0')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0027360428500000007	1489009362322_508125	false	INSERT INTO paisDivision VALUES('austria','45.444569','9.000000','49.487746','17.985000')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0029356970000000006	1489009362200_456958	false	INSERT INTO pais VALUES('155','mx','es','es','mexico','mx','http://app.meteored.mx/peticionMovil.php','0','mexico')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00260339145	1489009362316_566083	false	INSERT INTO paisDivision VALUES('eeuu','21.957419','-126.000000','52.810713','-66.100000')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0026927883000000003	1489009362317_463209	false	INSERT INTO paisDivision VALUES('honduras','6.465897','-95.000000','19.398099','-75.033333')
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0030745729500000003	1489009362773_723917	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.007230538	1489009361588_1454916	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0026962629000000004	1489009362788_578292	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00363413195	1489009380980_664500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.003926047849999999	1489009439694_655292	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0030966271499999996	1489009362805_407041	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0016054368	1489009502503_551583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0011687648500000002	1489009404119_561459	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0038781159500000002	1489009439688_694917	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00183943795	1489009463334_422833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0011805223500000002	1489009439680_531334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00396233325	1489009362808_452958	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00170701155	1489009463341_541125	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00276488815	1489009510292_340708	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0015174164	1489009444470_632375	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0032566438500000005	1489009502498_1216333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	8.823981500000001E-4	1489009444474_384833	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014724997000000002	1489009502511_542375	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00419163475	1489009439920_861458	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.2074E-4	1489009444462_366333	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0015561603500000001	1489009502507_595583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	8.724798000000001E-4	1489009444473_367708	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00324517885	1489009362871_657125	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0031017482	1489009439691_458750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	9.8829325E-4	1489009444460_383292	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00523413155	1489009381348_596167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0015801945499999998	1489009502501_587708	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.2421248327999999	1489009361550_50413666	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0029751713	1489009380972_616917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0018057597	1489009502513_753583	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0019524504	1489009362814_336750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00130036065	1489009502582_781333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0015946253000000004	1489009404117_463000	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0019703195	1489009439685_493625	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0028788952000000003	1489009510286_393417	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027225372750000008	1489009463328_2107792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	7.5471815E-4	1489009404104_541667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0036915995500000002	1489009362810_349959	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0020811783	1489009404404_1021625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0042682348	1489009444455_1971667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0025552934	1489009404109_486292	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.17466000114999986	1489009362739_59492584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0023947783500000005	1489009361602_302958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0028352768500000004	1489009510288_324208	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0032998910500000003	1489009380983_702542	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027915147499999998	1489009463569_1557416	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027668489000000004	1489009510279_549667	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0017693199000000002	1489009463339_415750	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0017544272	1489009463337_580500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0027750898	1489009510290_362292	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0028354275000000003	1489009362812_365250	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0018488317000000002	1489009362806_326500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.7669497757000004	1489009362133_219504167	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0028940901000000007	1489009380985_516500	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0033854319000000003	1489009404114_911834	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.00267223805	1489009362801_530458	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.00369339115	1489009361603_424375	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0029957769	1489009403668_988416	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026721137	1489009403821_715084	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00235587355	1489009403756_738542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00600777815	1489009379984_708333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0032547994000000006	1489009403682_1011208	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005995157649999999	1489009379986_676084	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020280586499999997	1489009403846_517209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00570229925	1489009379969_733625	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006600059500000001	1489009379922_641292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00433844775	1489009380081_462500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004153102800000001	1489009403677_801750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00222490625	1489009403724_716459	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.012146557399999999	1489009467182_4608792	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005557111	1489009379960_669083	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00343219825	1489009403803_1197791	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0046564157	1489009379929_653042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006115983250000001	1489009379992_767209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00192898585	1489009403711_667041	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014736810000000003	1489009403768_767291	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021658521	1489009403786_765125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.008118359549999999	1489009379939_677416	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0029551105999999997	1489009403689_854833	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007708512250000001	1489009380064_967625	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0032107266499999997	1489009403661_806542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004996913750000001	1489009379949_677417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0028377684	1489009403743_917250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00989819785	1489009380023_940250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017051466000000003	1489009403716_701417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006475416500000001	1489009403653_907458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0027820364000000005	1489009403738_802416	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0087172388	1489009380018_1018125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018106551	1489009403816_665458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00258074255	1489009403824_691792	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.01500515445	1489009379895_1858458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00212122065	1489009403714_689500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0024396129	1489009403792_727625	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014383846500000002	1489009403765_589625	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017364093	1489009403752_565958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0024471549000000003	1489009403810_687083	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0024239674999999997	1489009403741_775458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00559886925	1489009379934_649375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.009807865200000002	1489009380043_866209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0025275410000000003	1489009403822_751209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007424098200000001	1489009380039_728209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0028632908499999997	1489009403753_849584	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00206506705	1489009403784_915333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0074064493	1489009379943_827500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006905962199999999	1489009379989_701542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0023130560000000004	1489009403750_727750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026599689000000003	1489009403806_709917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005011266599999999	1489009380087_460666	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005973140350000001	1489009379982_737500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0044766162	1489009380082_477708	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020975538500000003	1489009403831_729208	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004968651300000001	1489009403656_803833	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0070384878500000005	1489009379923_701834	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0065015946000000005	1489009379932_640458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0049215555999999995	1489009379967_749416	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0019783670000000004	1489009403707_801917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004603721450000001	1489009379935_677334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00825650785	1489009380054_866708	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006498980500000001	1489009379921_690750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020920023000000005	1489009403700_687333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.003330499950000001	1489009380085_453750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.001712413	1489009403708_707125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0069885753	1489009380026_917500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00234186235	1489009403746_762458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026945289	1489009403698_1154667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00252982495	1489009403843_638375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.008608549850000001	1489009380006_841334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006126540450000001	1489009380014_839916	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017880747500000002	1489009403715_775083	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021693756999999997	1489009403781_825791	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00562356705	1489009403671_846333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.008471762600000002	1489009379910_802042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0032166131999999997	1489009403789_849584	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006013605	1489009380072_456458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026474083000000005	1489009403813_777125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021991123499999995	1489009403722_791917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0023257586500000007	1489009403797_807500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0044650448500000006	1489009380079_509667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021515692000000004	1489009403710_730667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0068111431	1489009380063_777167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00202193355	1489009403666_855959	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020011670000000003	1489009403733_803916	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0022288173000000007	1489009403730_923417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0064903129499999995	1489009403658_1245375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0031973531	1489009403805_887542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00785328805	1489009380036_807958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005124803700000001	1489009380089_471875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00201855475	1489009403712_728083	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0025504527000000006	1489009403694_784542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0076893383	1489009379957_689375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004519303150000001	1489009379962_676250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006844195400000001	1489009379945_668041	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0014998584	1489009403766_687042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00742807405	1489009380044_712417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00646751425	1489009379988_735917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00216880095	1489009403841_567458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006013605	1489009380072_463542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00239918795	1489009403776_702208	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0013753007500000001	1489009403853_534709	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.008428017700000002	1489009379905_887292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0031834036000000002	1489009403839_974167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004160317100000001	1489009380084_453916	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00443792685	1489009379964_747292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0073567250000000015	1489009379953_771417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0027950771000000004	1489009403695_864667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005451123850000001	1489009379979_756167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020647586	1489009403736_697333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0106993972	1489009380058_892917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005139637650000001	1489009380068_560208	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0065353406	1489009380074_440125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0025206489	1489009403718_833666	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0079602865	1489009380042_721917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018391027000000002	1489009403783_880375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017845261	1489009403749_740875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00679596795	1489009379904_784167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007055787799999999	1489009380046_729083	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007732400699999999	1489009380033_843958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00207687815	1489009403747_800000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00299659125	1489009403778_890541	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007080819250000001	1489009380016_936709	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016315556499999996	1489009403835_678292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00300184085	1489009403795_866542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0027463482999999997	1489009403837_676500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026706035000000003	1489009403692_830875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00266732725	1489009403647_1340042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00260391485	1489009403780_857583	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00753052795	1489009380021_783208	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.009530927300000002	1489009380060_830791	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00125248705	1489009403849_565042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00484202255	1489009403675_889583	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0029300628500000007	1489009403763_1219542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00197162625	1489009403727_753542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004668218800000001	1489009379961_645958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00208849105	1489009403832_635792	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00201277205	1489009403762_715334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0022867202	1489009403757_747292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0024693840500000005	1489009403772_787458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0055209507	1489009403654_909333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005972167150000001	1489009379915_822333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00477835595	1489009380083_554417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00263150555	1489009403808_795583	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.012966721300000003	1489009380142_3234958	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021944726	1489009403845_546417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0028772093	1489009403687_826542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005276675150000001	1489009380067_463875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0023953883	1489009403744_779416	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00184481815	1489009403848_605542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006656449399999999	1489009380049_727125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0065316072	1489009379930_675292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00240793975	1489009403771_693042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00714591785	1489009379918_943958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0078702851	1489009379940_648959	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0019355943999999998	1489009403697_787458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0071998109	1489009379925_660583	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00252031325	1489009403725_735875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00873278175	1489009403889_3285458	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006576791800000001	1489009380052_755291	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0036099469	1489009403828_1085667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004191776350000001	1489009380069_477792	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0051699947000000005	1489009379968_782167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0043295808500000005	1489009380080_542625	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.01028415885	1489009380055_1022125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006852890650000001	1489009379978_1013125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00835536835	1489009380007_842500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.010117232800000004	1489009380024_901250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0032230123000000005	1489009403737_818959	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017761245	1489009403702_640458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020141086000000003	1489009403814_696542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0059983973000000005	1489009380001_899958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006262008	1489009379916_836625	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00707989475	1489009379990_686417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00677575175	1489009403641_1427625	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00313658195	1489009403787_808334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0058264427	1489009380031_856708	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006392407750000001	1489009379944_698458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0028196258	1489009403705_1083541	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00496192365	1489009379985_702125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006332158900000001	1489009380090_459875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.009590243949999999	1489009379907_882334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006510404800000001	1489009379941_641917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007476111800000002	1489009380028_1205792	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0021255819499999998	1489009403760_790250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00693834065	1489009403670_956500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026736905500000002	1489009403826_735542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0023319189000000004	1489009403854_430334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00526605855	1489009380070_502042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0033992397499999997	1489009403649_1054208	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00679329315	1489009380009_967625	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0027193185	1489009403681_796000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0024600831500000003	1489009403740_728209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0044941009	1489009379976_771209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006423893400000001	1489009379931_637875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0035168809000000003	1489009403664_1008708	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0015372618000000003	1489009403701_674167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0076126641	1489009379926_644875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.011153398100000001	1489009379900_1556875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00405368065	1489009403660_872375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004894196600000001	1489009379997_678792	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00751476055	1489009379909_789709	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018885188000000003	1489009403801_763041	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00210377795	1489009403728_876875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.001868049	1489009403731_769458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00320436675	1489009380086_429167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00722884415	1489009379972_678250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0018313706500000001	1489009403847_529167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0066236920000000005	1489009379920_653959	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.008374674050000001	1489009380040_780750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0081345868	1489009380050_816708	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026980697500000005	1489009403690_812209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00712815715	1489009379936_671000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006826185100000001	1489009379959_649250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0076932141999999995	1489009379971_699125	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007644904450000002	1489009379913_851667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0024524796500000005	1489009403719_721500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006167785300000001	1489009379952_711209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007988380150000002	1489009380057_751042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0030877529000000003	1489009403775_864250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0012233401	1489009403850_515500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.015459756850000003	1489009380003_2077833	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0029077142	1489009403686_833458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017263400000000003	1489009403817_720375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005162688100000001	1489009380000_720958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0075170713	1489009380061_613458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0049305143	1489009380077_454792	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00813935345	1489009379938_691416	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0025204859	1489009403820_694292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020092834499999997	1489009403844_540541	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0091059873	1489009379889_1182000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0046851594	1489009380078_523292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017872265000000002	1489009403704_735208	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00157598515	1489009403851_609250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006600422349999999	1489009403673_1246916	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0031784796000000003	1489009403790_870542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0044766162	1489009380082_447750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0070579435	1489009380047_754209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00208599815	1489009403842_549958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.008495773	1489009379956_678750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0029237911499999996	1489009403794_802750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005563041050000001	1489009380076_444709	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005002131400000001	1489009380088_556458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017290861	1489009403734_744000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004217950300000001	1489009380091_454583	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0025843682999999998	1489009403825_676667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026231870000000003	1489009403829_743667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0025379307500000008	1489009403684_802333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0022269979000000004	1489009403800_848542	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026658597000000003	1489009403812_695000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0016951727500000003	1489009403836_659250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004217950300000001	1489009380091_462000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006432235300000001	1489009379902_798334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0038855908499999996	1489009403651_819333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0017952168000000001	1489009403818_681208	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0073731104000000006	1489009380037_795959	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026569226	1489009403663_981333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0053159746	1489009380066_539666	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005497624800000001	1489009380075_440666	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005553139549999999	1489009379999_678250	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0028188214500000004	1489009403759_824333	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0069393077	1489009379947_680709	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007749145900000002	1489009379973_967750	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0019693224500000003	1489009403769_795667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0026849562500000004	1489009403809_726000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006608947050000001	1489009379927_696417	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007409479300000001	1489009379912_773000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.007314525700000001	1489009379955_667334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005660378300000001	1489009379951_736500	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00526605855	1489009380070_439458	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.005742544200000001	1489009380011_855042	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0069413844	1489009380073_514917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0052758496	1489009379995_698209	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.009170345549999999	1489009380020_908334	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0024804046	1489009403773_688917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0027062065000000002	1489009403798_1018917	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0069306415	1489009379948_733667	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00683113605	1489009379993_855083	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.004427778050000001	1489009379965_756084	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0052559118	1489009379975_681958	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0045125287	1489009379996_751875	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00226472025	1489009403721_798375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00411844465	1489009403679_1043375	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00238474445	1489009403754_739000	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.0020592	1489009403833_759292	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.00613833215	1489009380012_920167	true	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.006524203250000001	1489009379981_708583	true	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.01679380125	1489009361498_2139125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0031463283000000004	1489009362132_579791	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0023231239	1489009362699_398583	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0055171790000000005	1489009361547_534083	false	null

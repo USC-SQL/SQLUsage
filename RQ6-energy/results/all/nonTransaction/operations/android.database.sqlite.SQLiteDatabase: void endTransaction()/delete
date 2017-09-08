@@ -1,0 +1,3 @@
+delete	0.05892391275	0.05892391275	0.05892391275	0.05892391275	24569500	1	24569500	24569500
+
+0.05892391275	24569500	2.398254451657543	delete from bilog where (select count(*) from bilog) > 9999 and _id in (select _id from bilog order by _id asc limit 100)

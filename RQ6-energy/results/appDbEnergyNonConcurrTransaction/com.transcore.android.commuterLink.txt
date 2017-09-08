@@ -1,0 +1,10 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.24846240545	1489181599514_81745375	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0018882556000000001	1489181599685_663083	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0073792738500000005	1489181599681_3556125	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00334012405	1489181599597_1054125	false	SELECT COUNT(*) FROM Tweet
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.020911667050000003	1489181599507_3864042	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0016265593500000002	1489181599686_410458	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00453065225	1489181599600_938167	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01498711545	1489181599575_4755917	false	CREATE TABLE Tweet (_id INTEGER PRIMARY KEY AUTOINCREMENT, tweet_created_timestamp INTEGER, tweet_id INTEGER, tweet_text TEXT, user_id INTEGER, user_name TEXT, user_screen_name TEXT, user_profile_image_url TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0025921503	1489181599583_756833	false	CREATE INDEX tweet_id_index ON Tweet (tweet_id)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0037808175	1489181599581_824250	false	CREATE INDEX tweet_created_date_index ON Tweet (tweet_created_timestamp DESC, tweet_id DESC)

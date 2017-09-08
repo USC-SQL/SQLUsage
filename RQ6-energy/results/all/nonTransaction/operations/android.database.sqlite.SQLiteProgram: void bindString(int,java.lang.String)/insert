@@ -1,0 +1,6 @@
+insert	0.004983992499999999	0.00550811495	0.0054356002	0.006177266900000001	398792	4	630917	563042
+
+0.004983992499999999	398792	12.497724377620411	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)
+0.0053589275	529042	10.129493499570923	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)
+0.0055122729	732792	7.522288589395081	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)
+0.006177266900000001	563042	10.97123642641224	INSERT INTO `persistent_context` (`key` ,`value` ) VALUES (?,?)

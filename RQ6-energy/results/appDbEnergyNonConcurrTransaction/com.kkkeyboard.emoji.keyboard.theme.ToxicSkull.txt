@@ -1,0 +1,40 @@
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.0051039679500000015	1489617258870_972375	true	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.008063310300000001	1489617258803_2296084	true	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.034971028050000005	1489617258962_7163417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.031997126800000004	1489617258875_6594750	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0400848322	1489617258949_6927542	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.004201809799999999	1489617258865_742084	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.044112888850000004	1489617259342_8132584	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.33971718540000007	1489617258757_96495791	false	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.004969434500000002	1489617258788_923875	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.006017919000000001	1489617258867_1022833	true	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,android.database.DatabaseErrorHandler)	0.10044143344999999	1489617258759_27377500	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,android.database.DatabaseErrorHandler)	0.0216304732	1489617258876_4271209	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,android.database.DatabaseErrorHandler)	0.0281161859	1489617259344_5049583	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,android.database.DatabaseErrorHandler)	0.023900716500000002	1489617258963_4784500	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openOrCreateDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,android.database.DatabaseErrorHandler)	0.02710694	1489617258950_4412750	false	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0045940184	1489617258800_1060750	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0042932415	1489617258854_852125	false	select count(*) as c from sqlite_master where type ='table' and name ='aggregated'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0074094876	1489617258956_1139041	false	select * from aggregated
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.005309751550000002	1489617258882_934750	false	select * from limitedck
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00591203935	1489617259351_1074625	false	select * from system
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.004608995450000001	1489617259374_901750	false	select * from limitedck
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00505067235	1489617258857_1128375	false	select count(*) as c from sqlite_master where type ='table' and name ='aggregated_cache'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0062819978	1489617259363_1578834	false	select * from aggregated
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0051662398500000005	1489617258868_850333	true	select * from aggregated_cache
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0046043776	1489617258860_851833	false	select count(*) as c from sqlite_master where type ='table' and name ='system'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00451940495	1489617258862_998459	false	select count(*) as c from sqlite_master where type ='table' and name ='limitedck'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.013892754700000001	1489617258970_2371750	false	select * from system
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00951234675	1489617258753_2082000	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0053705276	1489617258885_987792	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.007066815350000001	1489617258979_1247583	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0024679959000000005	1489617259408_957542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.008614072499999998	1489617258959_1584292	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00634680935	1489617258873_1124125	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.005830886600000001	1489617258793_1284917	true	create table if not exists aggregated(Id INTEGER primary key autoincrement, key TEXT, totalTimestamp TEXT, value INTEGER, count INTEGER, label TEXT, timeWindowNum TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009846020350000003	1489617258796_2756708	true	create table if not exists limitedck(Id INTEGER primary key autoincrement, ck TEXT unique)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0134622889	1489617259370_3582875	false	delete from aggregated
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.08537046270000001	1489617259377_26662792	false	delete from limitedck
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.019255710500000005	1489617259358_4263750	false	delete from system
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0043590333499999995	1489617258794_895083	true	create table if not exists system(Id INTEGER primary key autoincrement, key TEXT, timeStamp INTEGER, count INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0098469434	1489617258789_2187292	true	create table if not exists aggregated_cache(Id INTEGER primary key autoincrement, key TEXT, totalTimestamp TEXT, value INTEGER, count INTEGER, label TEXT, timeWindowNum TEXT)

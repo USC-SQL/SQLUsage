@@ -1,0 +1,19 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.17887852560000014	1491117083406_58100834	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0041130606	1491117083445_457500	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.0010886712	1491117083453_498459	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.00231731065	1491117083441_415792	false	SELECT CHANGES()
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0034844859	1491117083465_569917	false	SELECT * FROM `device_table`
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00453838805	1491117083470_801417	false	SELECT * FROM `device_table`
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0064503805	1491117143196_709125	false	SELECT * FROM `device_table`
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00725055605	1491117131398_2035750	false	SELECT * FROM `device_table`
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0060982742	1491117147678_886250	false	SELECT * FROM `device_table`
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00559895775	1491117083352_1203125	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.3052595E-4	1491117083455_329959	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00198945905	1491117083447_335667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00191509675	1491117083443_305916	false	null
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	0.00312352655	1491117083446_352000	false	null
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	8.139696E-4	1491117083454_379583	false	null
+android.database.sqlite.SQLiteStatement: long simpleQueryForLong()	0.0018966157	1491117083442_322167	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00442168425	1491117083451_1034750	false	CREATE TABLE IF NOT EXISTS `socket_timetask_table` (`deviceid` BIGINT , `enable` INTEGER , `endhour` INTEGER , `endmin` INTEGER , `endok` INTEGER , `recycle` TINYINT , `starthour` INTEGER , `startmin` INTEGER , `startok` INTEGER , `taskId` INTEGER , PRIMARY KEY (`taskId`) )
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.0050432062	1491117083443_1155792	false	CREATE TABLE IF NOT EXISTS `device_table` (`deviceIcon` VARCHAR , `deviceName` VARCHAR , `serverIp` VARCHAR , `timeinfo` VARCHAR , `deviceId` BIGINT , `parentId` BIGINT , `serverPort` BIGINT , `deviceType` INTEGER , `onoff` INTEGER , `settime` INTEGER , `timeronoff` SMALLINT , PRIMARY KEY (`deviceId`) )
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String,java.lang.Object[])	0.00459199015	1491117083440_1224667	false	CREATE TABLE IF NOT EXISTS `server_item_table` (`ipaddress` VARCHAR , `port` INTEGER , `id` INTEGER PRIMARY KEY AUTOINCREMENT )

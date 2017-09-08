@@ -1,0 +1,10 @@
+insert	0.00326385315	0.004376937003125	0.004165202000000001	0.006833875550000001	409791	8	457291	469666
+
+0.00326385315	409791	7.964677481935913	INSERT INTO `persistent_context` (`key` ,`value` ) VALUES (?,?)
+0.0035860441999999997	543500	6.598057405703771	INSERT INTO `reporter_check_in` (`timestamp` ,`reason` ,`mobile_subscriber_id` ,`os_version` ,`status` ,`response_timestamp` ) VALUES (?,?,?,?,?,?)
+0.003925754375000002	453667	8.653383153282038	INSERT INTO `app_installation_event` (`plan_config_id` ,`app_version_id` ,`timestamp` ,`event_type` ) VALUES (?,?,?,?)
+0.0041203869	515583	7.991704342462804	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)
+0.004210017100000001	399000	10.551421303258147	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)
+0.004477514650000001	346375	12.926783543846987	INSERT INTO `app` (`display_name` ,`package_name` ,`is_launcher` ,`uid` ) VALUES (?,?,?,?)
+0.004598050100000001	413625	11.116470474463586	INSERT INTO `persistent_context` (`key` ,`value` ) VALUES (?,?)
+0.006833875550000001	469666	14.550500887864995	INSERT INTO `app_installation_event` (`plan_config_id` ,`app_version_id` ,`timestamp` ,`event_type` ) VALUES (?,?,?,?)

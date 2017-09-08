@@ -1,0 +1,5 @@
+insert	0.0021287805500000007	0.003442185866666667	0.00394458045	0.0042531966	592083	3	647625	381459
+
+0.0021287805500000007	592083	3.5954090051563727	INSERT INTO `persistent_context` (`key` ,`value` ) VALUES (?,?)
+0.00394458045	647625	6.090840301100175	INSERT INTO `app_version` (`app_id` ,`installer_localized_display_name` ,`installer_package` ,`locale` ,`localized_display_name` ,`market_type` ,`version_string` ) VALUES (?,?,?,?,?,?,?)
+0.0042531966	381459	11.149813217147845	INSERT INTO `app_installation_event` (`plan_config_id` ,`app_version_id` ,`timestamp` ,`event_type` ) VALUES (?,?,?,?)

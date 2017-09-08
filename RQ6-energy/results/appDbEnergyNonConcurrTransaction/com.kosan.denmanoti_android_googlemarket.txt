@@ -1,0 +1,22 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.010864231800000002	1489626044627_3857250	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.004998176	1489626044994_4166042	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.06934037699999998	1489626044566_37266208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006500930399999999	1489626044611_4512791	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0014036270000000002	1489626044634_512500	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	9.362621E-4	1489626044602_534000	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.0015786749499999999	1489626044630_441292	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	8.630357000000001E-4	1489626044997_450000	false	null
+android.database.sqlite.SQLiteOpenHelper: void onOpen(android.database.sqlite.SQLiteDatabase)	0.0011996290999999998	1489626044615_612792	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018337376500000002	1489626044631_783292	false	SELECT _rowid_, _data FROM weblog ORDER BY _rowid_ ASC LIMIT 50
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.009624104750000001	1489626043541_669791	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.017642726799999998	1489626043536_1387917	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.674560500000001E-4	1489626045002_474917	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0023130175000000003	1489626044637_864875	false	null
+android.database.sqlite.SQLiteClosable: void close()	8.8539985E-4	1489626044606_517875	false	null
+android.database.sqlite.SQLiteClosable: void close()	9.867597E-4	1489626044620_598542	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00143868	1489626044640_432000	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0024386941000000004	1489626044604_1994916	false	INSERT INTO weblog (_status, _data) VALUES ('queueing', '{"event":"start_app","time":"2017-03-15 18:00:44"}')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.003419043049999999	1489626044998_2885167	false	DELETE FROM weblog WHERE _rowid_ >= 1 and _rowid_ <= 2
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00367327045	1489626044593_1220917	false	CREATE TABLE weblog ( _status TEXT, _data TEXT );
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.004764149500000001	1489626044616_3733417	false	INSERT INTO weblog (_status, _data) VALUES ('queueing', '{"event":"ubid","time":"2017-03-15 18:00:44"}')
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0046640282500000005	1489626044635_2339208	false	UPDATE weblog SET _status = 'sending' WHERE _rowid_ >= 1 and _rowid_ <= 2

@@ -1,0 +1,5 @@
+update	0.0023333861500000005	0.00470429545	0.0043151387	0.0074643615	424958	3	359375	544500
+
+0.0023333861500000005	424958	5.490862979400318	UPDATE `persistent_context` SET `key` = ?, `value` = ? WHERE `id` = ?
+0.0043151387	359375	12.007342469565218	UPDATE `persistent_context` SET `key` = ?, `value` = ? WHERE `id` = ?
+0.0074643615	544500	13.708652892561984	UPDATE `alert_rule` SET `interval_type` = ?, `plan_config_id` = ?, `name` = ?, `rule_type` = ?, `threshold` = ?, `disable_data` = ?, `enabled` = ?, `interval_count` = ?, `is_aligned_to_plan` = ? WHERE `id` = ?

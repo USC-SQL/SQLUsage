@@ -1,0 +1,3 @@
+select	0.0114732293	0.0114732293	0.0114732293	0.0114732293	1240459	1	1240459	1240459
+
+0.0114732293	1240459	9.249180585573567	select *, users.idPk as userIdPk from users, challengeFriends where userIdFk = userIdPk and challengeIdFk=4

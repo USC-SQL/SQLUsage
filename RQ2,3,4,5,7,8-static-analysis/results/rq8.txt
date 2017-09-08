@@ -1,0 +1,26 @@
+1) Batched MSAs:
+Num of apps with MSA in loops:266
+Num of apps with batched MSA:103 Percentage(appWithBatchedMSA/appWithMSAInLoop):38%
+Num of intances:1054 Percentage:21%
+Percentage of the batched MSAs over all the MSAs in loops (Fig. 5):
+execSQL:12% replace:70% insert:52% update:12% delete:16% execute:50% 
+
+2) Unbatched MSAs:
+Num of apps with unbatched MSA:220
+Percentage(appWithUnbatchedMSALoop/appWithMSAInLoop):82%
+Percentage(appWithUnbatchedMSA/appWithSQL):37%
+
+Average MSA in loop not begin per app:9
+Median MSA in loop not begin per app:4
+
+Percentage of MSA in loop not begin in UI/ MSA in loop not begin:28%
+
+Length of call path between msa and loop (Length to Num of instances):{0=683, 1=671, 2=463, 3=83, 4=83, 5=22, 6=2, 7=7}
+0:33% 1:33% 2:22% 3:4% 4:4% 5:1% 6:0% 7:0% 
+MSA and Begin with call path length > 0:66%
+MSA and Begin with call path length >= 2:32%
+
+Percentage of unbatched MSAs that have the database object defined inside the loop:31%
+
+Length of call path length to the percentage of unbatched MSAsthat have the database object defined in loop:
+Length 0:2% Length 1:32% Length 2:61% Length 3:63% Length 4:45% Length 5:45% Length 6:100% Length 7:100% 

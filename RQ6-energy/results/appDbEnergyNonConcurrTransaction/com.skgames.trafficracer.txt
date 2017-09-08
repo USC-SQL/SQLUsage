@@ -1,0 +1,13 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0053493237	1489705829337_569292	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.0059923862000000015	1489705946474_1701209	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00480666385	1489705959339_1385000	false	null
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.00496127455	1489705965383_1101000	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.39604020155000014	1489705829203_52142583	false	null
+android.database.sqlite.SQLiteDatabase: long replace(java.lang.String,java.lang.String,android.content.ContentValues)	0.09847576020000003	1489705829322_14622041	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.011409075650000001	1489705829256_1027542	false	SELECT COUNT(val) from kv_store WHERE key LIKE 'event.%'
+android.database.sqlite.SQLiteDatabase: boolean isReadOnly()	0.007321525700000001	1489705829241_700625	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0107516686	1489705829320_1096000	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.04829835560000001	1489705835649_8414125	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.010236854750000001	1489705829201_1080792	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.016715819300000004	1489705829243_1938208	false	CREATE TABLE IF NOT EXISTS kv_store(key TEXT PRIMARY KEY, val TEXT)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00653154785	1489705829242_617083	false	PRAGMA foreign_key=ON

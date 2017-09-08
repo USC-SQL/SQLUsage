@@ -1,0 +1,9 @@
+insert	0.001744017025	0.003689864546428571	0.0023657412499999996	0.012131524349999999	680500	7	531833	1834375
+
+0.001744017025	680500	2.562846473181484	insert into entitySearch(entitySearch) values('optimize')
+0.001790861275	530250	3.377390429042904	insert into entitySearch (title) values (?)
+0.0018231390000000003	555583	3.281488094488133	insert into entityRoute (id,stars,numVotes,routeType,fa,rating,ratingConsensus,numPitches,numTicks,grade,height,displayOrder) values (?,?,?,?,?,?,?,?,?,?,?,?)
+0.0023657412499999996	531833	4.448278406943532	insert into entityImage (entityId,mpId,thumbPath,mediumUrl,description, thumbWidth, thumbHeight, mediumWidth, mediumHeight,contributor) values (?,?,?,?,?,?,?,?,?,?)
+0.0024556903250000004	456834	5.375454377301165	insert into entityComment (entityId,user,userStars,userRating,date,comment,type) values (?,?,?,?,?,?,?)
+0.0035180786	879417	4.000466900230494	insert into entityRoute (id,stars,numVotes,routeType,fa,rating,ratingConsensus,numPitches,numTicks,grade,height,displayOrder) values (?,?,?,?,?,?,?,?,?,?,?,?)
+0.012131524349999999	1834375	6.613437465076661	INSERT INTO TIMEDACTIONS (NAME, STARTTIME, ADJSTARTTIME) VALUES (@NAME, @START, @START)

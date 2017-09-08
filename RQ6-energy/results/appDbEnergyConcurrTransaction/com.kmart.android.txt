@@ -1,0 +1,9 @@
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.003584039375000001	1491007173369_3767125	false	null
+android.database.sqlite.SQLiteStatement: void execute()	0.13773534247499997	1491007234395_23044125	false	null
+android.database.sqlite.SQLiteStatement: void execute()	0.14120881234999988	1491007234357_28460625	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteStatement compileStatement(java.lang.String)	0.029610011000000006	1491007234307_3433125	false	INSERT INTO TIMEDACTIONS (NAME, STARTTIME, ADJSTARTTIME) VALUES (@NAME, @START, @START)
+android.database.sqlite.SQLiteProgram: void clearBindings()	0.0030070725250000005	1491007234386_442833	false	null
+android.database.sqlite.SQLiteProgram: void clearBindings()	0.004126388700000001	1491007234419_526167	false	null
+android.database.sqlite.SQLiteProgram: void bindString(int,java.lang.String)	0.0011394884000000003	1491007173369_859958	false	null
+android.database.sqlite.SQLiteProgram: void bindNull(int)	0.0013094953000000005	1491007173374_812041	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.09922541385000001	1491007234295_11828542	false	CREATE TABLE IF NOT EXISTS CONTEXTDATA (ID INTEGER PRIMARY KEY AUTOINCREMENT, ACTIONID INTEGER, KEY TEXT, VALUE TEXT, FOREIGN KEY(ACTIONID) REFERENCES TIMEDACTIONS(ID))

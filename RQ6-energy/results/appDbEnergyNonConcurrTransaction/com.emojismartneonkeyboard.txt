@@ -1,0 +1,16 @@
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.005787997950000001	1489186155081_426833	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0035438309	1489186155126_358166	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.21317395270000003	1489186155083_34150208	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.22258430280000005	1489186155127_44239917	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.018576807650000002	1489186155178_3884417	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00468567685	1489186155117_558333	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setProjectionMap(java.util.Map)	0.0057031159500000005	1489186155082_499333	false	null
+android.database.sqlite.SQLiteQueryBuilder: void setProjectionMap(java.util.Map)	0.0035438309	1489186155126_370291	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0034189459499999997	1489186155003_777542	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.012375992799999999	1489186155000_2004000	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.009600662050000002	1489186155108_1044125	false	CREATE TABLE words (_id INTEGER PRIMARY KEY,word TEXT,freq INTEGER,locale TEXT);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0071276390500000005	1489186155142_1170167	false	CREATE TABLE main (_id INTEGER PRIMARY KEY,word1 TEXT,word2 TEXT,locale TEXT);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0038921389500000004	1489186155141_563083	false	PRAGMA foreign_keys = ON;
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00472879975	1489186155143_704875	false	CREATE TABLE frequency (_id INTEGER PRIMARY KEY,pair_id INTEGER,freq INTEGER,FOREIGN KEY(pair_id) REFERENCES main(_id) ON DELETE CASCADE);
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0074783190499999996	1489186155080_665959	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.004995168550000001	1489186155125_670541	false	null

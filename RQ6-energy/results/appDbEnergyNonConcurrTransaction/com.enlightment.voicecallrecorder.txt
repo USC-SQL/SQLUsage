@@ -1,0 +1,29 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	7.860718000000001E-4	1489179942654_525166	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0039181145	1489179948129_955375	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0025331866000000004	1489179948132_523083	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0012830483	1489179942655_475167	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.00124320115	1489179942650_931958	false	null
+android.database.sqlite.SQLiteDatabase: void endTransaction()	0.07969400185	1489179863822_9803167	true	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.0024882856	1489179901849_1058917	false	null
+android.database.sqlite.SQLiteDatabase: int getVersion()	0.014768127800000003	1489179863813_1905917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.06433923260000005	1489179942603_45399417	false	null
+android.database.sqlite.SQLiteDatabase: void setVersion(int)	0.006637617350000001	1489179863820_507584	true	null
+android.database.sqlite.SQLiteDatabase: void beginTransaction()	0.011317531300000001	1489179863816_1111125	true	null
+android.database.sqlite.SQLiteDatabase: void setTransactionSuccessful()	0.0051051937	1489179863821_376542	true	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.01359793455	1489179863843_1246542	false	SELECT id, time from t_audios ORDER BY time DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0018164124000000002	1489179912577_989000	false	SELECT id, time from t_audios ORDER BY time DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0095621978	1489179863836_973625	false	SELECT COUNT(id), DATE(time) ONLYDATE from t_audios GROUP BY ONLYDATE ORDER BY ONLYDATE DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	8.209860000000001E-4	1489179901855_514584	false	SELECT COUNT(id), contact_name from t_audios GROUP BY contact_name ORDER BY contact_name
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0016475560500000001	1489179917254_950333	false	SELECT id, time from t_audios ORDER BY time DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0077998055	1489179863839_644917	false	SELECT COUNT(id), contact_name from t_audios GROUP BY contact_name ORDER BY contact_name
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.014691955650000001	1489179863850_1875375	false	SELECT id, contact_name, contact_number from t_audios WHERE contact_name=contact_number
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0079297495	1489179863833_760458	false	SELECT id, contact_name, contact_number from t_audios WHERE contact_name IS NULL
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0012871872	1489179901852_507042	false	SELECT id, time from t_audios ORDER BY time DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0020795414	1489179970776_824042	false	SELECT id, time from t_audios ORDER BY time DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0059432005	1489179863981_826166	false	SELECT id, time from t_audios ORDER BY time DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00250492895	1489179884619_2757042	false	SELECT id, time from t_audios ORDER BY time DESC
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0013960119	1489179901850_416458	false	SELECT id, contact_name, contact_number from t_audios WHERE contact_name IS NULL
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00253930755	1489179942601_1058625	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0023504056500000003	1489179905229_3252750	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00235538355	1489179942638_1459500	false	create table if not exists  t_ignore_list(id integer primary key autoincrement ,contact_name text, compare_number text not null, contact_number text not null)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.014232833949999999	1489179863818_1563916	true	CREATE TABLE IF NOT EXISTS t_audios (id INTEGER primary key autoincrement, contact_name TEXT, contact_number TEXT, call_type INTEGER, time DATETIME, duration INTEGER, filename TEXT, readed BOOLEAN)

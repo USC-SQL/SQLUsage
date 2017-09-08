@@ -1,0 +1,120 @@
+delete	0.00123256005	0.018382159763276836	0.009889715975000001	0.26528116538333324	367583	118	6753770	83427750
+
+0.00123256005	367583	DELETE FROM `web_service_queue` WHERE `id` = ?
+0.0018026715499999998	2733709	delete from Events where _id in (6)
+0.0022975495999999996	3243667	delete from Events where _id in (8)
+0.002321817	696292	DELETE FROM stored_key_values WHERE key=?
+0.0024346551500000002	673167	DELETE FROM `feedCardStates` WHERE `createdAt` < ?
+0.0026235217	700083	DELETE FROM stored_key_values WHERE key=?
+0.0026991393000000007	950875	DELETE FROM stored_key_values WHERE key=?
+0.0027345497000000004	968708	DELETE FROM admin WHERE var='db_version'
+0.002741444750000001	3071708	delete from Events where _id in (11)
+0.00278180605	735375	DELETE FROM stored_key_values WHERE key=?
+0.00289405255	864667	DELETE FROM stored_key_values WHERE key=?
+0.0031458004	1038292	DELETE FROM stored_key_values WHERE key=?
+0.0032127253500000004	2606916	delete from Events where _id in (10)
+0.003419043049999999	2885167	DELETE FROM weblog WHERE _rowid_ >= 1 and _rowid_ <= 2
+0.0035339560500000002	743875	DELETE FROM stored_key_values WHERE key=?
+0.004054009050000001	1842666	DELETE FROM `muted_notifications` WHERE `timestamp_gmt` <= 1490338800000
+0.0042465589	1628084	DELETE FROM param_body WHERE id_param_body_categ='1' AND date='20170308'
+0.00430346735	959625	DELETE FROM stored_key_values WHERE key=?
+0.0043967459	4019791	delete from Events where _id in (4)
+0.004800827899999999	2936083	DELETE FROM queued_request WHERE id=?
+0.0048524966000000015	8088291	delete from Events where _id in (17)
+0.0051484624	1372125	DELETE FROM stored_key_values WHERE key=?
+0.005216040450000001	1014750	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.0052379938	3240792	delete from Events where _id in (5)
+0.0056581659000000005	2016084	DELETE FROM categories WHERE filter_id = ?
+0.0057397281500000015	2917167	DELETE FROM android_metadata WHERE locale='en_US'
+0.005988823849999999	1859958	DELETE FROM categories WHERE filter_id = ?
+0.006079069600000002	1307750	delete from bilog where (select count(*) from bilog) > 9999 and _id in (select _id from bilog order by _id asc limit 100)
+0.00609117615	883542	DELETE FROM constants WHERE code='BackupOnline_Email'
+0.006288915	10232625	delete from Events where _id in (28)
+0.006377039300000001	1870292	DELETE FROM categories WHERE filter_id = ?
+0.00641858005	1834208	DELETE FROM categories WHERE filter_id = ?
+0.006629315650000001	2842792	DELETE FROM countrystate
+0.0067131653500000004	1859292	DELETE FROM categories WHERE filter_id = ?
+0.006818483300000001	713542	Delete from ColorInfo where Source is NULL
+0.00699361775	677166	Delete from PaletteInfo where GUID is NULL
+0.007001055450000002	3802584	DELETE FROM queued_request WHERE id=?
+0.00717539135	705791	DELETE FROM `delayed_tasks`
+0.00718861055	3750500	DELETE FROM queued_request WHERE id=?
+0.0071900927	1188416	DELETE FROM constants WHERE code='ShowLastResult'
+0.0072272909999999985	3011000	delete from Events where _id in (9)
+0.0073095981	1225083	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.007484409283333332	4073917	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276936315
+0.007851646400000002	2666042	DELETE FROM categories WHERE filter_id = ?
+0.0079754814	4598583	DELETE FROM queued_request WHERE id=?
+0.00805813665	1000625	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.0081257448	1962125	DELETE FROM categories WHERE filter_id = ?
+0.00831720435	1244458	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.0084458785	7604917	delete from Events where _id in (24)
+0.008678964850000002	1106916	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.008718188350000001	1340708	delete from bilog where (select count(*) from bilog) > 9999 and _id in (select _id from bilog order by _id asc limit 100)
+0.0089036221	1820250	DELETE FROM categories WHERE filter_id = ?
+0.00927733295	1646542	delete from bilog where (select count(*) from bilog) > 9999 and _id in (select _id from bilog order by _id asc limit 100)
+0.009506516400000003	3014541	DELETE FROM `app_usage_report_v2` WHERE `end_time` <= 1475276936303
+0.00954860015	4134250	DELETE FROM queued_request WHERE id=?
+0.009580332549999999	1098084	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.0095833221	1101500	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.0097296084	1266208	DELETE FROM `muted_notifications` WHERE `timestamp_gmt` <= 1490338800000
+0.00986107355	9522291	delete from Events where _id in (16)
+0.0099183584	3985250	DELETE FROM countrystate
+0.010056808600000001	1113834	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.0104025134	1737625	DELETE FROM `screen_unlock_count` WHERE `date` <= 1475276725223
+0.0108817204	2369166	DELETE FROM queued_request WHERE id=?
+0.011506816300000004	3357375	DELETE FROM  ab_logs
+0.011849068800000001	1938958	DELETE FROM constants WHERE code='StartWeek'
+0.011913606549999999	3432542	delete from system
+0.012207439500000002	1111875	delete from accs_message where create_time< date('now','-1 day')
+0.012357070500000003	3591292	delete from aggregated
+0.012624703150000001	9451125	delete from Events where _id in (26)
+0.0126299419	1330291	DELETE FROM `feed` WHERE `isLocal` = 0
+0.01288930295	1375791	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.012928530000000002	2805208	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.012953658650000003	10316292	delete from Events where _id in (14)
+0.0132262608	3128750	delete from aggregated
+0.013268077150000003	9777958	delete from T_DAY_TEMPLATE_1
+0.0134622889	3582875	delete from aggregated
+0.013488511550000002	2499750	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.0135983183	2322791	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.013632859399999996	8309333	delete from Events where _id in (20)
+0.0137640636	1106667	delete from statisticsue
+0.014739427050000002	1316500	delete from message where create_time< date('now','-7 day') and state=1
+0.015046963650000002	2943125	DELETE FROM queued_request WHERE id=?
+0.016087978500000003	5312125	DELETE FROM constants WHERE code='BackupOnline_Email'
+0.01622407615	1885000	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.016235703900000002	3154208	DELETE FROM queued_request WHERE id=?
+0.016313947350000003	8963250	delete from Events where _id in (22)
+0.01657193715	8301834	delete from Events where _id in (15)
+0.0169052865	3013750	DELETE FROM categories WHERE filter_id = ?
+0.01764537915	2473291	DELETE FROM queued_request WHERE id=?
+0.017748409499999996	3232334	delete from Events where _id in (3)
+0.01805714135	3410291	DELETE FROM cats
+0.018171665750000003	8485792	DELETE FROM queued_request WHERE id=?
+0.018847772550000003	4955958	DELETE FROM `past_impressions` WHERE `id` NOT IN (SELECT `id` FROM `past_impressions` ORDER BY `date` DESC LIMIT 1000)
+0.01900589305	4467250	DELETE FROM queued_request WHERE id=?
+0.019255710500000005	4263750	delete from system
+0.019519055650000002	3206083	DELETE FROM cats
+0.019959262300000002	6485584	delete from system
+0.023289819850000004	7799750	delete from Events where _id in (29)
+0.024838839900000007	3847916	DELETE FROM cats
+0.025053841349999998	8436583	delete from Events where _id in (23)
+0.02509286075	3305625	delete from system
+0.025667796200000006	4395958	delete from aggregated
+0.02661840439999999	22731000	delete from Events where _id in (25)
+0.02683306335	3117584	delete from Events where _id in (7)
+0.027273165900000007	3661334	delete from aggregated
+0.028400775350000004	9917625	delete from Events where _id in (27)
+0.0318910274	6999708	delete from system
+0.03291557235000001	13295125	DELETE FROM `delayed_tasks`
+0.03607925125	8403375	delete from Events where _id in (21)
+0.043416576400000004	8595584	delete from Events where _id in (19)
+0.049191772300000026	15825583	delete from Events where _id in (18)
+0.05892391275	24569500	delete from bilog where (select count(*) from bilog) > 9999 and _id in (select _id from bilog order by _id asc limit 100)
+0.07856011939999999	14369417	delete from limitedck
+0.08537046270000001	26662792	delete from limitedck
+0.10657387450000001	32226042	delete from limitedck
+0.11563220154999998	25034625	delete from limitedck
+0.1256287436	18234125	delete from limitedck
+0.26528116538333324	83427750	DELETE FROM config

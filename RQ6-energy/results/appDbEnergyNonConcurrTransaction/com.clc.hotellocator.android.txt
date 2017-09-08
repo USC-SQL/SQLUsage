@@ -1,0 +1,24 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(boolean,java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.00668225945	1489707348018_1041000	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(boolean,java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)	0.0056656357	1489707347990_960792	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.022444606600000003	1489707348012_4691583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.012851767299999999	1489707373771_7113041	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.009909814550000002	1489707373832_4913667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0096103957	1489707373809_4889334	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.36807007414999976	1489707347912_76856792	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.020069462899999998	1489707373816_9315667	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.022732618400000005	1489707373839_10197000	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.04842381739999999	1489707373780_25194667	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0034241465	1489707373806_1127750	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0075482390500000015	1489707347993_1253208	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.00820164495	1489707348020_1786708	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0022851416000000003	1489707373851_922667	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0025711973	1489707373827_925833	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0029215415	1489707373837_1255459	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.00258804675	1489707373815_1176959	false	null
+android.database.sqlite.SQLiteDatabase: int update(java.lang.String,android.content.ContentValues,java.lang.String,java.lang.String[])	0.0022146029499999997	1489707373778_874792	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0050249025	1489707348010_840500	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0017704655500000001	1489707373808_622083	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.015456192	1489707347909_2502041	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.002396427	1489707373830_658833	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.008437028250000003	1489707373766_3439667	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.011538306650000002	1489707347952_2345250	false	CREATE TABLE xm(_id INTEGER PRIMARY KEY AUTOINCREMENT, user_key TEXT, user_data BLOB);

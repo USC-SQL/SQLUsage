@@ -1,0 +1,10 @@
+android.database.sqlite.SQLiteDatabase: int delete(java.lang.String,java.lang.String,java.lang.String[])	0.044609439575000014	1491024418031_17254500	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.013225565424999997	1491024418026_4896750	false	null
+android.database.sqlite.SQLiteDatabase: android.database.sqlite.SQLiteDatabase openDatabase(java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.011431341725000007	1491024418029_3964625	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.002797803725	1491024418049_664958	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.00237976015	1491024418035_530083	false	SELECT name FROM sqlite_master WHERE name like 'LocationTable'
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0023502838999999998	1491024418052_480833	false	SELECT * from FIELDS
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0038726045000000006	1491024418053_902041	false	SELECT * FROM events ORDER BY created_at ASC LIMIT 50
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.001823878775	1491024418033_449584	false	SELECT name FROM sqlite_master
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0022466289000000004	1491024418027_720083	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.06431074252500002	1491024418037_14012500	false	null

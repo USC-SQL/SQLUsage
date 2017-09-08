@@ -1,0 +1,6 @@
+android.database.sqlite.SQLiteDatabase: android.database.Cursor query(java.lang.String,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.004382720800000001	1491115932408_658917	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.16813090405000014	1491115932368_39238500	false	null
+android.database.sqlite.SQLiteOpenHelper: void close()	0.0032466142000000006	1491115932410_508167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.005115768750000001	1491115932367_852875	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.00469337355	1491115932398_724042	false	CREATE TABLE purchased(_id TEXT PRIMARY KEY, quantity INTEGER)
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0056180964	1491115932396_1112917	false	CREATE TABLE history(_id TEXT PRIMARY KEY, state INTEGER, productId TEXT, developerPayload TEXT, purchaseTime INTEGER)

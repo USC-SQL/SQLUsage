@@ -1,0 +1,11 @@
+android.database.sqlite.SQLiteQueryBuilder: void setTables(java.lang.String)	0.0013671199833333331	1489019964615_726667	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.0017145025833333336	1489019964617_1155583	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.006685956050000003	1489019964612_3386333	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.0019596296250000006	1489019964626_825041	false	null
+android.database.sqlite.SQLiteDatabase: long insert(java.lang.String,java.lang.String,android.content.ContentValues)	0.02879706317499999	1489019964605_15292583	false	null
+android.database.sqlite.SQLiteDatabase: boolean isDatabaseIntegrityOk()	0.031087555975000007	1489019964616_23634958	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.003914092183333335	1489019964619_3009542	false	null
+android.database.sqlite.SQLiteQueryBuilder: android.database.Cursor query(android.database.sqlite.SQLiteDatabase,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String,java.lang.String,java.lang.String)	0.0026962059999999996	1489019968671_2493333	false	null
+android.database.sqlite.SQLiteDatabase: long insertWithOnConflict(java.lang.String,java.lang.String,android.content.ContentValues,int)	0.04794917735	1489019964628_22070209	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0021069432000000005	1489019968925_843208	false	null
+android.database.sqlite.SQLiteQueryBuilder: void <init>()	0.0037452561000000007	1489019964612_1831750	false	null

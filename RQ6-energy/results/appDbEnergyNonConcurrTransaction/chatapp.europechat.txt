@@ -1,0 +1,20 @@
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.012444190300000001	1489107765109_4468417	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.03562472995	1489107670115_5736958	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getReadableDatabase()	0.020441814150000005	1489107806735_8089625	false	null
+android.database.sqlite.SQLiteOpenHelper: android.database.sqlite.SQLiteDatabase getWritableDatabase()	0.28088595544999995	1489107670052_49673000	false	null
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0047908346	1489107670122_819459	false	SELECT _id FROM cats LIMIT 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0019297051000000001	1489107765114_512667	false	SELECT _id FROM cats LIMIT 1
+android.database.sqlite.SQLiteDatabase: android.database.Cursor rawQuery(java.lang.String,java.lang.String[])	0.0025761950500000005	1489107806744_1203041	false	SELECT _id FROM cats LIMIT 1
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00413131395	1489107670114_781458	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0034000660499999996	1489107765107_1061167	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.0080614164	1489107670051_624709	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.014912863950000002	1489107668173_3758041	false	null
+android.database.sqlite.SQLiteOpenHelper: void <init>(android.content.Context,java.lang.String,android.database.sqlite.SQLiteDatabase$CursorFactory,int)	0.00490590155	1489107806732_1753708	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.004872962450000001	1489107670124_977208	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.0032903205	1489107765116_1073667	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.006133784099999999	1489107670108_1069666	false	null
+android.database.sqlite.SQLiteClosable: void close()	0.00416866255	1489107806748_1340542	false	null
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.006907977250000001	1489107670088_1008416	false	CREATE TABLE fotos(_id integer PRIMARY KEY,idprod integer NOT NULL,url text NOT NULL,img_p blob,img blob,orden integer NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01848259205	1489107670085_2184375	false	CREATE TABLE productos (_id integer UNIQUE,orden integer PRIMARY KEY AUTOINCREMENT,ref text NOT NULL,titulo text NOT NULL,descr text NOT NULL,idcat integer NOT NULL,precio real,precio_descr text NOT NULL,anyo integer NOT NULL,mes integer NOT NULL,dia integer NOT NULL,url_detalle NOT NULL,url_compra NOT NULL,img1_p blob,img1 blob,img1_id integer NOT NULL,img1_url text NOT NULL,det_cargado integer NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.0054471543000000015	1489107670090_1018167	false	CREATE TABLE cats(_id integer PRIMARY KEY,idcat integer,descr text NOT NULL);
+android.database.sqlite.SQLiteDatabase: void execSQL(java.lang.String)	0.01805714135	1489107670103_3410291	false	DELETE FROM cats
